@@ -1,0 +1,3612 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cooper Electric",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 38th Street",
+        "housenumber": "29",
+        "lon": -73.9843282,
+        "lat": 40.7517475,
+        "state_code": "NY",
+        "formatted": "Cooper Electric, 29 West 38th Street, New York, NY 10018, United States of America",
+        "address_line1": "Cooper Electric",
+        "address_line2": "29 West 38th Street, New York, NY 10018, United States of America",
+        "categories": ["commercial", "commercial.trade"],
+        "details": ["details", "details.commercial", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fax": "+1 212-354-1786",
+            "name": "Cooper Electric",
+            "shop": "trade",
+            "brand": "Cooper Electric",
+            "email": "CMATSalesTeam@cooper-electric.com",
+            "level": 0,
+            "phone": "+1 212-299-0570",
+            "trade": "building_supplies",
+            "branch": "Manhattan",
+            "osm_id": 2709702371,
+            "website": "https://www.cooper-electric.com/about/location/manhattan",
+            "osm_type": "n",
+            "addr:street": "West 38th Street",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Fr 07:00-15:00",
+            "brand:wikidata": "Q109826296",
+            "addr:housenumber": 29
+          }
+        },
+        "website": "https://www.cooper-electric.com/about/location/manhattan",
+        "opening_hours": "Mo-Fr 07:00-15:00",
+        "brand": "Cooper Electric",
+        "brand_details": {
+          "wikidata": "Q109826296"
+        },
+        "branch": "Manhattan",
+        "contact": {
+          "phone": "+1 212-299-0570",
+          "email": "CMATSalesTeam@cooper-electric.com",
+          "fax": "+1 212-354-1786"
+        },
+        "commercial": {
+          "type": "trade",
+          "trade": "building_supplies",
+          "level": 0
+        },
+        "place_id": "51f4e1b43bff7e52c0599774184339604440f00103f901e3c682a10000000092030f436f6f70657220456c656374726963",
+        "distance": "155 m",
+        "edge": [59, 60]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9843282, 40.75174750036347]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chick-fil-A",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "6th Avenue",
+        "housenumber": "1000",
+        "lon": -73.9861214,
+        "lat": 40.7517237,
+        "state_code": "NY",
+        "formatted": "Chick-fil-A, 1000 6th Avenue, New York, NY 10018, United States of America",
+        "address_line1": "Chick-fil-A",
+        "address_line2": "1000 6th Avenue, New York, NY 10018, United States of America",
+        "categories": ["catering", "catering.fast_food", "internet_access"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Chick-fil-A",
+            "brand": "Chick-fil-A",
+            "level": "0;1",
+            "phone": "+1 212-704-9920",
+            "branch": "37th & 6th",
+            "osm_id": 3972056717,
+            "amenity": "fast_food",
+            "cuisine": "chicken",
+            "website": "https://www.chick-fil-a.com/Locations/NY/37th--6th-InLine",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "New York",
+            "addr:street": "6th Avenue",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Sa 06:30-22:00",
+            "brand:wikidata": "Q491516",
+            "internet_access": "wlan",
+            "addr:housenumber": 1000
+          }
+        },
+        "website": "https://www.chick-fil-a.com/Locations/NY/37th--6th-InLine",
+        "opening_hours": "Mo-Sa 06:30-22:00",
+        "brand": "Chick-fil-A",
+        "brand_details": {
+          "wikidata": "Q491516"
+        },
+        "branch": "37th & 6th",
+        "contact": {
+          "phone": "+1 212-704-9920"
+        },
+        "facilities": {
+          "internet_access": true,
+          "takeaway": true
+        },
+        "catering": {
+          "cuisine": "chicken"
+        },
+        "place_id": "51afb8ee9c1c7f52c0593a58727b38604440f00103f9018dc6c0ec0000000092030b436869636b2d66696c2d41",
+        "distance": "0 m",
+        "edge": [55, 59]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98612139999999, 40.751723700363485]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stavros Niarchos Foundation Library",
+        "old_name": "Mid-Manhattan Library",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "5th Avenue",
+        "housenumber": "455",
+        "lon": -73.98147727208311,
+        "lat": 40.751701499999996,
+        "state_code": "NY",
+        "formatted": "Stavros Niarchos Foundation Library, 455 5th Avenue, New York, NY 10018, United States of America",
+        "address_line1": "Stavros Niarchos Foundation Library",
+        "address_line2": "455 5th Avenue, New York, NY 10018, United States of America",
+        "categories": [
+          "building",
+          "building.public_and_civil",
+          "education",
+          "education.library",
+          "internet_access",
+          "internet_access.free",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.contact",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Stavros Niarchos Foundation Library",
+            "phone": "+1 212-340-0863",
+            "height": 31,
+            "osm_id": 265424467,
+            "amenity": "library",
+            "toilets": "yes",
+            "website": "https://www.nypl.org/locations/snfl",
+            "building": "yes",
+            "loc_name": "SNFL",
+            "old_name": "Mid-Manhattan Library",
+            "operator": "New York Public Library",
+            "osm_type": "w",
+            "ref:isil": "US-nnbr",
+            "wikidata": "Q69968634",
+            "addr:city": "New York",
+            "wikipedia": "en:Stavros Niarchos Foundation Library",
+            "addr:state": "NY",
+            "short_name": "SNFL",
+            "wheelchair": "yes",
+            "addr:street": "5th Avenue",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00; PH off",
+            "operator:type": "public",
+            "operator:short": "NYPL",
+            "toilets:access": "public",
+            "internet_access": "wlan;terminal",
+            "addr:housenumber": 455,
+            "air_conditioning": "yes",
+            "operator:wikidata": "Q219555",
+            "operator:wikipedia": "en:New York Public Library",
+            "internet_access:fee": "no"
+          }
+        },
+        "website": "https://www.nypl.org/locations/snfl",
+        "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00; PH off",
+        "operator": "New York Public Library",
+        "operator_details": {
+          "type": "public",
+          "wikidata": "Q219555",
+          "wikipedia": "en:New York Public Library"
+        },
+        "name_other": {
+          "old_name": "Mid-Manhattan Library",
+          "short_name": "SNFL",
+          "loc_name": "SNFL"
+        },
+        "ref_other": {
+          "isil": "US-nnbr"
+        },
+        "contact": {
+          "phone": "+1 212-340-0863"
+        },
+        "facilities": {
+          "internet_access": true,
+          "wheelchair": true,
+          "toilets": true,
+          "air_conditioning": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q69968634",
+          "wikipedia": "en:Stavros Niarchos Foundation Library"
+        },
+        "building": {
+          "height": 31
+        },
+        "place_id": "5150570c86d07e52c059273538c137604440f00102f901530ed20f0000000092032353746176726f73204e69617263686f7320466f756e646174696f6e204c696272617279",
+        "distance": "60 m",
+        "edge": [64, 66]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98147727208311, 40.751701500363474]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Andrews NYC Diner",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "7th Avenue",
+        "housenumber": "463",
+        "lon": -73.9898634,
+        "lat": 40.7516741,
+        "state_code": "NY",
+        "formatted": "Andrews NYC Diner, 463 7th Avenue, New York, NY 10018, United States of America",
+        "address_line1": "Andrews NYC Diner",
+        "address_line2": "463 7th Avenue, New York, NY 10018, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.american",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Andrews NYC Diner",
+            "phone": "+1-212-695-1962",
+            "osm_id": 3507260979,
+            "amenity": "restaurant",
+            "cuisine": "american;diner",
+            "website": "https://andrewsny.com/",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "New York",
+            "drink:tea": "yes",
+            "addr:state": "NY",
+            "wheelchair": "yes",
+            "addr:street": "7th Avenue",
+            "reservation": "yes",
+            "drink:coffee": "yes",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa, Su 07:00-23:00",
+            "addr:housenumber": 463
+          }
+        },
+        "website": "https://andrewsny.com/",
+        "opening_hours": "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa, Su 07:00-23:00",
+        "contact": {
+          "phone": "+1-212-695-1962"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "takeaway": true
+        },
+        "catering": {
+          "cuisine": "american;diner",
+          "reservation": "required"
+        },
+        "place_id": "5178a004ec597f52c059db275fdb36604440f00103f901338e0cd100000000920311416e6472657773204e59432044696e6572",
+        "distance": "0 m",
+        "edge": [41, 47]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98986339999999, 40.75167410036348]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Australian NYC",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 38th Street",
+        "housenumber": "20",
+        "lon": -73.9838618,
+        "lat": 40.7512973,
+        "state_code": "NY",
+        "formatted": "The Australian NYC, 20 West 38th Street, New York, NY 10018, United States of America",
+        "address_line1": "The Australian NYC",
+        "address_line2": "20 West 38th Street, New York, NY 10018, United States of America",
+        "categories": ["catering", "catering.restaurant"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Australian NYC",
+            "email": "info@theaustraliannyc.com",
+            "phone": "+1 212-869-9601",
+            "osm_id": 3040295633,
+            "amenity": "restaurant",
+            "cuisine": "australian",
+            "website": "https://theaustraliannyc.com/",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "wikidata": "Q15032055",
+            "cocktails": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "addr:street": "West 38th Street",
+            "happy_hours": "16:00-20:00",
+            "reservation": "yes",
+            "opening_hours": "Mo, Su 11:30-00:00; Tu, We 11:30-23:00; Th 11:30-02:00; Fr, Sa 11:30-04:00",
+            "addr:housenumber": 20
+          }
+        },
+        "website": "https://theaustraliannyc.com/",
+        "opening_hours": "Mo, Su 11:30-00:00; Tu, We 11:30-23:00; Th 11:30-02:00; Fr, Sa 11:30-04:00",
+        "contact": {
+          "phone": "+1 212-869-9601",
+          "email": "info@theaustraliannyc.com"
+        },
+        "facilities": {
+          "takeaway": true,
+          "delivery": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q15032055"
+        },
+        "catering": {
+          "cuisine": "australian",
+          "reservation": "required"
+        },
+        "place_id": "5128b27b97f77e52c05927518b822a604440f00103f901d13a37b500000000920312546865204175737472616c69616e204e5943",
+        "distance": "170 m",
+        "edge": [59, 60]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9838618, 40.751297300363426]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rituals",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Garment District",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1333",
+        "lon": -73.9879054,
+        "lat": 40.7512172,
+        "state_code": "NY",
+        "formatted": "Rituals, 1333 Broadway, New York, NY 10018, United States of America",
+        "address_line1": "Rituals",
+        "address_line2": "1333 Broadway, New York, NY 10018, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.health_and_beauty",
+          "commercial.health_and_beauty.cosmetics"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Rituals",
+            "shop": "cosmetics",
+            "brand": "Rituals",
+            "email": "newyork.heraldsq@rituals.com",
+            "phone": "+1 917-675-7699",
+            "branch": "Herald Square",
+            "osm_id": 3451315856,
+            "website": "https://www.rituals.com/en-us/store-detail?store=Herald-Square",
+            "osm_type": "n",
+            "addr:street": "Broadway",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+            "brand:wikidata": "Q62874140",
+            "addr:housenumber": 1333
+          }
+        },
+        "website": "https://www.rituals.com/en-us/store-detail?store=Herald-Square",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "brand": "Rituals",
+        "brand_details": {
+          "wikidata": "Q62874140"
+        },
+        "branch": "Herald Square",
+        "contact": {
+          "phone": "+1 917-675-7699",
+          "email": "newyork.heraldsq@rituals.com"
+        },
+        "commercial": {
+          "type": "cosmetics"
+        },
+        "place_id": "51ad2292d7397f52c05974e09de227604440f00103f90190e6b6cd0000000092030752697475616c73",
+        "distance": "190 m",
+        "edge": [47, 48]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9879054, 40.75121720036341]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blaggards Pub",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 38th Street",
+        "housenumber": "8",
+        "lon": -73.9836072,
+        "lat": 40.7511973,
+        "state_code": "NY",
+        "formatted": "Blaggards Pub, 8 West 38th Street, New York, NY 10018, United States of America",
+        "address_line1": "Blaggards Pub",
+        "address_line2": "8 West 38th Street, New York, NY 10018, United States of America",
+        "categories": ["catering", "catering.pub"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blaggards Pub",
+            "email": "blaggards@verizon.net",
+            "phone": "+1 212-382-2611",
+            "osm_id": 3040296939,
+            "amenity": "pub",
+            "website": "https://blaggardsnyc.com",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "cocktails": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "addr:street": "West 38th Street",
+            "happy_hours": "Mo-Fr 16:00-19:00",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Sa 11:00-04:00; Su 12:00-04:00",
+            "addr:housenumber": 8
+          }
+        },
+        "website": "https://blaggardsnyc.com",
+        "opening_hours": "Mo-Sa 11:00-04:00; Su 12:00-04:00",
+        "contact": {
+          "phone": "+1 212-382-2611",
+          "email": "blaggards@verizon.net"
+        },
+        "facilities": {
+          "takeaway": true,
+          "delivery": true
+        },
+        "place_id": "510c079d6bf37e52c059c2f3ae3b27604440f00103f901eb3f37b50000000092030d426c6167676172647320507562",
+        "distance": "175 m",
+        "edge": [59, 60]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9836072, 40.751197300363415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pok\u00e9 Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Garment District",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1333",
+        "lon": -73.9879376,
+        "lat": 40.7510615,
+        "state_code": "NY",
+        "formatted": "Pok\u00e9 Bar, 1333 Broadway, New York, NY 10018, United States of America",
+        "address_line1": "Pok\u00e9 Bar",
+        "address_line2": "1333 Broadway, New York, NY 10018, United States of America",
+        "categories": [
+          "catering",
+          "catering.fast_food",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": ["details", "details.contact", "details.facilities"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "dish": "pok\u00e9",
+            "name": "Pok\u00e9 Bar",
+            "phone": "+1 212-244-4320",
+            "osm_id": 3451315853,
+            "amenity": "fast_food",
+            "website": "https://www.ilovepokebar.com/locations/new-york",
+            "osm_type": "n",
+            "wheelchair": "yes",
+            "addr:street": "Broadway",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Fr 11:00-21:00; Sa 11:00-20:00; Su 11:30-20:00",
+            "addr:housenumber": 1333
+          }
+        },
+        "website": "https://www.ilovepokebar.com/locations/new-york",
+        "opening_hours": "Mo-Fr 11:00-21:00; Sa 11:00-20:00; Su 11:30-20:00",
+        "contact": {
+          "phone": "+1 212-244-4320"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "place_id": "51479fa05e3a7f52c05938ac82c822604440f00103f9018de6b6cd00000000920309506f6bc3a920426172",
+        "distance": "45 m",
+        "edge": [42, 48]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9879376, 40.75106150036339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Urban Outfitters",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10018",
+        "district": "Garment District",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1333",
+        "lon": -73.9880113,
+        "lat": 40.7509578,
+        "state_code": "NY",
+        "formatted": "Urban Outfitters, 1333 Broadway, New York, NY 10018, United States of America",
+        "address_line1": "Urban Outfitters",
+        "address_line2": "1333 Broadway, New York, NY 10018, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.clothing",
+          "commercial.clothing.clothes",
+          "internet_access",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Urban Outfitters",
+            "shop": "clothes",
+            "brand": "Urban Outfitters",
+            "level": "-1;0;1",
+            "phone": "+1 212-239-1673",
+            "branch": "Herald Square",
+            "osm_id": 3451315857,
+            "website": "https://www.urbanoutfitters.com/stores/herald-square",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "wheelchair": "limited",
+            "addr:street": "Broadway",
+            "addr:country": "US",
+            "addr:postcode": 10018,
+            "opening_hours": "Mo-Sa 10:00-22:00; Su 10:00-21:00",
+            "brand:wikidata": "Q3552193",
+            "internet_access": "wlan",
+            "addr:housenumber": 1333
+          }
+        },
+        "website": "https://www.urbanoutfitters.com/stores/herald-square",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 10:00-21:00",
+        "brand": "Urban Outfitters",
+        "brand_details": {
+          "wikidata": "Q3552193"
+        },
+        "branch": "Herald Square",
+        "contact": {
+          "phone": "+1 212-239-1673"
+        },
+        "facilities": {
+          "internet_access": true,
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "commercial": {
+          "type": "clothes",
+          "level": "-1;0;1"
+        },
+        "place_id": "510565bf933b7f52c059519e9c621f604440f00103f90191e6b6cd00000000920310557262616e204f757466697474657273",
+        "distance": "20 m",
+        "edge": [42, 48]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9880113, 40.75095780036339]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macy's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Garment District",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "151",
+        "lon": -73.98925506526803,
+        "lat": 40.75088945,
+        "state_code": "NY",
+        "formatted": "Macy's, 151 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "Macy's",
+        "address_line2": "151 West 34th Street, New York, NY 10001, United States of America",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.department_store",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.contact",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Macy's",
+            "shop": "department_store",
+            "brand": "Macy's",
+            "phone": "+1-212-695-4400",
+            "height": 50.8,
+            "osm_id": 265302069,
+            "twitter": "http://twitter.com/macys",
+            "website": "https://www.macys.com/stores/ny/newyork/herald-square_3.html",
+            "building": "yes",
+            "facebook": "http://www.facebook.com/macys",
+            "osm_type": "w",
+            "ref:nrhp": 78001873,
+            "wikidata": "Q6725862",
+            "addr:city": "New York",
+            "wikipedia": "en:Macy's Herald Square",
+            "addr:state": "NY",
+            "start_date": 1901,
+            "wheelchair": "limited",
+            "addr:street": "West 34th Street",
+            "addr:country": "US",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-21:00",
+            "brand:wikidata": "Q629269",
+            "addr:housenumber": 151
+          }
+        },
+        "website": "https://www.macys.com/stores/ny/newyork/herald-square_3.html",
+        "opening_hours": "Mo-Sa 10:00-22:00; Su 11:00-21:00",
+        "brand": "Macy's",
+        "brand_details": {
+          "wikidata": "Q629269"
+        },
+        "ref_other": {
+          "nrhp": 78001873
+        },
+        "contact": {
+          "phone": "+1-212-695-4400"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6725862",
+          "wikipedia": "en:Macy's Herald Square"
+        },
+        "building": {
+          "start_date": 1901,
+          "height": 50.8
+        },
+        "commercial": {
+          "type": "department_store"
+        },
+        "place_id": "51a02e7af44f7f52c0596f1c40251d604440f00102f9013530d00f000000009203064d6163792773",
+        "distance": "110 m",
+        "edge": [34, 35]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98925506526803, 40.75088945036338]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mad Dog & Beans Mexican Cantina",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "East 38th Street",
+        "housenumber": "5",
+        "lon": -73.9819745,
+        "lat": 40.7507533,
+        "state_code": "NY",
+        "formatted": "Mad Dog & Beans Mexican Cantina, 5 East 38th Street, New York, NY 10016, United States of America",
+        "address_line1": "Mad Dog & Beans Mexican Cantina",
+        "address_line2": "5 East 38th Street, New York, NY 10016, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.mexican"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Mad Dog & Beans Mexican Cantina",
+            "email": "info@mdb38.com",
+            "phone": "+1-646-998-5722",
+            "osm_id": 2710917577,
+            "amenity": "restaurant",
+            "cuisine": "mexican",
+            "website": "https://www.maddogandbeans.com",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "East 38th Street",
+            "addr:postcode": 10016,
+            "opening_hours": "Su-Th 12:00-22:00; We 12:00-23:00; Th-Sa 12:00-00:00",
+            "addr:housenumber": 5,
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes",
+            "payment:nfc_mobile_payments": "yes"
+          }
+        },
+        "website": "https://www.maddogandbeans.com",
+        "opening_hours": "Su-Th 12:00-22:00; We 12:00-23:00; Th-Sa 12:00-00:00",
+        "contact": {
+          "phone": "+1-646-998-5722",
+          "email": "info@mdb38.com"
+        },
+        "payment_options": {
+          "debit_cards": true,
+          "credit_cards": true,
+          "nfc_mobile_payments": true
+        },
+        "catering": {
+          "cuisine": "mexican"
+        },
+        "place_id": "5161c092abd87e52c0595e3624af18604440f00103f901c95195a10000000092031f4d616420446f672026204265616e73204d65786963616e2043616e74696e61",
+        "distance": "65 m",
+        "edge": [60, 61]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98197449999999, 40.75075330036337]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wafels & Dinges",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Herald Square",
+        "suburb": "Manhattan",
+        "street": "West 35th Street",
+        "housenumber": "102",
+        "lon": -73.9876085423913,
+        "lat": 40.7505004,
+        "state_code": "NY",
+        "formatted": "Wafels & Dinges, 102 West 35th Street, New York, NY 10001, United States of America",
+        "address_line1": "Wafels & Dinges",
+        "address_line2": "102 West 35th Street, New York, NY 10001, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "catering",
+          "catering.restaurant",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wafels & Dinges",
+            "phone": "+1 646-257-2592",
+            "branch": "Herald Square",
+            "osm_id": 319773435,
+            "amenity": "restaurant",
+            "cuisine": "dessert",
+            "website": "https://dinges.nyc/",
+            "building": "yes",
+            "osm_type": "w",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "wheelchair": "yes",
+            "addr:street": "West 35th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "09:00-22:00",
+            "addr:housenumber": 102
+          }
+        },
+        "website": "https://dinges.nyc/",
+        "opening_hours": "09:00-22:00",
+        "branch": "Herald Square",
+        "contact": {
+          "phone": "+1 646-257-2592"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "catering": {
+          "cuisine": "dessert"
+        },
+        "place_id": "5189b475fa347f52c0590599a96510604440f00102f901fb5a0f130000000092030f576166656c7320262044696e676573",
+        "distance": "45 m",
+        "edge": [42, 43]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9876085423913, 40.75050040036334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Crocs",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10120",
+        "district": "Chelsea District",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "152",
+        "lon": -73.99014793400593,
+        "lat": 40.75048065,
+        "state_code": "NY",
+        "formatted": "Crocs, 152 West 34th Street, New York, NY 10120, United States of America",
+        "address_line1": "Crocs",
+        "address_line2": "152 West 34th Street, New York, NY 10120, United States of America",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.clothing",
+          "commercial.clothing.shoes"
+        ],
+        "details": ["details", "details.building", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Crocs",
+            "shop": "shoes",
+            "brand": "Crocs",
+            "phone": "+1 212-695-4090",
+            "height": 12.1,
+            "osm_id": 265301819,
+            "website": "https://locations.crocs.com/ny/new-york/10000049/",
+            "building": "retail",
+            "osm_type": "w",
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10120,
+            "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+            "brand:wikidata": "Q926699",
+            "building:levels": 3,
+            "addr:housenumber": 152,
+            "contact:facebook": "https://www.facebook.com/Crocs-963905163691649/"
+          }
+        },
+        "website": "https://locations.crocs.com/ny/new-york/10000049/",
+        "opening_hours": "Mo-Sa 09:00-21:00; Su 10:00-21:00",
+        "brand": "Crocs",
+        "brand_details": {
+          "wikidata": "Q926699"
+        },
+        "contact": {
+          "phone": "+1 212-695-4090"
+        },
+        "building": {
+          "levels": 3,
+          "type": "retail",
+          "height": 12.1
+        },
+        "commercial": {
+          "type": "shoes"
+        },
+        "place_id": "5179b070955e7f52c059b0cbfcbf0f604440f00102f9013b2fd00f0000000092030543726f6373",
+        "distance": "30 m",
+        "edge": [34, 35]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99014793400592, 40.75048065036333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Old Navy",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Chelsea District",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "144-150",
+        "lon": -73.99014756132081,
+        "lat": 40.7502999,
+        "state_code": "NY",
+        "formatted": "Old Navy, 144-150 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "Old Navy",
+        "address_line2": "144-150 West 34th Street, New York, NY 10001, United States of America",
+        "categories": [
+          "building",
+          "building.commercial",
+          "commercial",
+          "commercial.clothing",
+          "commercial.clothing.clothes",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.commercial",
+          "details.contact",
+          "details.facilities",
+          "details.targeted_for"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Old Navy",
+            "shop": "clothes",
+            "brand": "Old Navy",
+            "phone": "+1 212-594-0049",
+            "branch": "Herald Square",
+            "height": 19.9,
+            "osm_id": 265302051,
+            "clothes": "women;denim;children;men;oversize;babies",
+            "toilets": "yes",
+            "website": "https://oldnavy.gap.com/products/new-york-ny-store-5927.jsp",
+            "building": "retail",
+            "operator": "Gap",
+            "osm_type": "w",
+            "wheelchair": "yes",
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+            "brand:wikidata": "Q2735242",
+            "building:levels": 3,
+            "addr:housenumber": "144-150",
+            "building:max_level": 2,
+            "building:min_level": -1,
+            "toilets:wheelchair": "designated"
+          }
+        },
+        "website": "https://oldnavy.gap.com/products/new-york-ny-store-5927.jsp",
+        "opening_hours": "Mo-Sa 08:00-22:00; Su 09:00-22:00",
+        "brand": "Old Navy",
+        "brand_details": {
+          "wikidata": "Q2735242"
+        },
+        "operator": "Gap",
+        "branch": "Herald Square",
+        "contact": {
+          "phone": "+1 212-594-0049"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "toilets": true
+        },
+        "targeted_for": {
+          "man": true,
+          "woman": true,
+          "child": true
+        },
+        "building": {
+          "levels": 3,
+          "type": "retail",
+          "height": 19.9
+        },
+        "commercial": {
+          "type": "clothes",
+          "clothes": "women;denim;children;men;oversize;babies"
+        },
+        "place_id": "519285e0935e7f52c0595220bfd309604440f00102f9012330d00f000000009203084f6c64204e617679",
+        "distance": "40 m",
+        "edge": [34, 35]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99014756132081, 40.750299900363316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Sunglass Hut",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Herald Square",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1313",
+        "lon": -73.9880993,
+        "lat": 40.750134,
+        "state_code": "NY",
+        "formatted": "Sunglass Hut, 1313 Broadway, New York, NY 10001, United States of America",
+        "address_line1": "Sunglass Hut",
+        "address_line2": "1313 Broadway, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.health_and_beauty",
+          "commercial.health_and_beauty.optician"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.contact",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Sunglass Hut",
+            "shop": "optician",
+            "brand": "Sunglass Hut",
+            "level": 0,
+            "phone": "+1-212-947-7789",
+            "osm_id": 2709702271,
+            "website": "https://stores.sunglasshut.com/us/ny/new-york/1313-broadway---34th-st.html",
+            "osm_type": "n",
+            "wikidata": "Q6859741",
+            "addr:street": "Broadway",
+            "addr:postcode": 10001,
+            "brand:wikidata": "Q136311",
+            "addr:housenumber": 1313
+          }
+        },
+        "website": "https://stores.sunglasshut.com/us/ny/new-york/1313-broadway---34th-st.html",
+        "brand": "Sunglass Hut",
+        "brand_details": {
+          "wikidata": "Q136311"
+        },
+        "contact": {
+          "phone": "+1-212-947-7789"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q6859741"
+        },
+        "commercial": {
+          "type": "optician",
+          "level": 0
+        },
+        "place_id": "51d4acd8043d7f52c059c996136404604440f00103f9017fc682a10000000092030c53756e676c61737320487574",
+        "distance": "250 m",
+        "edge": [34, 35]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98809929999999, 40.750134000363296]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serafina Italian Restaurant",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 6",
+        "suburb": "Manhattan",
+        "street": "Madison Avenue",
+        "housenumber": "241",
+        "lon": -73.9811517,
+        "lat": 40.7500156,
+        "state_code": "NY",
+        "formatted": "Serafina Italian Restaurant, 241 Madison Avenue, New York, NY 10016, United States of America",
+        "address_line1": "Serafina Italian Restaurant",
+        "address_line2": "241 Madison Avenue, New York, NY 10016, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.italian"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Serafina Italian Restaurant",
+            "phone": "+1-646-779-7667",
+            "branch": "Madison 38th",
+            "osm_id": 2714855295,
+            "amenity": "restaurant",
+            "cuisine": "italian",
+            "website": "https://www.serafinarestaurant.com/location/serafina-madison-38th/",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "Madison Avenue",
+            "addr:postcode": 10016,
+            "opening_hours": "Mo-Su 07:00-22:00",
+            "addr:housenumber": 241,
+            "payment:contactless": "yes",
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "website": "https://www.serafinarestaurant.com/location/serafina-madison-38th/",
+        "opening_hours": "Mo-Su 07:00-22:00",
+        "branch": "Madison 38th",
+        "contact": {
+          "phone": "+1-646-779-7667"
+        },
+        "payment_options": {
+          "contactless": true,
+          "debit_cards": true,
+          "credit_cards": true
+        },
+        "catering": {
+          "cuisine": "italian"
+        },
+        "place_id": "518bfa7f30cb7e52c0596886dd8200604440f00103f9017f67d1a10000000092031b5365726166696e61204974616c69616e2052657374617572616e74",
+        "distance": "65 m",
+        "edge": [57, 61]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98115169999998, 40.75001560036327]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tannen\u2019s Magic",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "45",
+        "lon": -73.9868496,
+        "lat": 40.7497605,
+        "state_code": "NY",
+        "formatted": "Tannen\u2019s Magic, 45 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "Tannen\u2019s Magic",
+        "address_line2": "45 West 34th Street, New York, NY 10001, United States of America",
+        "categories": ["commercial"],
+        "details": ["details", "details.contact", "details.wiki_and_media"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Tannen\u2019s Magic",
+            "shop": "magic",
+            "phone": "+1-212-929-4500",
+            "osm_id": 6008662685,
+            "website": "https://www.tannens.com",
+            "osm_type": "n",
+            "wikidata": "Q14707412",
+            "addr:unit": 608,
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-16:00",
+            "addr:housenumber": 45
+          }
+        },
+        "website": "https://www.tannens.com",
+        "opening_hours": "Mo-Fr 11:00-18:00; Sa 10:00-16:00",
+        "contact": {
+          "phone": "+1-212-929-4500"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q14707412"
+        },
+        "commercial": {
+          "type": "magic"
+        },
+        "place_id": "518584398b287f52c0594772ee26f85f4440f00103f9019dea24660100000092031054616e6e656ee2809973204d61676963",
+        "distance": "75 m",
+        "edge": [35, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98684959999999, 40.74976050036326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Consulate General of Poland",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 6",
+        "suburb": "Manhattan",
+        "street": "Madison Avenue",
+        "housenumber": "233",
+        "lon": -73.9812698,
+        "lat": 40.749709,
+        "state_code": "NY",
+        "formatted": "Consulate General of Poland, 233 Madison Avenue, New York, NY 10016, United States of America",
+        "address_line1": "Consulate General of Poland",
+        "address_line2": "233 Madison Avenue, New York, NY 10016, United States of America",
+        "categories": [
+          "building",
+          "building.office",
+          "office",
+          "office.diplomatic"
+        ],
+        "details": ["details", "details.contact", "details.wiki_and_media"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Consulate General of Poland",
+            "email": "nowyjork.kg.sekretariat@msz.gov.pl",
+            "phone": "+1 646 2372100",
+            "office": "diplomatic",
+            "osm_id": 10166042624,
+            "target": "US",
+            "country": "PL",
+            "name:en": "Consulate General of Poland",
+            "name:pl": "Konsulat Generalny RP",
+            "website": "https://newyork.mfa.gov.pl/",
+            "building": "yes",
+            "osm_type": "n",
+            "wikidata": "Q7209895",
+            "addr:city": "New York",
+            "consulate": "consulate_general",
+            "wikipedia": "en:Consulate General of Poland, New York City",
+            "addr:state": "NY",
+            "diplomatic": "consulate",
+            "addr:street": "Madison Avenue",
+            "addr:postcode": 10016,
+            "opening_hours": "Mo,Tu,Th,Fr 08:30-14:30; We 11:30-17:30",
+            "addr:housenumber": 233,
+            "official_name:pl": "Konsulat Generalny RP w Nowym Jorku",
+            "emergency_telephone_code": "+1 646 2372108"
+          }
+        },
+        "website": "https://newyork.mfa.gov.pl/",
+        "opening_hours": "Mo,Tu,Th,Fr 08:30-14:30; We 11:30-17:30",
+        "name_international": {
+          "en": "Consulate General of Poland",
+          "pl": "Konsulat Generalny RP"
+        },
+        "contact": {
+          "phone": "+1 646 2372100",
+          "email": "nowyjork.kg.sekretariat@msz.gov.pl"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q7209895",
+          "wikipedia": "en:Consulate General of Poland, New York City"
+        },
+        "place_id": "515ce3d81fcd7e52c059da09eb76f65f4440f00103f9010080f15d0200000092031b436f6e73756c6174652047656e6572616c206f6620506f6c616e64",
+        "distance": "20 m",
+        "edge": [57, 61]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9812698, 40.74970900036324]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Costas",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 35th Street",
+        "housenumber": "30",
+        "lon": -73.9856911,
+        "lat": 40.7496644,
+        "state_code": "NY",
+        "formatted": "Costas, 30 West 35th Street, New York, NY 10001, United States of America",
+        "address_line1": "Costas",
+        "address_line2": "30 West 35th Street, New York, NY 10001, United States of America",
+        "categories": ["catering", "catering.fast_food"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Costas",
+            "phone": "+1-646-564-3545",
+            "osm_id": 2709702369,
+            "amenity": "fast_food",
+            "cuisine": "latin_american",
+            "website": "https://www.costasnyc.com/location/costas-nyc/",
+            "osm_type": "n",
+            "takeaway": "only",
+            "addr:street": "West 35th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Fr 11:00-20:00",
+            "addr:housenumber": 30
+          }
+        },
+        "website": "https://www.costasnyc.com/location/costas-nyc/",
+        "opening_hours": "Mo-Fr 11:00-20:00",
+        "contact": {
+          "phone": "+1-646-564-3545"
+        },
+        "facilities": {
+          "takeaway": true
+        },
+        "catering": {
+          "cuisine": "latin_american"
+        },
+        "place_id": "51549d1f90157f52c0598e44c900f55f4440f00103f901e1c682a100000000920306436f73746173",
+        "distance": "155 m",
+        "edge": [43, 44]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9856911, 40.749664400363244]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Levi's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "45",
+        "lon": -73.9869344,
+        "lat": 40.7496249,
+        "state_code": "NY",
+        "formatted": "Levi's, 45 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "Levi's",
+        "address_line2": "45 West 34th Street, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.clothing",
+          "commercial.clothing.clothes",
+          "commercial.clothing.men",
+          "commercial.clothing.women",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.contact",
+          "details.facilities",
+          "details.targeted_for"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Levi's",
+            "shop": "clothes",
+            "brand": "Levi's",
+            "phone": "+1-212-643-4358",
+            "osm_id": 3927150552,
+            "clothes": "denim;men;women",
+            "website": "https://locations.levi.com/en-us/ny/newyork/denim_new-york_ny_183.html",
+            "osm_type": "n",
+            "wheelchair": "limited",
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+            "brand:wikidata": "Q127962",
+            "addr:housenumber": 45
+          }
+        },
+        "website": "https://locations.levi.com/en-us/ny/newyork/denim_new-york_ny_183.html",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-19:00",
+        "brand": "Levi's",
+        "brand_details": {
+          "wikidata": "Q127962"
+        },
+        "contact": {
+          "phone": "+1-212-643-4358"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          }
+        },
+        "targeted_for": {
+          "man": true,
+          "woman": true,
+          "child": true
+        },
+        "commercial": {
+          "type": "clothes",
+          "clothes": "denim;men;women"
+        },
+        "place_id": "5108d3e6ee297f52c059e6a96fb5f35f4440f00103f901d88f13ea000000009203064c6576692773",
+        "distance": "75 m",
+        "edge": [35, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9869344, 40.74962490036323]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter Dillon's",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "East 36th Street",
+        "housenumber": "2",
+        "lon": -73.9832785,
+        "lat": 40.7494523,
+        "state_code": "NY",
+        "formatted": "Peter Dillon's, 2 East 36th Street, New York, NY 10016, United States of America",
+        "address_line1": "Peter Dillon's",
+        "address_line2": "2 East 36th Street, New York, NY 10016, United States of America",
+        "categories": ["catering", "catering.pub"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Peter Dillon's",
+            "email": "peterdillons36@gmail.com",
+            "phone": "+1-212-300-4091",
+            "branch": "36th Street",
+            "osm_id": 2710917515,
+            "amenity": "pub",
+            "website": "https://www.peterdillons.com/",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "East 36th Street",
+            "addr:postcode": 10016,
+            "opening_hours": "Mo-Su 12:00-04:00",
+            "outdoor_seating": "sidewalk",
+            "addr:housenumber": 2
+          }
+        },
+        "website": "https://www.peterdillons.com/",
+        "opening_hours": "Mo-Su 12:00-04:00",
+        "branch": "36th Street",
+        "contact": {
+          "phone": "+1-212-300-4091",
+          "email": "peterdillons36@gmail.com"
+        },
+        "facilities": {
+          "outdoor_seating": true
+        },
+        "place_id": "510917f208ee7e52c05969fc8f0dee5f4440f00103f9018b5195a10000000092030e50657465722044696c6c6f6e2773",
+        "distance": "10 m",
+        "edge": [50, 51]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9832785, 40.74945230036321]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Morgan Library & Museum",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 6",
+        "suburb": "Manhattan",
+        "street": "Madison Avenue",
+        "housenumber": "225",
+        "lon": -73.9814793,
+        "lat": 40.7491907,
+        "state_code": "NY",
+        "formatted": "The Morgan Library & Museum, 225 Madison Avenue, New York, NY 10016, United States of America",
+        "address_line1": "The Morgan Library & Museum",
+        "address_line2": "225 Madison Avenue, New York, NY 10016, United States of America",
+        "categories": ["entertainment", "entertainment.museum"],
+        "details": ["details", "details.contact", "details.wiki_and_media"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "The Morgan Library & Museum",
+            "phone": "+1-212-685-0008",
+            "museum": "art",
+            "osm_id": 4462440249,
+            "name:en": "The Morgan Library & Museum",
+            "tourism": "museum",
+            "website": "https://www.themorgan.org/",
+            "osm_type": "n",
+            "wikidata": "Q1478423",
+            "addr:city": "New York",
+            "wikipedia": "en:Morgan Library & Museum",
+            "addr:state": "NY",
+            "addr:street": "Madison Avenue",
+            "addr:postcode": 10016,
+            "opening_hours": "Tu-Su 10:00-17:30",
+            "addr:housenumber": 225
+          }
+        },
+        "website": "https://www.themorgan.org/",
+        "opening_hours": "Tu-Su 10:00-17:30",
+        "name_international": {
+          "en": "The Morgan Library & Museum"
+        },
+        "contact": {
+          "phone": "+1-212-685-0008"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q1478423",
+          "wikipedia": "en:Morgan Library & Museum"
+        },
+        "place_id": "51ddcc8d8ed07e52c0597b431a7be55f4440f00103f901396ffb090100000092031b546865204d6f7267616e204c6962726172792026204d757365756d",
+        "distance": "40 m",
+        "edge": [51, 57]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9814793, 40.74919070036318]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Timberland",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "28",
+        "lon": -73.9864378,
+        "lat": 40.7490602,
+        "state_code": "NY",
+        "formatted": "Timberland, 28 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "Timberland",
+        "address_line2": "28 West 34th Street, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.clothing",
+          "commercial.clothing.clothes",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Timberland",
+            "shop": "clothes",
+            "brand": "Timberland",
+            "level": 0,
+            "phone": "+1-212-564-5921",
+            "osm_id": 2709306607,
+            "website": "https://locations.timberland.com/ny/new-york/252/",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "wheelchair": "yes",
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00",
+            "brand:wikidata": "Q1539185",
+            "addr:housenumber": 28
+          }
+        },
+        "website": "https://locations.timberland.com/ny/new-york/252/",
+        "opening_hours": "Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00",
+        "brand": "Timberland",
+        "brand_details": {
+          "wikidata": "Q1539185"
+        },
+        "contact": {
+          "phone": "+1-212-564-5921"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "commercial": {
+          "type": "clothes",
+          "level": 0
+        },
+        "place_id": "5171a202cc217f52c059c3a56334e15f4440f00103f901efbc7ca10000000092030a54696d6265726c616e64",
+        "distance": "145 m",
+        "edge": [35, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98643779999999, 40.74906020036317]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Build-A-Bear Workshop",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "22",
+        "lon": -73.9862048,
+        "lat": 40.7489625,
+        "state_code": "NY",
+        "formatted": "Build-A-Bear Workshop, 22 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "Build-A-Bear Workshop",
+        "address_line2": "22 West 34th Street, New York, NY 10001, United States of America",
+        "categories": ["commercial", "commercial.toy_and_game"],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Build-A-Bear Workshop",
+            "shop": "toys",
+            "brand": "Build-A-Bear Workshop",
+            "phone": "+1-212-863-4070",
+            "osm_id": 3927150551,
+            "website": "https://www.buildabear.com/locations?StoreID=384",
+            "osm_type": "n",
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+            "brand:wikidata": "Q1002992",
+            "addr:housenumber": 22
+          }
+        },
+        "website": "https://www.buildabear.com/locations?StoreID=384",
+        "opening_hours": "Mo-Sa 10:00-21:00; Su 11:00-19:00",
+        "brand": "Build-A-Bear Workshop",
+        "brand_details": {
+          "wikidata": "Q1002992"
+        },
+        "contact": {
+          "phone": "+1-212-863-4070"
+        },
+        "commercial": {
+          "type": "toys"
+        },
+        "place_id": "511fcabcfa1d7f52c059bc7ed200de5f4440f00103f901d78f13ea000000009203154275696c642d412d4265617220576f726b73686f70",
+        "distance": "155 m",
+        "edge": [35, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98620479999998, 40.74896250036315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "LensCrafters",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "West 34th Street",
+        "housenumber": "7",
+        "lon": -73.9852815,
+        "lat": 40.7489374,
+        "state_code": "NY",
+        "formatted": "LensCrafters, 7 West 34th Street, New York, NY 10001, United States of America",
+        "address_line1": "LensCrafters",
+        "address_line2": "7 West 34th Street, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.health_and_beauty",
+          "commercial.health_and_beauty.optician"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "LensCrafters",
+            "shop": "optician",
+            "brand": "LensCrafters",
+            "phone": "+1-212-967-4166",
+            "osm_id": 2709702365,
+            "website": "https://local.lenscrafters.com/ny/new-york/7-west-34th-street.html",
+            "osm_type": "n",
+            "addr:street": "West 34th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+            "brand:wikidata": "Q6523209",
+            "addr:housenumber": 7
+          }
+        },
+        "website": "https://local.lenscrafters.com/ny/new-york/7-west-34th-street.html",
+        "opening_hours": "Mo-Sa 10:00-20:00; Su 11:00-18:00",
+        "brand": "LensCrafters",
+        "brand_details": {
+          "wikidata": "Q6523209"
+        },
+        "contact": {
+          "phone": "+1-212-967-4166"
+        },
+        "commercial": {
+          "type": "optician"
+        },
+        "place_id": "51a5f622da0e7f52c059cea7442edd5f4440f00103f901ddc682a10000000092030c4c656e734372616674657273",
+        "distance": "230 m",
+        "edge": [35, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9852815, 40.74893740036315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cafe R",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Chelsea District",
+        "suburb": "Manhattan",
+        "street": "West 31st Street",
+        "lon": -73.9898540766786,
+        "lat": 40.7485851,
+        "state_code": "NY",
+        "formatted": "Cafe R, West 31st Street, New York, NY 10001, United States of America",
+        "address_line1": "Cafe R",
+        "address_line2": "West 31st Street, New York, NY 10001, United States of America",
+        "categories": [
+          "catering",
+          "catering.food_court",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Cafe R",
+            "level": 0,
+            "phone": "+1-212-695-9550",
+            "osm_id": 684175571,
+            "amenity": "food_court",
+            "cuisine": "international",
+            "website": "http://www.cafernyc.com",
+            "delivery": "yes",
+            "osm_type": "w",
+            "takeaway": "yes",
+            "wheelchair": "yes",
+            "drink:coffee": "yes",
+            "opening_hours": "24/7"
+          }
+        },
+        "website": "http://www.cafernyc.com",
+        "opening_hours": "24/7",
+        "contact": {
+          "phone": "+1-212-695-9550"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "takeaway": true,
+          "delivery": true
+        },
+        "catering": {
+          "cuisine": "international"
+        },
+        "place_id": "5165c9e9c4597f52c0598d2af6a2d15f4440f00102f901d3b0c72800000000920306436166652052",
+        "distance": "40 m",
+        "edge": [14, 15]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98985407667858, 40.74858510036311]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nuchas",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 32nd Street",
+        "housenumber": "97",
+        "lon": -73.9883416934295,
+        "lat": 40.74847865,
+        "state_code": "NY",
+        "formatted": "Nuchas, 97 West 32nd Street, New York, NY 10001, United States of America",
+        "address_line1": "Nuchas",
+        "address_line2": "97 West 32nd Street, New York, NY 10001, United States of America",
+        "categories": [
+          "building",
+          "building.catering",
+          "catering",
+          "catering.fast_food",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Nuchas",
+            "phone": "+1 212-912-0035",
+            "height": 6.9,
+            "osm_id": 264685189,
+            "amenity": "fast_food",
+            "cuisine": "mexican",
+            "website": "https://www.nuchas.com",
+            "building": "yes",
+            "delivery": "yes",
+            "osm_type": "w",
+            "takeaway": "yes",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "wheelchair": "yes",
+            "addr:street": "West 32nd Street",
+            "addr:postcode": 10001,
+            "drive_through": "no",
+            "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-19:00; Su 10:00-19:00",
+            "addr:housenumber": 97
+          }
+        },
+        "website": "https://www.nuchas.com",
+        "opening_hours": "Mo-Fr 07:30-20:00; Sa 09:00-19:00; Su 10:00-19:00",
+        "contact": {
+          "phone": "+1 212-912-0035"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "takeaway": true,
+          "delivery": true
+        },
+        "catering": {
+          "cuisine": "mexican"
+        },
+        "building": {
+          "height": 6.9
+        },
+        "place_id": "5164a384fd407f52c0592888fe25ce5f4440f00102f90185c6c60f000000009203064e7563686173",
+        "distance": "0 m",
+        "edge": [21, 22]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9883416934295, 40.7484786503631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Empire State Building",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10118",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "5th Avenue",
+        "housenumber": "350",
+        "lon": -73.98565890160751,
+        "lat": 40.74844205,
+        "state_code": "NY",
+        "formatted": "Empire State Building, 350 5th Avenue, New York, NY 10118, United States of America",
+        "address_line1": "Empire State Building",
+        "address_line2": "350 5th Avenue, New York, NY 10118, United States of America",
+        "categories": [
+          "building",
+          "building.historic",
+          "building.office",
+          "building.tourism",
+          "heritage",
+          "office",
+          "tourism",
+          "tourism.attraction",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.building",
+          "details.contact",
+          "details.facilities",
+          "details.heritage",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "ele": 15,
+            "name": "Empire State Building",
+            "phone": "+1-212-736-3100",
+            "height": 443.2,
+            "office": "yes",
+            "osm_id": 34633854,
+            "name:en": "Empire State Building",
+            "name:es": "Edificio Empire State",
+            "name:he": "\u05d1\u05e0\u05d9\u05d9\u05df \u05d0\u05de\u05e4\u05d9\u05d9\u05e8 \u05e1\u05d8\u05d9\u05d9\u05d8",
+            "name:hi": "\u090f\u092e\u094d\u092a\u093e\u092f\u0930 \u0938\u094d\u091f\u0947\u091f \u092c\u093f\u0932\u094d\u0921\u093f\u0902\u0917",
+            "name:ko": "\uc5e0\ud30c\uc774\uc5b4 \uc2a4\ud14c\uc774\ud2b8 \ube4c\ub529",
+            "name:ru": "\u042d\u043c\u043f\u0430\u0439\u0440-\u0421\u0442\u0435\u0439\u0442-\u0411\u0438\u043b\u0434\u0438\u043d\u0433",
+            "name:uk": "\u0415\u043c\u043f\u0430\u0439\u0440-\u0421\u0442\u0435\u0439\u0442-\u0411\u0456\u043b\u0434\u0456\u043d\u0433",
+            "name:zh": "\u5e1d\u56fd\u5927\u53a6",
+            "tourism": "attraction",
+            "website": "https://www.esbnyc.com/explore",
+            "building": "office",
+            "heritage": 2,
+            "osm_type": "w",
+            "wikidata": "Q9188",
+            "addr:city": "New York",
+            "architect": "Shreve, Lamb & Harmon",
+            "wikipedia": "en:Empire State Building",
+            "addr:state": "NY",
+            "check_date": "2021-04-21",
+            "start_date": 1931,
+            "wheelchair": "yes",
+            "addr:street": "5th Avenue",
+            "building:use": "office",
+            "addr:postcode": 10118,
+            "opening_hours": "Mo-Su 08:00-02:00",
+            "building:colour": "beige",
+            "building:levels": 102,
+            "addr:housenumber": 350,
+            "construction_date": "1930-1931",
+            "heritage:operator": "nrhp",
+            "architect:wikidata": "Q5188433",
+            "building:architecture": "art_deco"
+          }
+        },
+        "website": "https://www.esbnyc.com/explore",
+        "opening_hours": "Mo-Su 08:00-02:00",
+        "name_international": {
+          "en": "Empire State Building",
+          "es": "Edificio Empire State",
+          "he": "\u05d1\u05e0\u05d9\u05d9\u05df \u05d0\u05de\u05e4\u05d9\u05d9\u05e8 \u05e1\u05d8\u05d9\u05d9\u05d8",
+          "hi": "\u090f\u092e\u094d\u092a\u093e\u092f\u0930 \u0938\u094d\u091f\u0947\u091f \u092c\u093f\u0932\u094d\u0921\u093f\u0902\u0917",
+          "ko": "\uc5e0\ud30c\uc774\uc5b4 \uc2a4\ud14c\uc774\ud2b8 \ube4c\ub529",
+          "ru": "\u042d\u043c\u043f\u0430\u0439\u0440-\u0421\u0442\u0435\u0439\u0442-\u0411\u0438\u043b\u0434\u0438\u043d\u0433",
+          "uk": "\u0415\u043c\u043f\u0430\u0439\u0440-\u0421\u0442\u0435\u0439\u0442-\u0411\u0456\u043b\u0434\u0456\u043d\u0433",
+          "zh": "\u5e1d\u56fd\u5927\u53a6"
+        },
+        "ele": 15,
+        "contact": {
+          "phone": "+1-212-736-3100"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q9188",
+          "wikipedia": "en:Empire State Building"
+        },
+        "heritage": {
+          "level": 2,
+          "operator": "nrhp"
+        },
+        "building": {
+          "levels": 102,
+          "type": "office",
+          "use": "office",
+          "color": "beige",
+          "start_date": 1931,
+          "architecture": "art_deco",
+          "height": 443.2
+        },
+        "place_id": "5197da1209157f52c0595ea1f8f2cc5f4440f00102f9017e78100200000000920315456d70697265205374617465204275696c64696e67",
+        "distance": "45 m",
+        "edge": [29, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9856589016075, 40.748442050363096]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Starbucks",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10118",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "5th Avenue",
+        "housenumber": "350",
+        "lon": -73.985687,
+        "lat": 40.7481846,
+        "state_code": "NY",
+        "formatted": "Starbucks, 350 5th Avenue, New York, NY 10118, United States of America",
+        "address_line1": "Starbucks",
+        "address_line2": "350 5th Avenue, New York, NY 10118, United States of America",
+        "categories": [
+          "catering",
+          "catering.cafe",
+          "catering.cafe.coffee",
+          "catering.cafe.coffee_shop",
+          "internet_access",
+          "internet_access.free",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Starbucks",
+            "brand": "Starbucks",
+            "level": 0,
+            "phone": "+1-212-564-9141",
+            "osm_id": 883235940,
+            "amenity": "cafe",
+            "cuisine": "coffee_shop",
+            "toilets": "yes",
+            "website": "https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "New York",
+            "addr:unit": 6,
+            "addr:state": "NY",
+            "wheelchair": "yes",
+            "addr:street": "5th Avenue",
+            "addr:country": "US",
+            "drink:coffee": "yes",
+            "addr:postcode": 10118,
+            "official_name": "Starbucks Coffee",
+            "opening_hours": "Mo-Fr 06:30-18:00",
+            "brand:wikidata": "Q37158",
+            "drink:soy_milk": "yes",
+            "toilets:access": "yes",
+            "internet_access": "wlan",
+            "outdoor_seating": "no",
+            "addr:housenumber": 350,
+            "toilets:wheelchair": "yes",
+            "internet_access:fee": "no"
+          }
+        },
+        "website": "https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us",
+        "opening_hours": "Mo-Fr 06:30-18:00",
+        "brand": "Starbucks",
+        "brand_details": {
+          "wikidata": "Q37158"
+        },
+        "name_other": {
+          "official_name": "Starbucks Coffee"
+        },
+        "contact": {
+          "phone": "+1-212-564-9141"
+        },
+        "facilities": {
+          "internet_access": true,
+          "wheelchair": true,
+          "toilets": true,
+          "outdoor_seating": false,
+          "takeaway": true
+        },
+        "catering": {
+          "cuisine": "coffee_shop"
+        },
+        "place_id": "51e845ed7e157f52c0590ef75283c45f4440f00103f901641ca53400000000920309537461726275636b73",
+        "distance": "30 m",
+        "edge": [29, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98568699999998, 40.74818460036305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chase",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "5th Avenue",
+        "housenumber": "349",
+        "lon": -73.984547,
+        "lat": 40.748145,
+        "state_code": "NY",
+        "formatted": "Chase, 349 5th Avenue, New York, NY 10016, United States of America",
+        "address_line1": "Chase",
+        "address_line2": "349 5th Avenue, New York, NY 10016, United States of America",
+        "categories": [
+          "service",
+          "service.financial",
+          "service.financial.bank"
+        ],
+        "details": ["details", "details.contact", "details.facilities"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "atm": "yes",
+            "name": "Chase",
+            "brand": "Chase",
+            "phone": "+1-212-696-3252",
+            "osm_id": 883174326,
+            "amenity": "bank",
+            "website": "https://locator.chase.com/ny/new-york/349-fifth-ave",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "5th Avenue",
+            "addr:postcode": 10016,
+            "drive_through": "no",
+            "opening_hours": "09:00-17:00",
+            "brand:wikidata": "Q524629",
+            "addr:housenumber": 349,
+            "air_conditioning": "yes"
+          }
+        },
+        "website": "https://locator.chase.com/ny/new-york/349-fifth-ave",
+        "opening_hours": "09:00-17:00",
+        "brand": "Chase",
+        "brand_details": {
+          "wikidata": "Q524629"
+        },
+        "contact": {
+          "phone": "+1-212-696-3252"
+        },
+        "facilities": {
+          "air_conditioning": true
+        },
+        "place_id": "51ff976bd1027f52c059d59c2237c35f4440f00103f901b62ba434000000009203054368617365",
+        "distance": "75 m",
+        "edge": [29, 36]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.984547, 40.74814500036306]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Science, Industry and Business Library",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "Madison Avenue",
+        "housenumber": "188",
+        "lon": -73.9828998,
+        "lat": 40.7480891,
+        "state_code": "NY",
+        "formatted": "Science, Industry and Business Library, 188 Madison Avenue, New York, NY 10016, United States of America",
+        "address_line1": "Science, Industry and Business Library",
+        "address_line2": "188 Madison Avenue, New York, NY 10016, United States of America",
+        "categories": [
+          "education",
+          "education.library",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.contact",
+          "details.facilities",
+          "details.wiki_and_media"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Science, Industry and Business Library",
+            "phone": "(917) 275-6975",
+            "osm_id": 2709702605,
+            "amenity": "library",
+            "website": "https://www.nypl.org/locations/sibl",
+            "operator": "New York Public Library",
+            "osm_type": "n",
+            "wikidata": "Q17299843",
+            "addr:city": "New York",
+            "short_name": "SIBL",
+            "wheelchair": "yes",
+            "addr:street": "Madison Avenue",
+            "addr:postcode": 10016,
+            "operator:type": "public",
+            "operator:short": "NYPL",
+            "addr:housenumber": 188,
+            "operator:wikidata": "Q219555",
+            "operator:wikipedia": "en:New York Public Library"
+          }
+        },
+        "website": "https://www.nypl.org/locations/sibl",
+        "operator": "New York Public Library",
+        "operator_details": {
+          "type": "public",
+          "wikidata": "Q219555",
+          "wikipedia": "en:New York Public Library"
+        },
+        "name_other": {
+          "short_name": "SIBL"
+        },
+        "contact": {
+          "phone": "(917) 275-6975"
+        },
+        "facilities": {
+          "wheelchair": true
+        },
+        "wiki_and_media": {
+          "wikidata": "Q17299843"
+        },
+        "place_id": "51ad0f90d4e77e52c059d5463662c15f4440f00103f901cdc782a100000000920326536369656e63652c20496e64757374727920616e6420427573696e657373204c696272617279",
+        "distance": "40 m",
+        "edge": [37, 45]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9828998, 40.74808910036305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Legends",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 33rd Street",
+        "housenumber": "6",
+        "lon": -73.9858823,
+        "lat": 40.7480023,
+        "state_code": "NY",
+        "formatted": "Legends, 6 West 33rd Street, New York, NY 10001, United States of America",
+        "address_line1": "Legends",
+        "address_line2": "6 West 33rd Street, New York, NY 10001, United States of America",
+        "categories": ["catering", "catering.pub"],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Legends",
+            "phone": "+1-212-967-7792",
+            "theme": "sports_bar",
+            "osm_id": 2027071449,
+            "amenity": "pub",
+            "website": "https://www.legends33.com",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "West 33rd Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Su 11:00-23:00",
+            "addr:housenumber": 6
+          }
+        },
+        "website": "https://www.legends33.com",
+        "opening_hours": "Mo-Su 11:00-23:00",
+        "contact": {
+          "phone": "+1-212-967-7792"
+        },
+        "place_id": "51220d13b2187f52c0592fb2148abe5f4440f00103f901d9a7d278000000009203074c6567656e6473",
+        "distance": "230 m",
+        "edge": [28, 29]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98588229999999, 40.74800230036305]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solle Spa",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "West 33rd Street",
+        "housenumber": "4",
+        "lon": -73.9856375,
+        "lat": 40.7478955,
+        "state_code": "NY",
+        "formatted": "Solle Spa, 4 West 33rd Street, New York, NY 10001, United States of America",
+        "address_line1": "Solle Spa",
+        "address_line2": "4 West 33rd Street, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "service",
+          "service.beauty",
+          "service.beauty.massage"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Solle Spa",
+            "shop": "massage",
+            "phone": "+1-212-564-2100",
+            "osm_id": 2709306702,
+            "website": "https://sollespa.com",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "West 33rd Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Sa 10:00-02:00, Su 11:00-01:00",
+            "addr:housenumber": 4
+          }
+        },
+        "website": "https://sollespa.com",
+        "opening_hours": "Mo-Sa 10:00-02:00, Su 11:00-01:00",
+        "contact": {
+          "phone": "+1-212-564-2100"
+        },
+        "commercial": {
+          "type": "massage"
+        },
+        "place_id": "51840d4faf147f52c0593e712d0abb5f4440f00103f9014ebd7ca100000000920309536f6c6c6520537061",
+        "distance": "240 m",
+        "edge": [28, 29]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9856375, 40.747895500363015]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "H Mart",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "suburb": "Manhattan",
+        "commercial": {
+          "type": "supermarket",
+          "level": 0
+        },
+        "street": "West 32nd Street",
+        "housenumber": "38",
+        "lon": -73.9874388,
+        "lat": 40.7478373,
+        "state_code": "NY",
+        "formatted": "H Mart, 38 West 32nd Street, New York, NY 10001, United States of America",
+        "address_line1": "H Mart",
+        "address_line2": "38 West 32nd Street, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.supermarket",
+          "no_dogs",
+          "wheelchair",
+          "wheelchair.yes"
+        ],
+        "details": [
+          "details",
+          "details.commercial",
+          "details.contact",
+          "details.facilities",
+          "details.payment"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "dog": "no",
+            "name": "H Mart",
+            "shop": "supermarket",
+            "brand": "H Mart",
+            "level": 0,
+            "phone": "+1 212-695-3283",
+            "osm_id": 2709306699,
+            "cuisine": "asian",
+            "name:en": "H Mart",
+            "name:ko": "\ud55c\uc544\ub984",
+            "website": "https://www.hmart.com",
+            "operator": "Hanahreum Group",
+            "osm_type": "n",
+            "addr:state": "NY",
+            "drink:beer": "yes",
+            "drink:soju": "yes",
+            "wheelchair": "yes",
+            "addr:street": "West 32nd Street",
+            "alt_name:ko": "H \ub9c8\ud2b8",
+            "payment:jcb": "yes",
+            "addr:country": "US",
+            "name:zh-Hans": "\u97e9\u4e9a\u9f99",
+            "name:zh-Hant": "\u97d3\u4e9e\u9f8d",
+            "payment:cash": "yes",
+            "payment:visa": "yes",
+            "addr:postcode": 10001,
+            "opening_hours": "08:00-23:00",
+            "brand:wikidata": "Q5636306",
+            "addr:housenumber": 38,
+            "payment:mastercard": "yes",
+            "payment:discover_card": "yes",
+            "payment:american_express": "yes"
+          }
+        },
+        "website": "https://www.hmart.com",
+        "opening_hours": "08:00-23:00",
+        "brand": "H Mart",
+        "brand_details": {
+          "wikidata": "Q5636306"
+        },
+        "operator": "Hanahreum Group",
+        "name_international": {
+          "en": "H Mart",
+          "ko": "\ud55c\uc544\ub984"
+        },
+        "contact": {
+          "phone": "+1 212-695-3283"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "dogs": false
+        },
+        "payment_options": {
+          "jcb": true,
+          "cash": true,
+          "visa": true,
+          "mastercard": true,
+          "discover_card": true,
+          "american_express": true
+        },
+        "place_id": "514c338232327f52c059e1e4f521b95f4440f00103f9014bbd7ca10000000092030648204d617274",
+        "distance": "70 m",
+        "edge": [22, 23]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9874388, 40.747837300363024]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flynn's Office Solutions",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Chelsea District",
+        "suburb": "Manhattan",
+        "street": "West 30th Street",
+        "housenumber": "115",
+        "lon": -73.9904315,
+        "lat": 40.7477288,
+        "state_code": "NY",
+        "formatted": "Flynn's Office Solutions, 115 West 30th Street, New York, NY 10001, United States of America",
+        "address_line1": "Flynn's Office Solutions",
+        "address_line2": "115 West 30th Street, New York, NY 10001, United States of America",
+        "categories": ["commercial", "commercial.stationery"],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Flynn's Office Solutions",
+            "shop": "stationery",
+            "phone": "+1-212-339-8700",
+            "osm_id": 2703449222,
+            "website": "https://www.flynns.com/",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:unit": "Suite 411",
+            "addr:state": "NY",
+            "addr:street": "West 30th Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Fr 09:00-17:00; Sa off; Su off",
+            "addr:housenumber": 115
+          }
+        },
+        "website": "https://www.flynns.com/",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa off; Su off",
+        "contact": {
+          "phone": "+1-212-339-8700"
+        },
+        "commercial": {
+          "type": "stationery"
+        },
+        "place_id": "51685bcd3a637f52c05910ebcb93b55f4440f00103f901865c23a100000000920318466c796e6e2773204f666669636520536f6c7574696f6e73",
+        "distance": "30 m",
+        "edge": [9, 10]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9904315, 40.74772880036301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosher in Midtown",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 6",
+        "suburb": "Manhattan",
+        "street": "East 34th Street",
+        "housenumber": "43",
+        "lon": -73.9823758,
+        "lat": 40.7477201,
+        "state_code": "NY",
+        "formatted": "Kosher in Midtown, 43 East 34th Street, New York, NY 10016, United States of America",
+        "address_line1": "Kosher in Midtown",
+        "address_line2": "43 East 34th Street, New York, NY 10016, United States of America",
+        "categories": [
+          "catering",
+          "catering.food_court",
+          "kosher",
+          "kosher.only"
+        ],
+        "details": ["details", "details.catering", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Kosher in Midtown",
+            "phone": "+1-212-725-8100",
+            "osm_id": 2709415095,
+            "amenity": "food_court",
+            "cuisine": "international",
+            "website": "https://kosherinmidtown.com",
+            "osm_type": "n",
+            "addr:street": "East 34th Street",
+            "diet:kosher": "only",
+            "addr:postcode": 10016,
+            "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-15:00; Su 11:00-20:00",
+            "addr:housenumber": 43
+          }
+        },
+        "website": "https://kosherinmidtown.com",
+        "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-15:00; Su 11:00-20:00",
+        "contact": {
+          "phone": "+1-212-725-8100"
+        },
+        "catering": {
+          "cuisine": "international",
+          "diet": {
+            "kosher": true
+          }
+        },
+        "place_id": "516f58bf3edf7e52c0597ccfd04ab55f4440f00103f901b7647ea1000000009203114b6f7368657220696e204d6964746f776e",
+        "distance": "30 m",
+        "edge": [37, 38]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98237579999999, 40.74772010036301]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "O'Reilly's Pub",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "West 31st Street",
+        "housenumber": "54",
+        "lon": -73.9888643316651,
+        "lat": 40.7475728,
+        "state_code": "NY",
+        "formatted": "O'Reilly's Pub, 54 West 31st Street, New York, NY 10001, United States of America",
+        "address_line1": "O'Reilly's Pub",
+        "address_line2": "54 West 31st Street, New York, NY 10001, United States of America",
+        "categories": [
+          "catering",
+          "catering.bar",
+          "wheelchair",
+          "wheelchair.limited"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fax": "+1 212-689-5788",
+            "name": "O'Reilly's Pub",
+            "email": "info@oreillyspubnyc.com",
+            "phone": "+1 212-684-4244",
+            "osm_id": 665897391,
+            "amenity": "bar",
+            "cuisine": "pub",
+            "toilets": "yes",
+            "website": "https://www.oreillyspubnyc.com",
+            "osm_type": "w",
+            "addr:city": "New York",
+            "cocktails": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "limited",
+            "addr:street": "West 31st Street",
+            "drink:liquor": "yes",
+            "addr:postcode": 10001,
+            "opening_hours": "11:00-02:00",
+            "outdoor_seating": "roof",
+            "addr:housenumber": 54,
+            "contact:facebook": "http://www.facebook.com/oreillyspubnyc",
+            "opening_hours:kitchen": "11:00-23:30"
+          }
+        },
+        "website": "https://www.oreillyspubnyc.com",
+        "opening_hours": "11:00-02:00",
+        "contact": {
+          "phone": "+1 212-684-4244",
+          "email": "info@oreillyspubnyc.com",
+          "fax": "+1 212-689-5788"
+        },
+        "facilities": {
+          "wheelchair": true,
+          "wheelchair_details": {
+            "condition": "limited"
+          },
+          "toilets": true,
+          "outdoor_seating": true
+        },
+        "catering": {
+          "cuisine": "pub"
+        },
+        "place_id": "51ae2b9f8d497f52c05916782c77b05f4440f00102f901afc9b0270000000092030e4f275265696c6c79277320507562",
+        "distance": "30 m",
+        "edge": [15, 16]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9888643316651, 40.74757280036299]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BCD Tofu House",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "suburb": "Manhattan",
+        "commercial": "Korea Town",
+        "street": "West 32nd Street",
+        "housenumber": "5",
+        "lon": -73.9860606,
+        "lat": 40.7475091,
+        "state_code": "NY",
+        "formatted": "BCD Tofu House, 5 West 32nd Street, New York, NY 10001, United States of America",
+        "address_line1": "BCD Tofu House",
+        "address_line2": "5 West 32nd Street, New York, NY 10001, United States of America",
+        "categories": [
+          "catering",
+          "catering.restaurant",
+          "catering.restaurant.korean"
+        ],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "BCD Tofu House",
+            "level": 0,
+            "phone": "+1 212-967-1900",
+            "branch": "Manhattan, NY",
+            "osm_id": 2709306713,
+            "amenity": "restaurant",
+            "cuisine": "korean",
+            "website": "https://www.bcdtofuhouse.com",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:street": "West 32nd Street",
+            "addr:postcode": 10001,
+            "opening_hours": "Su-Th 10:30-24:00; Fr, Sa 10:30-03:00",
+            "addr:housenumber": 5
+          }
+        },
+        "website": "https://www.bcdtofuhouse.com",
+        "opening_hours": "Su-Th 10:30-24:00; Fr, Sa 10:30-03:00",
+        "branch": "Manhattan, NY",
+        "contact": {
+          "phone": "+1 212-967-1900"
+        },
+        "facilities": {
+          "takeaway": true,
+          "delivery": true
+        },
+        "catering": {
+          "cuisine": "korean"
+        },
+        "place_id": "51f237eb9d1b7f52c059bbc2d160ae5f4440f00103f90159bd7ca10000000092030e42434420546f667520486f757365",
+        "distance": "200 m",
+        "edge": [22, 23]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9860606, 40.74750910036297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beadkraft",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Midtown South",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1231",
+        "lon": -73.9885749,
+        "lat": 40.7469763,
+        "state_code": "NY",
+        "formatted": "Beadkraft, 1231 Broadway, New York, NY 10001, United States of America",
+        "address_line1": "Beadkraft",
+        "address_line2": "1231 Broadway, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.hobby",
+          "commercial.hobby.art"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "fax": "+1-212-213-6409",
+            "name": "Beadkraft",
+            "shop": "craft",
+            "phone": "+1-212-532-6820",
+            "osm_id": 2703449234,
+            "website": "https://www.beadkraft.com",
+            "osm_type": "n",
+            "addr:street": "Broadway",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00",
+            "addr:housenumber": 1231
+          }
+        },
+        "website": "https://www.beadkraft.com",
+        "opening_hours": "Mo-Fr 09:00-18:00; Sa 09:00-16:00",
+        "contact": {
+          "phone": "+1-212-532-6820",
+          "fax": "+1-212-213-6409"
+        },
+        "commercial": {
+          "type": "craft"
+        },
+        "place_id": "515f49a8cf447f52c0590f795eeb9c5f4440f00103f901925c23a100000000920309426561646b72616674",
+        "distance": "0 m",
+        "edge": [11, 16]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98857489999999, 40.74697630036291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wolfgang\u2019s Steakhouse",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "Park Avenue",
+        "housenumber": "4",
+        "lon": -73.9820041,
+        "lat": 40.746628,
+        "state_code": "NY",
+        "formatted": "Wolfgang\u2019s Steakhouse, 4 Park Avenue, New York, NY 10016, United States of America",
+        "address_line1": "Wolfgang\u2019s Steakhouse",
+        "address_line2": "4 Park Avenue, New York, NY 10016, United States of America",
+        "categories": ["catering", "catering.restaurant"],
+        "details": ["details", "details.contact", "details.wiki_and_media"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Wolfgang\u2019s Steakhouse",
+            "phone": "+12128893369",
+            "osm_id": 5762528453,
+            "amenity": "restaurant",
+            "website": "https://wolfgangssteakhouse.net/",
+            "osm_type": "n",
+            "wikidata": "Q20979453",
+            "addr:street": "Park Avenue",
+            "addr:postcode": 10016,
+            "opening_hours": "Mo-Su 12:00-22:30",
+            "addr:housenumber": 4
+          }
+        },
+        "website": "https://wolfgangssteakhouse.net/",
+        "opening_hours": "Mo-Su 12:00-22:30",
+        "contact": {
+          "phone": "+12128893369"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q20979453"
+        },
+        "place_id": "516c82b927d97e52c0590feb9d81915f4440f00103f901c534795701000000920317576f6c6667616e67e280997320537465616b686f757365",
+        "distance": "0 m",
+        "edge": [31, 38]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98200409999998, 40.74662800036287]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bank of America",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Flower District",
+        "suburb": "Manhattan",
+        "street": "6th Avenue",
+        "housenumber": "812",
+        "lon": -73.9904205,
+        "lat": 40.7458506,
+        "state_code": "NY",
+        "formatted": "Bank of America, 812 6th Avenue, New York, NY 10001, United States of America",
+        "address_line1": "Bank of America",
+        "address_line2": "812 6th Avenue, New York, NY 10001, United States of America",
+        "categories": [
+          "service",
+          "service.financial",
+          "service.financial.bank"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "atm": "yes",
+            "name": "Bank of America",
+            "brand": "Bank of America",
+            "phone": "+1-212-684-1541",
+            "osm_id": 2705020503,
+            "amenity": "bank",
+            "website": "https://locators.bankofamerica.com/ny/newyork/financial-centers-new-york-15710.html",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:street": "6th Avenue",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00",
+            "addr:housename": "Bank of America",
+            "brand:wikidata": "Q487907",
+            "addr:housenumber": 812
+          }
+        },
+        "website": "https://locators.bankofamerica.com/ny/newyork/financial-centers-new-york-15710.html",
+        "opening_hours": "Mo-Fr 09:00-17:00; Sa 09:00-14:00",
+        "brand": "Bank of America",
+        "brand_details": {
+          "wikidata": "Q487907"
+        },
+        "contact": {
+          "phone": "+1-212-684-1541"
+        },
+        "place_id": "516d32aa0c637f52c05948215008785f4440f00103f90157563ba10000000092030f42616e6b206f6620416d6572696361",
+        "distance": "80 m",
+        "edge": [0, 3]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.99042049999998, 40.74585060036276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Milk Bar",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1196",
+        "lon": -73.9884597,
+        "lat": 40.7457991,
+        "state_code": "NY",
+        "formatted": "Milk Bar, 1196 Broadway, New York, NY 10001, United States of America",
+        "address_line1": "Milk Bar",
+        "address_line2": "1196 Broadway, New York, NY 10001, United States of America",
+        "categories": [
+          "commercial",
+          "commercial.food_and_drink",
+          "commercial.food_and_drink.bakery"
+        ],
+        "details": ["details", "details.contact", "details.facilities"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Milk Bar",
+            "shop": "pastry",
+            "phone": "+1-347-974-4975",
+            "branch": "Nomad",
+            "osm_id": 2704940541,
+            "website": "https://milkbarstore.com/pages/new-york-city-flagship",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:street": "Broadway",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Th, Su 10:00-23:00; Th-Sa 10:00-01:00",
+            "addr:housenumber": 1196
+          }
+        },
+        "website": "https://milkbarstore.com/pages/new-york-city-flagship",
+        "opening_hours": "Mo-Th, Su 10:00-23:00; Th-Sa 10:00-01:00",
+        "branch": "Nomad",
+        "contact": {
+          "phone": "+1-347-974-4975"
+        },
+        "facilities": {
+          "takeaway": true,
+          "delivery": true
+        },
+        "commercial": {
+          "type": "pastry"
+        },
+        "place_id": "51803a79ec427f52c059e0b84c58765f4440f00103f901fd1d3aa1000000009203084d696c6b20426172",
+        "distance": "85 m",
+        "edge": [4, 7]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98845970000002, 40.745799100362774]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blank Slate Coffee + Kitchen",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "Madison Avenue",
+        "housenumber": "121",
+        "lon": -73.9851162,
+        "lat": 40.7456894,
+        "state_code": "NY",
+        "formatted": "Blank Slate Coffee + Kitchen, 121 Madison Avenue, New York, NY 10016, United States of America",
+        "address_line1": "Blank Slate Coffee + Kitchen",
+        "address_line2": "121 Madison Avenue, New York, NY 10016, United States of America",
+        "categories": ["catering", "catering.cafe", "vegetarian"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities",
+          "details.payment",
+          "details.production"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Blank Slate Coffee + Kitchen",
+            "craft": "caterer",
+            "phone": "+1-212-683-7800",
+            "branch": "Nomad",
+            "osm_id": 2709335786,
+            "amenity": "cafe",
+            "cuisine": "coffee_shop;breakfast;sandwich;salad",
+            "toilets": "yes",
+            "website": "https://www.blankslatenyc.com/location/nomad/",
+            "delivery": "yes",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "drink:tea": "yes",
+            "drink:beer": "yes",
+            "drink:wine": "yes",
+            "wheelchair": "no",
+            "addr:street": "Madison Avenue",
+            "drink:coffee": "yes",
+            "payment:cash": "yes",
+            "addr:postcode": 10016,
+            "opening_hours": "Fr-Su 07:30-19:00; Mo-Th 07:30-21:00",
+            "drink:espresso": "yes",
+            "diet:vegetarian": "yes",
+            "addr:housenumber": 121,
+            "payment:debit_cards": "yes",
+            "payment:credit_cards": "yes"
+          }
+        },
+        "website": "https://www.blankslatenyc.com/location/nomad/",
+        "opening_hours": "Fr-Su 07:30-19:00; Mo-Th 07:30-21:00",
+        "branch": "Nomad",
+        "craft": "caterer",
+        "contact": {
+          "phone": "+1-212-683-7800"
+        },
+        "facilities": {
+          "wheelchair": false,
+          "toilets": true,
+          "takeaway": true,
+          "delivery": true
+        },
+        "payment_options": {
+          "cash": true,
+          "debit_cards": true,
+          "credit_cards": true
+        },
+        "catering": {
+          "cuisine": "coffee_shop;breakfast;sandwich;salad",
+          "diet": {
+            "vegetarian": true
+          }
+        },
+        "production": {
+          "industry": "caterer"
+        },
+        "place_id": "51a070d1240c7f52c05916c411c0725f4440f00103f901ea2e7da10000000092031c426c616e6b20536c61746520436f66666565202b204b69746368656e",
+        "distance": "40 m",
+        "edge": [13, 18]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9851162, 40.745689400362764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valley Bank",
+        "lon": -73.98635159999999,
+        "lat": 40.74566140036276,
+        "street": "5th Avenue",
+        "postcode": 10016,
+        "housenumber": 279,
+        "categories": [
+          "service",
+          "service.financial",
+          "service.financial.bank"
+        ],
+        "details": ["details", "details.contact"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Valley Bank",
+            "phone": "+1-212-481-6109",
+            "osm_id": 4019388360,
+            "amenity": "bank",
+            "website": "https://locations.valley.com/ny/newyork/valley-bank-135.html",
+            "osm_type": "n",
+            "addr:city": "New York",
+            "addr:street": "5th Avenue",
+            "addr:postcode": 10016,
+            "opening_hours": "Mo-Fr 09:00-17:00",
+            "addr:housenumber": 279
+          }
+        },
+        "website": "https://locations.valley.com/ny/newyork/valley-bank-135.html",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "contact": {
+          "phone": "+1-212-481-6109"
+        },
+        "place_id": "51dd167662207f52c0594c3930d5715f4440f00103f901c8ff92ef0000000092030b56616c6c65792042616e6b",
+        "distance": "75 m",
+        "edge": [12, 17]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.98635159999999, 40.74566140036276]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "American Academy of Dramatic Arts",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10016",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "Madison Avenue",
+        "housenumber": "120",
+        "lon": -73.9847757,
+        "lat": 40.7455156,
+        "state_code": "NY",
+        "formatted": "American Academy of Dramatic Arts, 120 Madison Avenue, New York, NY 10016, United States of America",
+        "address_line1": "American Academy of Dramatic Arts",
+        "address_line2": "120 Madison Avenue, New York, NY 10016, United States of America",
+        "categories": ["education", "education.college"],
+        "details": ["details", "details.contact", "details.wiki_and_media"],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "American Academy of Dramatic Arts",
+            "phone": "+1-800-463-8990",
+            "osm_id": 3356089621,
+            "amenity": "college",
+            "website": "https://www.aada.edu/campuses/new-york-campus-overview",
+            "osm_type": "n",
+            "wikidata": "Q389336",
+            "addr:city": "New York",
+            "wikipedia": "en:American Academy of Dramatic Arts",
+            "addr:state": "NY",
+            "short_name": "AADA",
+            "addr:street": "Madison Avenue",
+            "addr:postcode": 10016,
+            "addr:housenumber": 120
+          }
+        },
+        "website": "https://www.aada.edu/campuses/new-york-campus-overview",
+        "name_other": {
+          "short_name": "AADA"
+        },
+        "contact": {
+          "phone": "+1-800-463-8990"
+        },
+        "wiki_and_media": {
+          "wikidata": "Q389336",
+          "wikipedia": "en:American Academy of Dramatic Arts"
+        },
+        "place_id": "515059a890067f52c0599f1b210e6d5f4440f00103f90115dd09c800000000920321416d65726963616e2041636164656d79206f66204472616d617469632041727473",
+        "distance": "35 m",
+        "edge": [13, 18]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9847757, 40.745515600362744]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dig",
+        "country": "United States",
+        "country_code": "us",
+        "state": "New York",
+        "county": "New York County",
+        "city": "New York",
+        "postcode": "10001",
+        "district": "Manhattan Community Board 5",
+        "suburb": "Manhattan",
+        "street": "Broadway",
+        "housenumber": "1178",
+        "lon": -73.9885661,
+        "lat": 40.7453494,
+        "state_code": "NY",
+        "formatted": "Dig, 1178 Broadway, New York, NY 10001, United States of America",
+        "address_line1": "Dig",
+        "address_line2": "1178 Broadway, New York, NY 10001, United States of America",
+        "categories": ["catering", "catering.fast_food"],
+        "details": [
+          "details",
+          "details.catering",
+          "details.contact",
+          "details.facilities"
+        ],
+        "datasource": {
+          "sourcename": "openstreetmap",
+          "attribution": "\u00a9 OpenStreetMap contributors",
+          "license": "Open Database License",
+          "url": "https://www.openstreetmap.org/copyright",
+          "raw": {
+            "name": "Dig",
+            "brand": "Dig",
+            "phone": "+1-212-335-2010",
+            "osm_id": 2706939802,
+            "amenity": "fast_food",
+            "cuisine": "regional",
+            "website": "https://www.diginn.com/",
+            "alt_name": "Dig Inn",
+            "osm_type": "n",
+            "takeaway": "yes",
+            "addr:city": "New York",
+            "addr:state": "NY",
+            "addr:street": "Broadway",
+            "addr:postcode": 10001,
+            "opening_hours": "Mo-Fr 11:00-21:00",
+            "brand:wikidata": "Q28226241",
+            "addr:housenumber": 1178
+          }
+        },
+        "website": "https://www.diginn.com/",
+        "opening_hours": "Mo-Fr 11:00-21:00",
+        "brand": "Dig",
+        "brand_details": {
+          "wikidata": "Q28226241"
+        },
+        "name_other": {
+          "alt_name": "Dig Inn"
+        },
+        "contact": {
+          "phone": "+1-212-335-2010"
+        },
+        "facilities": {
+          "takeaway": true
+        },
+        "catering": {
+          "cuisine": "regional"
+        },
+        "place_id": "51cb5bbfaa447f52c0595853f19b675f4440f00103f9019a9f58a100000000920303446967",
+        "distance": "0 m",
+        "edge": [4, 7]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-73.9885661, 40.74534940036273]
+      }
+    }
+  ]
+}

@@ -1,14 +1,15 @@
 name: Cooper Electric
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s11
+street: West 38th Street
 housenumber: 29
+lon: -73.9843282
+lat: 40.7517475
 categories: [
     commercial,
     commercial.trade
 ]
-website: https://www.cooper-electric.com/about/location/manhattan
 opening_hours: Mo-Fr 07:00-15:00
 brand: Cooper Electric
 branch: Manhattan
@@ -20,22 +21,21 @@ commercial:
     type: trade
     trade: building_supplies
     level: 0
-edge: n59 - n60
-distance: 155 m
 
 
 name: Chick-fil-A
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s14
+street: 6th Avenue
 housenumber: 1000
+lon: -73.9861214
+lat: 40.7517237
 categories: [
     catering,
     catering.fast_food,
     internet_access
 ]
-website: https://www.chick-fil-a.com/Locations/NY/37th--6th-InLine
 opening_hours: Mo-Sa 06:30-22:00
 brand: Chick-fil-A
 branch: 37th & 6th
@@ -46,17 +46,17 @@ facilities:
     takeaway: True
 catering: 
     cuisine: chicken
-edge: n55 - n59
-distance: 0 m
 
 
 name: Stavros Niarchos Foundation Library
 old_name: Mid-Manhattan Library
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s15
+street: 5th Avenue
 housenumber: 455
+lon: -73.98147727208311
+lat: 40.751701499999996
 categories: [
     building,
     building.public_and_civil,
@@ -67,7 +67,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.nypl.org/locations/snfl
 opening_hours: Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00; PH off
 operator: New York Public Library
 name_other: 
@@ -83,15 +82,16 @@ facilities:
     air_conditioning: True
 building: 
     height: 31
-edge: n64 - n66
-distance: 60 m
+
 
 name: Andrews NYC Diner
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s13
+street: 7th Avenue
 housenumber: 463
+lon: -73.9898634
+lat: 40.7516741
 categories: [
     catering,
     catering.restaurant,
@@ -99,7 +99,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://andrewsny.com/
 opening_hours: Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa, Su 07:00-23:00
 contact: 
     phone: +1-212-695-1962
@@ -109,20 +108,20 @@ facilities:
 catering: 
     cuisine: american;diner
     reservation: required
-edge: n41 - n47
-distance: 0 m
+
 
 name: The Australian NYC
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s11
+street: West 38th Street
 housenumber: 20
+lon: -73.9838618
+lat: 40.7512973
 categories: [
     catering,
     catering.restaurant
 ]
-website: https://theaustraliannyc.com/
 opening_hours: Mo, Su 11:30-00:00; Tu, We 11:30-23:00; Th 11:30-02:00; Fr, Sa 11:30-04:00
 contact: 
     phone: +1 212-869-9601
@@ -133,22 +132,21 @@ facilities:
 catering: 
     cuisine: australian
     reservation: required
-edge: n59 - n60
-distance: 170 m
 
 
 name: Rituals
-county: New York County
+city: New York
 district: Garment District
 suburb: Manhattan
-street: s19
+street: Broadway
 housenumber: 1333
+lon: -73.9879054
+lat: 40.7512172
 categories: [
     commercial,
     commercial.health_and_beauty,
     commercial.health_and_beauty.cosmetics
 ]
-website: https://www.rituals.com/en-us/store-detail?store=Herald-Square
 opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
 brand: Rituals
 branch: Herald Square
@@ -157,21 +155,20 @@ contact:
     email: newyork.heraldsq@rituals.com
 commercial: 
     type: cosmetics
-edge: n47 - n48
-distance: 190 m
 
 
 name: Blaggards Pub
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s11
+street: West 38th Street
 housenumber: 8
+lon: -73.9836072
+lat: 40.7511973
 categories: [
     catering,
     catering.pub
 ]
-website: https://blaggardsnyc.com
 opening_hours: Mo-Sa 11:00-04:00; Su 12:00-04:00
 contact: 
     phone: +1 212-382-2611
@@ -179,38 +176,37 @@ contact:
 facilities: 
     takeaway: True
     delivery: True
-edge: n59 - n60
-distance: 175 m
 
 
 name: Poké Bar
-county: New York County
+city: New York
 district: Garment District
 suburb: Manhattan
-street: s19
+street: Broadway
 housenumber: 1333
+lon: -73.9879376
+lat: 40.7510615
 categories: [
     catering,
     catering.fast_food,
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.ilovepokebar.com/locations/new-york
 opening_hours: Mo-Fr 11:00-21:00; Sa 11:00-20:00; Su 11:30-20:00
 contact: 
     phone: +1 212-244-4320
 facilities: 
     wheelchair: True
-edge: n42 - n48
-distance: 45 m
 
 
 name: Urban Outfitters
-county: New York County
+city: New York
 district: Garment District
 suburb: Manhattan
-street: s19
+street: Broadway
 housenumber: 1333
+lon: -73.9880113
+lat: 40.7509578
 categories: [
     commercial,
     commercial.clothing,
@@ -219,7 +215,6 @@ categories: [
     wheelchair,
     wheelchair.limited
 ]
-website: https://www.urbanoutfitters.com/stores/herald-square
 opening_hours: Mo-Sa 10:00-22:00; Su 10:00-21:00
 brand: Urban Outfitters
 branch: Herald Square
@@ -233,16 +228,16 @@ facilities:
 commercial: 
     type: clothes
     level: -1;0;1
-edge: n42 - n48
-distance: 20 m
 
 
 name: Macy's
-county: New York County
+city: New York
 district: Garment District
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 151
+lon: -73.98925506526803
+lat: 40.75088945
 categories: [
     building,
     building.commercial,
@@ -251,7 +246,6 @@ categories: [
     wheelchair,
     wheelchair.limited
 ]
-website: https://www.macys.com/stores/ny/newyork/herald-square_3.html
 opening_hours: Mo-Sa 10:00-22:00; Su 11:00-21:00
 brand: Macy's
 contact: 
@@ -265,22 +259,21 @@ building:
     height: 50.8
 commercial: 
     type: department_store
-edge: n34 - n35
-distance: 110 m
 
 
 name: Mad Dog & Beans Mexican Cantina
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s28
+street: East 38th Street
 housenumber: 5
+lon: -73.9819745
+lat: 40.7507533
 categories: [
     catering,
     catering.restaurant,
     catering.restaurant.mexican
 ]
-website: https://www.maddogandbeans.com
 opening_hours: Su-Th 12:00-22:00; We 12:00-23:00; Th-Sa 12:00-00:00
 contact: 
     phone: +1-646-998-5722
@@ -291,16 +284,16 @@ payment_options:
     nfc_mobile_payments: True
 catering: 
     cuisine: mexican
-edge: n60 - n61
-distance: 65 m
 
 
 name: Wafels & Dinges
-county: New York County
+city: New York
 district: Herald Square
 suburb: Manhattan
 street: West 35th Street
 housenumber: 102
+lon: -73.9876085423913
+lat: 40.7505004
 categories: [
     building,
     building.catering,
@@ -309,7 +302,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://dinges.nyc/
 opening_hours: 09:00-22:00
 branch: Herald Square
 contact: 
@@ -318,16 +310,16 @@ facilities:
     wheelchair: True
 catering: 
     cuisine: dessert
-edge: n42 - n43
-distance: 45 m
 
 
 name: Crocs
-county: New York County
+city: New York
 district: Chelsea District
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 152
+lon: -73.99014793400593
+lat: 40.75048065
 categories: [
     building,
     building.commercial,
@@ -335,7 +327,6 @@ categories: [
     commercial.clothing,
     commercial.clothing.shoes
 ]
-website: https://locations.crocs.com/ny/new-york/10000049/
 opening_hours: Mo-Sa 09:00-21:00; Su 10:00-21:00
 brand: Crocs
 contact: 
@@ -346,16 +337,16 @@ building:
     height: 12.1
 commercial: 
     type: shoes
-edge: n34 - n35
-distance: 30 m
 
 
 name: Old Navy
-county: New York County
+city: New York
 district: Chelsea District
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 144-150
+lon: -73.99014756132081
+lat: 40.7502999
 categories: [
     building,
     building.commercial,
@@ -365,7 +356,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://oldnavy.gap.com/products/new-york-ny-store-5927.jsp
 opening_hours: Mo-Sa 08:00-22:00; Su 09:00-22:00
 brand: Old Navy
 operator: Gap
@@ -386,44 +376,42 @@ building:
 commercial: 
     type: clothes
     clothes: women;denim;children;men;oversize;babies
-edge: n34 - n35
-distance: 40 m
 
 
 name: Sunglass Hut
-county: New York County
+city: New York
 district: Herald Square
 suburb: Manhattan
-street: s19
-housenumber: 1313
+street: West 35th Street
+housenumber: 160
+lon: -73.9880993
+lat: 40.750134
 categories: [
     commercial,
     commercial.health_and_beauty,
     commercial.health_and_beauty.optician
 ]
-website: https://stores.sunglasshut.com/us/ny/new-york/1313-broadway---34th-st.html
 brand: Sunglass Hut
 contact: 
     phone: +1-212-947-7789
 commercial: 
     type: optician
     level: 0
-edge: n34 - n35
-distance: 250 m
 
 
 name: Serafina Italian Restaurant
-county: New York County
+city: New York
 district: Manhattan Community Board 6
 suburb: Manhattan
-street: s16
+street: Madison Avenue
 housenumber: 241
+lon: -73.9811517
+lat: 40.7500156
 categories: [
     catering,
     catering.restaurant,
     catering.restaurant.italian
 ]
-website: https://www.serafinarestaurant.com/location/serafina-madison-38th/
 opening_hours: Mo-Su 07:00-22:00
 branch: Madison 38th
 contact: 
@@ -434,61 +422,58 @@ payment_options:
     credit_cards: True
 catering: 
     cuisine: italian
-edge: n57 - n61
-distance: 65 m
 
 
 name: Tannen’s Magic
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 45
+lon: -73.9868496
+lat: 40.7497605
 categories: [
     commercial
 ]
-website: https://www.tannens.com
 opening_hours: Mo-Fr 11:00-18:00; Sa 10:00-16:00
 contact: 
     phone: +1-212-929-4500
 commercial: 
     type: magic
-edge: n35 - n36
-distance: 75 m
 
 
 name: Consulate General of Poland
-county: New York County
+city: New York
 district: Manhattan Community Board 6
 suburb: Manhattan
-street: s16
+street: Madison Avenue
 housenumber: 233
+lon: -73.9812698
+lat: 40.749709
 categories: [
     building,
     building.office,
     office,
     office.diplomatic
 ]
-website: https://newyork.mfa.gov.pl/
 opening_hours: Mo,Tu,Th,Fr 08:30-14:30; We 11:30-17:30
 contact: 
     phone: +1 646 2372100
     email: nowyjork.kg.sekretariat@msz.gov.pl
-edge: n57 - n61
-distance: 20 m
 
 
 name: Costas
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s8
+street: West 35th Street
 housenumber: 30
+lon: -73.9856911
+lat: 40.7496644
 categories: [
     catering,
     catering.fast_food
 ]
-website: https://www.costasnyc.com/location/costas-nyc/
 opening_hours: Mo-Fr 11:00-20:00
 contact: 
     phone: +1-646-564-3545
@@ -496,16 +481,16 @@ facilities:
     takeaway: True
 catering: 
     cuisine: latin_american
-edge: n43 - n44
-distance: 155 m
 
 
 name: Levi's
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 45
+lon: -73.9869344
+lat: 40.7496249
 categories: [
     commercial,
     commercial.clothing,
@@ -515,7 +500,6 @@ categories: [
     wheelchair,
     wheelchair.limited
 ]
-website: https://locations.levi.com/en-us/ny/newyork/denim_new-york_ny_183.html
 opening_hours: Mo-Sa 10:00-20:00; Su 11:00-19:00
 brand: Levi's
 contact: 
@@ -531,21 +515,20 @@ targeted_for:
 commercial: 
     type: clothes
     clothes: denim;men;women
-edge: n35 - n36
-distance: 75 m
 
 
 name: Peter Dillon's
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s26
+street: East 36th Street
 housenumber: 2
+lon: -73.9832785
+lat: 40.7494523
 categories: [
     catering,
     catering.pub
 ]
-website: https://www.peterdillons.com/
 opening_hours: Mo-Su 12:00-04:00
 branch: 36th Street
 contact: 
@@ -553,34 +536,33 @@ contact:
     email: peterdillons36@gmail.com
 facilities: 
     outdoor_seating: True
-edge: n50 - n51
-distance: 10 m
 
 
 name: The Morgan Library & Museum
-county: New York County
+city: New York
 district: Manhattan Community Board 6
 suburb: Manhattan
-street: s16
+street: Madison Avenue
 housenumber: 225
+lon: -73.9814793
+lat: 40.7491907
 categories: [
     entertainment,
     entertainment.museum
 ]
-website: https://www.themorgan.org/
 opening_hours: Tu-Su 10:00-17:30
 contact: 
     phone: +1-212-685-0008
-edge: n51 - n57
-distance: 40 m
 
 
 name: Timberland
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 28
+lon: -73.9864378
+lat: 40.7490602
 categories: [
     commercial,
     commercial.clothing,
@@ -588,7 +570,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://locations.timberland.com/ny/new-york/252/
 opening_hours: Mo-Th 10:00-19:00; Fr-Sa 10:00-20:00; Su 11:00-19:00
 brand: Timberland
 contact: 
@@ -598,65 +579,62 @@ facilities:
 commercial: 
     type: clothes
     level: 0
-edge: n35 - n36
-distance: 145 m
 
 
 name: Build-A-Bear Workshop
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 22
+lon: -73.9862048
+lat: 40.7489625
 categories: [
     commercial,
     commercial.toy_and_game
 ]
-website: https://www.buildabear.com/locations?StoreID=384
 opening_hours: Mo-Sa 10:00-21:00; Su 11:00-19:00
 brand: Build-A-Bear Workshop
 contact: 
     phone: +1-212-863-4070
 commercial: 
     type: toys
-edge: n35 - n36
-distance: 155 m
 
 
 name: LensCrafters
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s7
+street: West 34th Street
 housenumber: 7
+lon: -73.9852815
+lat: 40.7489374
 categories: [
     commercial,
     commercial.health_and_beauty,
     commercial.health_and_beauty.optician
 ]
-website: https://local.lenscrafters.com/ny/new-york/7-west-34th-street.html
 opening_hours: Mo-Sa 10:00-20:00; Su 11:00-18:00
 brand: LensCrafters
 contact: 
     phone: +1-212-967-4166
 commercial: 
     type: optician
-edge: n35 - n36
-distance: 230 m
 
 
 name: Cafe R
-county: New York County
+city: New York
 district: Chelsea District
 suburb: Manhattan
-street: s4
+street: West 31st Street
+lon: -73.9898540766786
+lat: 40.7485851
 categories: [
     catering,
     catering.food_court,
     wheelchair,
     wheelchair.yes
 ]
-website: http://www.cafernyc.com
 opening_hours: 24/7
 contact: 
     phone: +1-212-695-9550
@@ -666,16 +644,16 @@ facilities:
     delivery: True
 catering: 
     cuisine: international
-edge: n14 - n15
-distance: 40 m
 
 
 name: Nuchas
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s5
+street: West 32nd Street
 housenumber: 97
+lon: -73.9883416934295
+lat: 40.74847865
 categories: [
     building,
     building.catering,
@@ -684,7 +662,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.nuchas.com
 opening_hours: Mo-Fr 07:30-20:00; Sa 09:00-19:00; Su 10:00-19:00
 contact: 
     phone: +1 212-912-0035
@@ -696,16 +673,16 @@ catering:
     cuisine: mexican
 building: 
     height: 6.9
-edge: n21 - n22
-distance: 0 m
 
 
 name: Empire State Building
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s15
+street: 5th Avenue
 housenumber: 350
+lon: -73.98565890160751
+lat: 40.74844205
 categories: [
     building,
     building.historic,
@@ -718,7 +695,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.esbnyc.com/explore
 opening_hours: Mo-Su 08:00-02:00
 ele: 15
 contact: 
@@ -736,16 +712,16 @@ building:
     start_date: 1931
     architecture: art_deco
     height: 443.2
-edge: n29 - n36
-distance: 45 m
 
 
 name: Starbucks
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s15
+street: 5th Avenue
 housenumber: 350
+lon: -73.985687
+lat: 40.7481846
 categories: [
     catering,
     catering.cafe,
@@ -756,7 +732,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.starbucks.com/store-locator/store/7549/34th-st-empire-state-building-350-fifth-avenue-new-york-ny-101180110-us
 opening_hours: Mo-Fr 06:30-18:00
 brand: Starbucks
 name_other: 
@@ -771,45 +746,43 @@ facilities:
     takeaway: True
 catering: 
     cuisine: coffee_shop
-edge: n29 - n36
-distance: 30 m
 
 
 name: Chase
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s15
+street: 5th Avenue
 housenumber: 349
+lon: -73.984547
+lat: 40.748145
 categories: [
     service,
     service.financial,
     service.financial.bank
 ]
-website: https://locator.chase.com/ny/new-york/349-fifth-ave
 opening_hours: 09:00-17:00
 brand: Chase
 contact: 
     phone: +1-212-696-3252
 facilities: 
     air_conditioning: True
-edge: n29 - n36
-distance: 75 m
 
 
 name: Science, Industry and Business Library
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s16
+street: Madison Avenue
 housenumber: 188
+lon: -73.9828998
+lat: 40.7480891
 categories: [
     education,
     education.library,
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.nypl.org/locations/sibl
 operator: New York Public Library
 name_other: 
     short_name: SIBL
@@ -817,58 +790,56 @@ contact:
     phone: (917) 275-6975
 facilities: 
     wheelchair: True
-edge: n37 - n45
-distance: 40 m
 
 
 name: Legends
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s6
+street: West 33rd Street
 housenumber: 6
+lon: -73.9858823
+lat: 40.7480023
 categories: [
     catering,
     catering.pub
 ]
-website: https://www.legends33.com
 opening_hours: Mo-Su 11:00-23:00
 contact: 
     phone: +1-212-967-7792
-edge: n28 - n29
-distance: 230 m
 
 
 name: Solle Spa
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s6
+street: West 33rd Street
 housenumber: 4
+lon: -73.9856375
+lat: 40.7478955
 categories: [
     commercial,
     service,
     service.beauty,
     service.beauty.massage
 ]
-website: https://sollespa.com
 opening_hours: Mo-Sa 10:00-02:00, Su 11:00-01:00
 contact: 
     phone: +1-212-564-2100
 commercial: 
     type: massage
-edge: n28 - n29
-distance: 240 m
 
 
 name: H Mart
-county: New York County
+city: New York
 suburb: Manhattan
 commercial: 
     type: supermarket
     level: 0
-street: s5
+street: West 32nd Street
 housenumber: 38
+lon: -73.9874388
+lat: 40.7478373
 categories: [
     commercial,
     commercial.supermarket,
@@ -876,7 +847,6 @@ categories: [
     wheelchair,
     wheelchair.yes
 ]
-website: https://www.hmart.com
 opening_hours: 08:00-23:00
 brand: H Mart
 operator: Hanahreum Group
@@ -892,43 +862,41 @@ payment_options:
     mastercard: True
     discover_card: True
     american_express: True
-edge: n22 - n23
-distance: 70 m
 
 
 name: Flynn's Office Solutions
-county: New York County
+city: New York
 district: Chelsea District
 suburb: Manhattan
-street: s3
+street: West 30th Street
 housenumber: 115
+lon: -73.9904315
+lat: 40.7477288
 categories: [
     commercial,
     commercial.stationery
 ]
-website: https://www.flynns.com/
 opening_hours: Mo-Fr 09:00-17:00; Sa off; Su off
 contact: 
     phone: +1-212-339-8700
 commercial: 
     type: stationery
-edge: n9 - n10
-distance: 30 m
 
 
 name: Kosher in Midtown
-county: New York County
+city: New York
 district: Manhattan Community Board 6
 suburb: Manhattan
-street: s24
+street: East 34th Street
 housenumber: 43
+lon: -73.9823758
+lat: 40.7477201
 categories: [
     catering,
     catering.food_court,
     kosher,
     kosher.only
 ]
-website: https://kosherinmidtown.com
 opening_hours: Mo-Th 11:00-20:00; Fr 11:00-15:00; Su 11:00-20:00
 contact: 
     phone: +1-212-725-8100
@@ -936,23 +904,22 @@ catering:
     cuisine: international
     diet: 
         kosher: True
-edge: n37 - n38
-distance: 30 m
 
 
 name: O'Reilly's Pub
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s4
+street: West 31st Street
 housenumber: 54
+lon: -73.9888643316651
+lat: 40.7475728
 categories: [
     catering,
     catering.bar,
     wheelchair,
     wheelchair.limited
 ]
-website: https://www.oreillyspubnyc.com
 opening_hours: 11:00-02:00
 contact: 
     phone: +1 212-684-4244
@@ -966,22 +933,21 @@ facilities:
     outdoor_seating: True
 catering: 
     cuisine: pub
-edge: n15 - n16
-distance: 30 m
 
 
 name: BCD Tofu House
-county: New York County
+city: New York
 suburb: Manhattan
 commercial: Korea Town
-street: s5
+street: West 32nd Street
 housenumber: 5
+lon: -73.9860606
+lat: 40.7475091
 categories: [
     catering,
     catering.restaurant,
     catering.restaurant.korean
 ]
-website: https://www.bcdtofuhouse.com
 opening_hours: Su-Th 10:30-24:00; Fr, Sa 10:30-03:00
 branch: Manhattan, NY
 contact: 
@@ -991,82 +957,78 @@ facilities:
     delivery: True
 catering: 
     cuisine: korean
-edge: n22 - n23
-distance: 200 m
 
 
 name: Beadkraft
-county: New York County
+city: New York
 district: Midtown South
 suburb: Manhattan
-street: s19
+street: Broadway
 housenumber: 1231
+lon: -73.9885749
+lat: 40.7469763
 categories: [
     commercial,
     commercial.hobby,
     commercial.hobby.art
 ]
-website: https://www.beadkraft.com
 opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00
 contact: 
     phone: +1-212-532-6820
     fax: +1-212-213-6409
 commercial: 
     type: craft
-edge: n11 - n16
-distance: 0 m
 
 
 name: Wolfgang’s Steakhouse
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s18
+street: Park Avenue
 housenumber: 4
+lon: -73.9820041
+lat: 40.746628
 categories: [
     catering,
     catering.restaurant
 ]
-website: https://wolfgangssteakhouse.net/
 opening_hours: Mo-Su 12:00-22:30
 contact: 
     phone: +12128893369
-edge: n31 - n38
-distance: 0 m
 
 
 name: Bank of America
-county: New York County
+city: New York
 district: Flower District
 suburb: Manhattan
-street: s14
+street: 6th Avenue
 housenumber: 812
+lon: -73.9904205
+lat: 40.7458506
 categories: [
     service,
     service.financial,
     service.financial.bank
 ]
-website: https://locators.bankofamerica.com/ny/newyork/financial-centers-new-york-15710.html
 opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-14:00
 brand: Bank of America
 contact: 
     phone: +1-212-684-1541
-edge: n0 - n3
-distance: 80 m
 
 
 name: Milk Bar
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s19
+street: Broadway
 housenumber: 1196
+lon: -73.9884597
+lat: 40.7457991
 categories: [
     commercial,
     commercial.food_and_drink,
     commercial.food_and_drink.bakery
 ]
-website: https://milkbarstore.com/pages/new-york-city-flagship
 opening_hours: Mo-Th, Su 10:00-23:00; Th-Sa 10:00-01:00
 branch: Nomad
 contact: 
@@ -1076,22 +1038,21 @@ facilities:
     delivery: True
 commercial: 
     type: pastry
-edge: n4 - n7
-distance: 85 m
 
 
 name: Blank Slate Coffee + Kitchen
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s16
+street: Madison Avenue
 housenumber: 121
+lon: -73.9851162
+lat: 40.7456894
 categories: [
     catering,
     catering.cafe,
     vegetarian
 ]
-website: https://www.blankslatenyc.com/location/nomad/
 opening_hours: Fr-Su 07:30-19:00; Mo-Th 07:30-21:00
 branch: Nomad
 craft: caterer
@@ -1112,59 +1073,53 @@ catering:
         vegetarian: True
 production: 
     industry: caterer
-edge: n13 - n18
-distance: 40 m
 
 
 name: Valley Bank
-county: New York County
-district: Manhattan Community Board 5
-suburb: Manhattan
-street: s15
+lon: -73.98635159999999
+lat: 40.74566140036276
+street: 5th Avenue
 housenumber: 279
 categories: [
     service,
     service.financial,
     service.financial.bank
 ]
-website: https://locations.valley.com/ny/newyork/valley-bank-135.html
 opening_hours: Mo-Fr 09:00-17:00
 contact: 
     phone: +1-212-481-6109
-edge: n12 - n17
-distance: 75 m
 
 
 name: American Academy of Dramatic Arts
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s16
+street: Madison Avenue
 housenumber: 120
+lon: -73.9847757
+lat: 40.7455156
 categories: [
     education,
     education.college
 ]
-website: https://www.aada.edu/campuses/new-york-campus-overview
 name_other: 
     short_name: AADA
 contact: 
     phone: +1-800-463-8990
-edge: n13 - n18
-distance: 35 m
 
 
 name: Dig
-county: New York County
+city: New York
 district: Manhattan Community Board 5
 suburb: Manhattan
-street: s19
+street: Broadway
 housenumber: 1178
+lon: -73.9885661
+lat: 40.7453494
 categories: [
     catering,
     catering.fast_food
 ]
-website: https://www.diginn.com/
 opening_hours: Mo-Fr 11:00-21:00
 brand: Dig
 name_other: 
@@ -1175,5 +1130,5 @@ facilities:
     takeaway: True
 catering: 
     cuisine: regional
-edge: n4 - n7
-distance: 0 m
+
+

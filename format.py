@@ -37,10 +37,23 @@ def main(name: str, n1: Tuple[int, float, float], d_m: float) -> None:
     with open("out/pois.json", "r") as f:
         graph["pois"] = json.load(f)
 
+    with open("out/nodes_features.json", "r") as f:
+        graph["nodes_features"] = json.load(f)
+
+    with open("out/edges_features.json", "r") as f:
+        graph["edges_features"] = json.load(f)
+
+    n1_coords = graph["nodes"][n1[0]]
+
     model = {
         "name": name,
         "template_image": "TODO",
         "meters_per_pixel": meters_per_pixel,
+        "latlon_reference": {
+            "coords": n1_coords,
+            "lat": n1[1],
+            "lon": n1[2],
+        },
         "graph": graph,
         "context": {
             "name": "TODO",

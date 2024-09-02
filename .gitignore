@@ -1,5 +1,8 @@
 .venv
 .vscode
 __pycache__
+.mypy_cache
 out/*
 src/*
+.DS_Store
+*.png

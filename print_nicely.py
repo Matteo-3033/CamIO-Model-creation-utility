@@ -22,50 +22,29 @@ def str_dict(d: Dict[Any, Any], indent: int = 0) -> str:
     return res
 
 
-with open("src/pois.json", "r") as f:
-    pois = json.load(f)["features"]
+with open("out/pois.json", "r") as f:
+    pois = json.load(f)
 
 keys = [
-    "country",
-    "country_code",
-    "state",
-    "state_code",
-    "county",
-    "postcode",
-    "details",
-    "state_code",
-    "formatted",
-    "address_line1",
-    "address_line2",
-    "datasource",
-    "place_id",
-    "brand_details",
-    "operator_details",
-    "network_details",
-    "ref_other",
-    "wiki_and_media",
-    "name_international",
-    "website",
-    "ref_other",
-    "geometry",
-    "distance",
-    "edge",
+    # "coords",
+    # "edge"
 ]
 
-res: List[Dict[str, Any]] = list()
+with open("out/edges.json", "r") as f:
+    edges = json.load(f)
 
 for poi in pois:
-    poi = poi["properties"]
-
     for key in keys:
         if key in poi:
             del poi[key]
 
-    res.append(poi)
+    if "edge" in poi:
+        edge = edges[poi["edge"]]
+        poi["edge"] = f"n{edge[0]} - n{edge[1]}"
 
 text = ""
-for poi in res:
+for poi in pois:
     text += str_dict(poi) + "\n\n"
 
-with open("poi_new_york.txt", "w") as f:
+with open("pois.txt", "w") as f:
     f.write(text)

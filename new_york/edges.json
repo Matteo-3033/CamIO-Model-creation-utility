@@ -1,0 +1,1240 @@
+{
+    "West 27th Street": [
+        {
+            "node1": 0,
+            "node2": 1,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        }
+    ],
+    "West 28th Street": [
+        {
+            "node1": 2,
+            "node2": 3,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 3,
+            "node2": 4,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        }
+    ],
+    "West 29th Street": [
+        {
+            "node1": 5,
+            "node2": 6,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 6,
+            "node2": 7,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 7,
+            "node2": 8,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        }
+    ],
+    "West 30th Street": [
+        {
+            "node1": 9,
+            "node2": 10,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 10,
+            "node2": 11,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 11,
+            "node2": 12,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "West 31st Street": [
+        {
+            "node1": 14,
+            "node2": 15,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 15,
+            "node2": 16,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 16,
+            "node2": 17,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "West 32nd Street": [
+        {
+            "node1": 20,
+            "node2": 21,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 21,
+            "node2": 22,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 22,
+            "node2": 23,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        }
+    ],
+    "West 33rd Street": [
+        {
+            "node1": 27,
+            "node2": 28,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 28,
+            "node2": 29,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        }
+    ],
+    "West 34th Street": [
+        {
+            "node1": 33,
+            "node2": 34,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 34,
+            "node2": 35,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 35,
+            "node2": 36,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "West 35th Street": [
+        {
+            "node1": 40,
+            "node2": 41,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 41,
+            "node2": 42,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 42,
+            "node2": 43,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 43,
+            "node2": 44,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        }
+    ],
+    "West 36th Street": [
+        {
+            "node1": 47,
+            "node2": 48,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 48,
+            "node2": 49,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 49,
+            "node2": 50,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        }
+    ],
+    "West 37th Street": [
+        {
+            "node1": 53,
+            "node2": 54,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 54,
+            "node2": 55,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 55,
+            "node2": 56,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "West 38th Street": [
+        {
+            "node1": 59,
+            "node2": 60,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "West 39th Street": [
+        {
+            "node1": 63,
+            "node2": 64,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "East 30th Street": [
+        {
+            "node1": 12,
+            "node2": 13,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        }
+    ],
+    "East 31st Street": [
+        {
+            "node1": 17,
+            "node2": 18,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 18,
+            "node2": 19,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "East 32nd Street": [
+        {
+            "node1": 23,
+            "node2": 24,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 24,
+            "node2": 25,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 25,
+            "node2": 26,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        }
+    ],
+    "East 33rd Street": [
+        {
+            "node1": 29,
+            "node2": 30,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 30,
+            "node2": 31,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 31,
+            "node2": 32,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "East 34th Street": [
+        {
+            "node1": 36,
+            "node2": 37,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 37,
+            "node2": 38,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 38,
+            "node2": 39,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "East 35th Street": [
+        {
+            "node1": 44,
+            "node2": 45,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 45,
+            "node2": 46,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        }
+    ],
+    "East 36th Street": [
+        {
+            "node1": 50,
+            "node2": 51,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 51,
+            "node2": 52,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "East 37th Street": [
+        {
+            "node1": 56,
+            "node2": 57,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 57,
+            "node2": 58,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "East 38th Street": [
+        {
+            "node1": 60,
+            "node2": 61,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 61,
+            "node2": 62,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "East 39th Street": [
+        {
+            "node1": 64,
+            "node2": 65,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        }
+    ],
+    "East 40th Street": [
+        {
+            "node1": 66,
+            "node2": 67,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        }
+    ],
+    "5th Avenue": [
+        {
+            "node1": 8,
+            "node2": 12,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 12,
+            "node2": 17,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 17,
+            "node2": 23,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 23,
+            "node2": 29,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 29,
+            "node2": 36,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 36,
+            "node2": 44,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 44,
+            "node2": 50,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 50,
+            "node2": 56,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 56,
+            "node2": 60,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 60,
+            "node2": 64,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 64,
+            "node2": 66,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        }
+    ],
+    "6th Avenue": [
+        {
+            "node1": 0,
+            "node2": 3,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 3,
+            "node2": 6,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 6,
+            "node2": 10,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 10,
+            "node2": 15,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 15,
+            "node2": 21,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 21,
+            "node2": 28,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 28,
+            "node2": 35,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 35,
+            "node2": 43,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 43,
+            "node2": 49,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 49,
+            "node2": 55,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 55,
+            "node2": 59,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        }
+    ],
+    "7th Avenue": [
+        {
+            "node1": 27,
+            "node2": 34,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 34,
+            "node2": 41,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 41,
+            "node2": 47,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        }
+    ],
+    "Madison Avenue": [
+        {
+            "node1": 13,
+            "node2": 18,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 18,
+            "node2": 24,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 24,
+            "node2": 30,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 30,
+            "node2": 37,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 37,
+            "node2": 45,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 45,
+            "node2": 51,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 51,
+            "node2": 57,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 57,
+            "node2": 61,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 61,
+            "node2": 68,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        }
+    ],
+    "Park Avenue South": [
+        {
+            "node1": 19,
+            "node2": 25,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        }
+    ],
+    "Park Avenue": [
+        {
+            "node1": 25,
+            "node2": 31,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "uphill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 31,
+            "node2": 38,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 38,
+            "node2": 46,
+            "features": {
+                "roadworks": true,
+                "bike_lane": false,
+                "slope": "downhill",
+                "surface": "cobblestone",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        }
+    ],
+    "Broadway": [
+        {
+            "node1": 4,
+            "node2": 7,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 7,
+            "node2": 11,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 11,
+            "node2": 16,
+            "features": {
+                "roadworks": false,
+                "bike_lane": true,
+                "slope": "downhill",
+                "surface": "concrete",
+                "traffic_direction": "two_way",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 16,
+            "node2": 22,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        },
+        {
+            "node1": 42,
+            "node2": 48,
+            "features": {
+                "roadworks": true,
+                "bike_lane": true,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_forward",
+                "stairs": false
+            }
+        },
+        {
+            "node1": 48,
+            "node2": 54,
+            "features": {
+                "roadworks": false,
+                "bike_lane": false,
+                "slope": "flat",
+                "surface": "concrete",
+                "traffic_direction": "one_way_backward",
+                "stairs": true
+            }
+        }
+    ]
+}

@@ -1,0 +1,811 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "New Merchant Food Center",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48234",
+                "district": "Northeast Central District",
+                "street": "East Seven Mile Road",
+                "housenumber": "2819",
+                "lon": -83.0751747,
+                "lat": 42.4332288,
+                "state_code": "MI",
+                "formatted": "New Merchant Food Center, 2819 East 7 Mile Road, Detroit, MI 48234, United States of America",
+                "address_line1": "New Merchant Food Center",
+                "address_line2": "2819 East 7 Mile Road, Detroit, MI 48234, United States of America",
+                "categories": ["commercial", "commercial.convenience"],
+                "opening_hours": "Mo-Fr 07:00-20:00",
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "New Merchant Food Center",
+                        "shop": "convenience",
+                        "osm_id": 8787170913,
+                        "osm_type": "n",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "East 7 Mile Road",
+                        "addr:postcode": 48234,
+                        "addr:housenumber": 2819
+                    }
+                },
+                "commercial": {
+                    "type": "convenience"
+                },
+                "place_id": "51257f8ba9cfc454c0595cf2940a74374540f00103f9016196c10b020000009203184e6577204d65726368616e7420466f6f642043656e746572"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0751747, 42.433228800514115]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant / 7 Mile (NB)",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Pershing",
+                "street": "Conant Street",
+                "lon": -83.0737585,
+                "lat": 42.433209,
+                "state_code": "MI",
+                "formatted": "Conant / 7 Mile (NB), Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant / 7 Mile (NB)",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": ["public_transport", "public_transport.bus"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bus": "yes",
+                        "name": "Conant / 7 Mile (NB)",
+                        "bench": "yes",
+                        "osm_id": 9359439777,
+                        "highway": "bus_stop",
+                        "shelter": "yes",
+                        "osm_type": "n",
+                        "survey:date": "2021-02-06",
+                        "public_transport": "platform"
+                    }
+                },
+                "place_id": "5154539275b8c454c0593dc57c6473374540f00103f901a1b7dd2d02000000920314436f6e616e74202f2037204d696c6520284e4229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0737585, 42.433209000514104]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant / 7 Mile (SB)",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Northeast Central District",
+                "street": "Conant Street",
+                "lon": -83.0736271,
+                "lat": 42.4327319,
+                "state_code": "MI",
+                "formatted": "Conant / 7 Mile (SB), Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant / 7 Mile (SB)",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": ["public_transport", "public_transport.bus"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bus": "yes",
+                        "name": "Conant / 7 Mile (SB)",
+                        "osm_id": 9359452926,
+                        "highway": "bus_stop",
+                        "osm_type": "n",
+                        "survey:date": "2021-02-06",
+                        "public_transport": "platform"
+                    }
+                },
+                "place_id": "515aa6704eb6c454c059695248c263374540f00103f901feeadd2d02000000920314436f6e616e74202f2037204d696c652028534229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07362709999998, 42.432731900514064]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": -83.07270202535868,
+                "lat": 42.43229685051405,
+                "categories": ["religion"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 679121289,
+                        "landuse": "religious",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "512f516526a7c454c059928fd18055374540f00102f90189917a2800000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07270202535868, 42.43229685051405]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Pershing High School",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48234",
+                "district": "Conant Gardens",
+                "street": "Revere Avenue",
+                "housenumber": "18875",
+                "lon": -83.06744288680991,
+                "lat": 42.432101856234134,
+                "state_code": "MI",
+                "formatted": "Pershing High School, 18875 Ryan Road, Detroit, MI 48234, United States of America",
+                "address_line1": "Pershing High School",
+                "address_line2": "18875 Ryan Road, Detroit, MI 48234, United States of America",
+                "categories": ["education", "education.school"],
+                "details": ["details", "details.wiki_and_media"],
+                "accessibility": {
+                    "tactile_map": true
+                },
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Pershing High School",
+                        "osm_id": 565634471,
+                        "amenity": "school",
+                        "operator": "Detroit Public Schools",
+                        "osm_type": "w",
+                        "wikidata": "Q7170168",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "Ryan Road",
+                        "addr:postcode": 48234,
+                        "operator:type": "public",
+                        "operator:short": "DPS",
+                        "addr:housenumber": 18875,
+                        "operator:wikidata": "Q2497108",
+                        "operator:wikipedia": "en:Detroit Public Schools Community District"
+                    }
+                },
+                "operator": "Detroit Public Schools",
+                "operator_details": {
+                    "type": "public",
+                    "wikidata": "Q2497108",
+                    "wikipedia": "en:Detroit Public Schools Community District"
+                },
+                "wiki_and_media": {
+                    "wikidata": "Q7170168"
+                },
+                "place_id": "51633a1e7130c454c059f08930c445374540f00102f901a7e5b621000000009203145065727368696e672048696768205363686f6f6c"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.06545665695153, 42.431816600514026]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant / Kalsh (NB)",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "lon": -83.0724603,
+                "lat": 42.4314748,
+                "state_code": "MI",
+                "formatted": "Conant / Kalsh (NB), Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant / Kalsh (NB)",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": ["public_transport", "public_transport.bus"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bus": "yes",
+                        "name": "Conant / Kalsh (NB)",
+                        "osm_id": 9359439778,
+                        "highway": "bus_stop",
+                        "osm_type": "n",
+                        "survey:date": "2021-02-06",
+                        "public_transport": "platform"
+                    }
+                },
+                "place_id": "5188b08630a3c454c059bea0f6903a374540f00103f901a2b7dd2d02000000920313436f6e616e74202f204b616c736820284e4229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07246029999999, 42.43147480051401]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": -83.07316806663596,
+                "lat": 42.431188550513994,
+                "categories": ["religion"],
+                "details": ["details.place_of_worship"],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 652970725,
+                        "landuse": "religious",
+                        "osm_type": "w",
+                        "religion": "christian",
+                        "denomination": "seventh_day_adventist"
+                    }
+                },
+                "place_of_worship": {
+                    "religion": "christian",
+                    "denomination": "seventh_day_adventist"
+                },
+                "place_id": "5108541dc9aec454c059026fb92f31374540f00102f901e58aeb2600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07316806663596, 42.431188550513994]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "United Grill Coney Island",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "lon": -83.07254050617773,
+                "lat": 42.43074195,
+                "state_code": "MI",
+                "formatted": "United Grill Coney Island, Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "United Grill Coney Island",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": [
+                    "building",
+                    "building.catering",
+                    "catering",
+                    "catering.restaurant",
+                    "catering.restaurant.american"
+                ],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "United Grill Coney Island",
+                        "osm_id": 736272338,
+                        "amenity": "restaurant",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "addr:street": "Conant Street"
+                    }
+                },
+                "place_id": "51ca6aef80a4c454c059823c5f8d22374540f00102f901d29fe22b00000000920319556e69746564204772696c6c20436f6e65792049736c616e64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07254050617772, 42.43074195051396]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant / Robinwood (SB)",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "lon": -83.0718729,
+                "lat": 42.4302296,
+                "state_code": "MI",
+                "formatted": "Conant / Robinwood (SB), Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant / Robinwood (SB)",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": ["public_transport", "public_transport.bus"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bus": "yes",
+                        "name": "Conant / Robinwood (SB)",
+                        "osm_id": 9359452925,
+                        "highway": "bus_stop",
+                        "osm_type": "n",
+                        "survey:date": "2021-02-06",
+                        "public_transport": "platform"
+                    }
+                },
+                "place_id": "51febdca9099c454c0593ffd77c311374540f00103f901fdeadd2d02000000920317436f6e616e74202f20526f62696e776f6f642028534229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07187289999999, 42.43022960051393]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": -83.0711006336864,
+                "lat": 42.42990830051393,
+                "categories": ["religion"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1132349268,
+                        "landuse": "religious",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "511c1aace98cc454c0593e7e353c07374540f00102f90154477e4300000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0711006336864, 42.42990830051393]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant Ave United Methodist Church",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "housenumber": "18600",
+                "lon": -83.07108820272792,
+                "lat": 42.42988025,
+                "state_code": "MI",
+                "formatted": "Conant Ave United Methodist Church, 18600 Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant Ave United Methodist Church",
+                "address_line2": "18600 Conant Street, Detroit, MI 48303, United States of America",
+                "categories": [
+                    "building",
+                    "building.place_of_worship",
+                    "religion",
+                    "religion.place_of_worship",
+                    "religion.place_of_worship.christianity"
+                ],
+                "details": ["details.place_of_worship"],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Conant Ave United Methodist Church",
+                        "osm_id": 1116019278,
+                        "amenity": "place_of_worship",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "religion": "christian",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "Conant Street",
+                        "addr:housenumber": 18600
+                    }
+                },
+                "place_of_worship": {
+                    "religion": "christian"
+                },
+                "place_id": "51427688b58cc454c059a893e85006374540f00102f9014e1a854200000000920322436f6e616e742041766520556e69746564204d6574686f6469737420436875726368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0710882027279, 42.42988025051392]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant / Grixdale (NB)",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "lon": -83.0704567,
+                "lat": 42.4285804,
+                "state_code": "MI",
+                "formatted": "Conant / Grixdale (NB), Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant / Grixdale (NB)",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": ["public_transport", "public_transport.bus"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bus": "yes",
+                        "name": "Conant / Grixdale (NB)",
+                        "osm_id": 9359439779,
+                        "highway": "bus_stop",
+                        "osm_type": "n",
+                        "survey:date": "2021-02-06",
+                        "public_transport": "platform"
+                    }
+                },
+                "place_id": "512e92d15c82c454c059f0f4f9b8db364540f00103f901a3b7dd2d02000000920316436f6e616e74202f204772697864616c6520284e4229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.0704567, 42.42858040051385]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant Gardens Church of Christ",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48234",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "housenumber": "18460",
+                "lon": -83.07009531452096,
+                "lat": 42.42821085,
+                "state_code": "MI",
+                "formatted": "Conant Gardens Church of Christ, 18460 Conant Street, Detroit, MI 48234, United States of America",
+                "address_line1": "Conant Gardens Church of Christ",
+                "address_line2": "18460 Conant Street, Detroit, MI 48234, United States of America",
+                "categories": [
+                    "building",
+                    "building.place_of_worship",
+                    "religion",
+                    "religion.place_of_worship",
+                    "religion.place_of_worship.christianity"
+                ],
+                "details": ["details", "details.place_of_worship"],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "ele": 192,
+                        "name": "Conant Gardens Church of Christ",
+                        "osm_id": 1132350607,
+                        "amenity": "place_of_worship",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "religion": "christian",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "Conant Street",
+                        "addr:postcode": 48234,
+                        "addr:housenumber": 18460
+                    }
+                },
+                "ele": 192,
+                "place_of_worship": {
+                    "religion": "christian"
+                },
+                "place_id": "511ade0e717cc454c059e85ff79ccf364540f00102f9018f4c7e430000000092031f436f6e616e742047617264656e7320436875726368206f6620436872697374"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07009531452096, 42.428210850513835]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": -83.06995444110876,
+                "lat": 42.42820700051382,
+                "categories": ["religion"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 1132350609,
+                        "landuse": "religious",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "516a3131227ac454c0590490ab7ccf364540f00102f901914c7e4300000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.06995444110876, 42.42820700051382]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Conant / Grixdale (SB)",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48303",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "lon": -83.0703065,
+                "lat": 42.4280459,
+                "state_code": "MI",
+                "formatted": "Conant / Grixdale (SB), Conant Street, Detroit, MI 48303, United States of America",
+                "address_line1": "Conant / Grixdale (SB)",
+                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
+                "categories": ["public_transport", "public_transport.bus"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "bus": "yes",
+                        "name": "Conant / Grixdale (SB)",
+                        "osm_id": 9359452924,
+                        "highway": "bus_stop",
+                        "osm_type": "n",
+                        "survey:date": "2021-02-06",
+                        "public_transport": "platform"
+                    }
+                },
+                "place_id": "518e8cd5e67fc454c05964f24335ca364540f00103f901fceadd2d02000000920316436f6e616e74202f204772697864616c652028534229"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07030649999999, 42.42804590051381]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Keynote Lounge",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48234",
+                "district": "Conant Gardens",
+                "street": "Conant Street",
+                "housenumber": "19437",
+                "lon": -83.0700734,
+                "lat": 42.4276998,
+                "state_code": "MI",
+                "formatted": "Keynote Lounge, 19437 Conant Street, Detroit, MI 48234, United States of America",
+                "address_line1": "Keynote Lounge",
+                "address_line2": "19437 Conant Street, Detroit, MI 48234, United States of America",
+                "categories": ["catering", "catering.bar"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Keynote Lounge",
+                        "osm_id": 5917584555,
+                        "amenity": "bar",
+                        "osm_type": "n",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "Conant Street",
+                        "addr:postcode": 48234,
+                        "addr:housenumber": 19437
+                    }
+                },
+                "place_id": "51725424157cc454c05935dbf7ddbe364540f00103f901ab2cb7600100000092030e4b65796e6f7465204c6f756e6765"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07007339999998, 42.427699800513814]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Yakisch Playground",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "street": "Angling Street",
+                "postcode": "48234",
+                "district": "Northeast Central District",
+                "lon": -83.07427480443312,
+                "lat": 42.4276532,
+                "state_code": "MI",
+                "formatted": "Yakisch Playground, Detroit, MI 48234, United States of America",
+                "address_line1": "Yakisch Playground",
+                "address_line2": "Detroit, MI 48234, United States of America",
+                "categories": ["leisure", "leisure.park"],
+                "details": [],
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "accessibility": {
+                    "tactile_map": true
+                },
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Yakisch Playground",
+                        "osm_id": 633904143,
+                        "leisure": "park",
+                        "osm_type": "w",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "Anglin Street",
+                        "addr:postcode": 48234,
+                        "addr:housenumber": 18160
+                    }
+                },
+                "place_id": "513efd1bebc0c454c059461e0f57bd364540f00102f9010f9cc8250000000092031259616b6973636820506c617967726f756e64"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07427480443309, 42.4276532005138]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Antioch Missionary Baptist Church",
+                "country": "United States",
+                "country_code": "us",
+                "state": "Michigan",
+                "county": "Wayne County",
+                "city": "Detroit",
+                "postcode": "48234",
+                "district": "Conant Gardens",
+                "street": "McDougall Street",
+                "housenumber": "18045",
+                "lon": -83.07093150355459,
+                "lat": 42.4266889,
+                "state_code": "MI",
+                "formatted": "Antioch Missionary Baptist Church, 18045 McDougall Street, Detroit, MI 48234, United States of America",
+                "address_line1": "Antioch Missionary Baptist Church",
+                "address_line2": "18045 McDougall Street, Detroit, MI 48234, United States of America",
+                "categories": [
+                    "building",
+                    "building.place_of_worship",
+                    "religion",
+                    "religion.place_of_worship",
+                    "religion.place_of_worship.christianity"
+                ],
+                "details": ["details.place_of_worship"],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "name": "Antioch Missionary Baptist Church",
+                        "osm_id": 1132350602,
+                        "amenity": "place_of_worship",
+                        "building": "yes",
+                        "osm_type": "w",
+                        "religion": "christian",
+                        "addr:city": "Detroit",
+                        "addr:state": "MI",
+                        "addr:street": "McDougall Street",
+                        "addr:postcode": 48234,
+                        "addr:housenumber": 18045
+                    }
+                },
+                "place_of_worship": {
+                    "religion": "christian"
+                },
+                "place_id": "5179014a248ac454c059e9a2ecbd9d364540f00102f9018a4c7e4300000000920321416e74696f6368204d697373696f6e617279204261707469737420436875726368"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07093150355458, 42.426688900513746]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "lon": -83.07115497533395,
+                "lat": 42.42638550051373,
+                "categories": ["religion"],
+                "details": [],
+                "datasource": {
+                    "sourcename": "openstreetmap",
+                    "attribution": "© OpenStreetMap contributors",
+                    "license": "Open Database License",
+                    "url": "https://www.openstreetmap.org/copyright",
+                    "raw": {
+                        "osm_id": 649649365,
+                        "landuse": "religious",
+                        "osm_type": "w"
+                    }
+                },
+                "place_id": "51730099cd8dc454c059f818d2cc93364540f00102f901d5dcb82600000000"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [-83.07115497533395, 42.42638550051373]
+            }
+        }
+    ]
+}

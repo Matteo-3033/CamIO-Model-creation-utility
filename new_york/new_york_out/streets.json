@@ -1,0 +1,162 @@
+{
+    "West 27th Street": [
+        0
+    ],
+    "West 28th Street": [
+        1,
+        2
+    ],
+    "West 29th Street": [
+        3,
+        4,
+        5
+    ],
+    "West 30th Street": [
+        6,
+        7,
+        8
+    ],
+    "West 31st Street": [
+        9,
+        10,
+        11
+    ],
+    "West 32nd Street": [
+        12,
+        13,
+        14
+    ],
+    "West 33rd Street": [
+        15,
+        16
+    ],
+    "West 34th Street": [
+        17,
+        18,
+        19
+    ],
+    "West 35th Street": [
+        20,
+        21,
+        22,
+        23
+    ],
+    "West 36th Street": [
+        24,
+        25,
+        26
+    ],
+    "West 37th Street": [
+        27,
+        28,
+        29
+    ],
+    "West 38th Street": [
+        30
+    ],
+    "West 39th Street": [
+        31
+    ],
+    "East 30th Street": [
+        32
+    ],
+    "East 31st Street": [
+        33,
+        34
+    ],
+    "East 32nd Street": [
+        35,
+        36,
+        37
+    ],
+    "East 33rd Street": [
+        38,
+        39,
+        40
+    ],
+    "East 34th Street": [
+        41,
+        42,
+        43
+    ],
+    "East 35th Street": [
+        44,
+        45
+    ],
+    "East 36th Street": [
+        46,
+        47
+    ],
+    "East 37th Street": [
+        48,
+        49
+    ],
+    "East 38th Street": [
+        50,
+        51
+    ],
+    "East 39th Street": [
+        52
+    ],
+    "East 40th Street": [
+        53
+    ],
+    "5th Avenue": [
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+    ],
+    "6th Avenue": [
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+    ],
+    "7th Avenue": [
+        76,
+        77,
+        78
+    ],
+    "Madison Avenue": [
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87
+    ],
+    "Park Avenue South": [
+        88
+    ],
+    "Park Avenue": [
+        89,
+        90,
+        91
+    ],
+    "Broadway": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97
+    ]
+}

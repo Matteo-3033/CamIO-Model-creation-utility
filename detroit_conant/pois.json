@@ -1881,6 +1881,14 @@
                     "catering.restaurant",
                     "catering.restaurant.japanese"
                 ],
+                "accessibility": {
+                    "wheelchair_accessible": true,
+                    "tactile_paving": false,
+                    "tactile_map": false,
+                    "reception": true,
+                    "stairs": true,
+                    "elevator": true
+                },
                 "details": [
                     "details",
                     "details.catering",

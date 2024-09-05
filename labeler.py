@@ -25,8 +25,8 @@ nodes_values = {
     "crosswalk": [True, False],
     "walk_light": [True, False],
     "round-about": [True, False],
-    "walk_light_duration": ["unknown", "15 s", "30 s", "45 s", "20 s"],
-    "street_width": ["unknown", "10 m", "15 m", "12.5 m", "20 m"],
+    "walk_light_duration": ["unknown", 15, 20, 30, 45],
+    "street_width": ["unknown", 10, 12.5, 15, 20],
     "tactile_paving": [True, False],
 }
 
@@ -66,6 +66,14 @@ class Point:
             and "walk_light_duration" in self.features
         ):
             del self.features["walk_light_duration"]
+
+        if self.features.get("walk_light_duration", "unknown") != "unknown":
+            self.features["walk_light_duration"] = float(
+                self.features["walk_light_duration"]
+            )
+
+        if self.features["street_width"] != "unknown":
+            self.features["street_width"] = float(self.features["street_width"])
 
         if self.features.get("walk_light", False):
             self.features["crosswalk"] = True

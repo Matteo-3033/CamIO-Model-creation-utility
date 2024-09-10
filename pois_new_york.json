@@ -879,7 +879,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Serafina Italian Restaurant",
+                "name": "The Italian Table",
                 "country": "United States",
                 "country_code": "us",
                 "state": "New York",
@@ -920,7 +920,7 @@
                         "osm_id": 2714855295,
                         "amenity": "restaurant",
                         "cuisine": "italian",
-                        "website": "https://www.serafinarestaurant.com/location/serafina-madison-38th/",
+                        "website": "https://www.italiantable.com",
                         "osm_type": "n",
                         "addr:city": "New York",
                         "addr:state": "NY",
@@ -933,7 +933,7 @@
                         "payment:credit_cards": "yes"
                     }
                 },
-                "website": "https://www.serafinarestaurant.com/location/serafina-madison-38th/",
+                "website": "https://www.italiantable.com",
                 "opening_hours": "Mo-Su 07:00-22:00",
                 "branch": "Madison 38th",
                 "contact": {

@@ -1023,6 +1023,7 @@
                     "website": "https://www.aada.edu"
                 },
                 "city": "Detroit",
+                "edge": 32,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": true,
@@ -1031,12 +1032,11 @@
                     "stairs": false,
                     "elevator": true
                 },
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Hildale Street and on Revere Avenuenear the intersection with East Robinwood Street",
                 "coords": [
-                    2976.009044249221,
-                    1669.10093217789
-                ],
-                "edge": 32,
-                "location_description": "on Revere Avenue, near the the intersection with East Robinwood Street"
+                    2878.2551194647667,
+                    1646.177940536024
+                ]
             },
             {
                 "name": "Antioch Missionary Baptist Church",
@@ -1051,6 +1051,7 @@
                 "place_of_worship": {
                     "religion": "christian"
                 },
+                "edge": 16,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1059,12 +1060,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on McDougall Streetnear the intersection with Berry Street",
                 "coords": [
-                    1797.9704206507106,
-                    2969.065989608277
-                ],
-                "edge": 16,
-                "location_description": "on McDougall Street, near the the intersection with Berry Street"
+                    1959.726337823806,
+                    3028.8474516531423
+                ]
             },
             {
                 "name": "Bank of America",
@@ -1080,6 +1080,7 @@
                     "website": "https://bankofamerica.com"
                 },
                 "city": "Detroit",
+                "edge": 24,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1088,12 +1089,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Grixdale Avenue and on Klinger Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    2660.41013104517,
-                    1743.1705242361475
-                ],
-                "edge": 25,
-                "location_description": "on Klinger Street, near the the intersection with East Hildale Street"
+                    2604.7291583784813,
+                    2256.1254440155544
+                ]
             },
             {
                 "name": "Bank of Hope",
@@ -1111,6 +1111,7 @@
                     "website": "https://www.bankofhope.com"
                 },
                 "city": "Detroit",
+                "edge": 12,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1119,12 +1120,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    1342.0254331628337,
-                    2757.0881931226177
-                ],
-                "edge": 11,
-                "location_description": "on Joseph Campau Avenue, between the intersection with East Grixdale Avenue and the limit of the map"
+                    1378.177014089896,
+                    2374.871960822788
+                ]
             },
             {
                 "name": "Blaggards Pub",
@@ -1144,6 +1144,7 @@
                     "delivery": true
                 },
                 "city": "Detroit",
+                "edge": 72,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1152,12 +1153,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Conant Street and on East Robinwood Streetnear the intersection with Charest Street",
                 "coords": [
-                    739.3630288788627,
-                    1465.1846651742376
-                ],
-                "edge": 68,
-                "location_description": "on East Robinwood Street, near the the intersection with Angling Street"
+                    1892.2098504858195,
+                    1640.93871915026
+                ]
             },
             {
                 "name": "Blank Slate Coffee + Kitchen",
@@ -1194,6 +1194,7 @@
                     "industry": "caterer"
                 },
                 "city": "Detroit",
+                "edge": 33,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1202,12 +1203,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Revere Avenuenear the intersection with East Brentwood Street",
                 "coords": [
-                    2722.5104059050045,
-                    1713.6773928780526
-                ],
-                "edge": 32,
-                "location_description": "on Revere Avenue, near the the intersection with East Hildale Street"
+                    2791.267269255669,
+                    1187.7147029192188
+                ]
             },
             {
                 "name": "Cafe China",
@@ -1229,6 +1229,7 @@
                     "cuisine": "chinese"
                 },
                 "city": "Detroit",
+                "edge": 43,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1237,12 +1238,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Mitchell Street, between on Mitchell Streetnear the intersection with Kalsh Street and on Mitchell Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    1641.1033310710197,
-                    1118.9412174867493
-                ],
-                "edge": 43,
-                "location_description": "on Mitchell Street, near the the intersection with Kalsh Street"
+                    1680.250876532001,
+                    1218.7385397671878
+                ]
             },
             {
                 "name": "Citizens Bank",
@@ -1261,6 +1261,7 @@
                     "website": "https://citizensbank.com"
                 },
                 "city": "Detroit",
+                "edge": 25,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1269,12 +1270,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Hildale Street and on Klinger Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    2599.105190581021,
-                    1323.863997643702
-                ],
-                "edge": 26,
-                "location_description": "on Klinger Street, near the the intersection with East Brentwood Street"
+                    2591.7059254730702,
+                    1556.1659519289258
+                ]
             },
             {
                 "name": "Conant / 7 Mile (NB)",
@@ -1285,6 +1285,7 @@
                     "public_transport",
                     "bus_stop"
                 ],
+                "edge": 120,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1293,12 +1294,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Streetnear the border of the map",
                 "coords": [
-                    1405.6541587512365,
-                    697.7728281573932
-                ],
-                "edge": 120,
-                "location_description": "on Conant Street, near the border of the map"
+                    1224.4936435978836,
+                    724.6335037785531
+                ]
             },
             {
                 "name": "Conant / 7 Mile (SB)",
@@ -1309,6 +1309,7 @@
                     "public_transport",
                     "bus_stop"
                 ],
+                "edge": 119,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1317,12 +1318,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    1295.3298045308168,
-                    1015.5855000030106
-                ],
-                "edge": 119,
-                "location_description": "on Conant Street, near the the intersection with East Seven Mile Road"
+                    1245.8784048837758,
+                    863.5672091447582
+                ]
             },
             {
                 "name": "Conant / Grixdale (NB)",
@@ -1333,6 +1333,7 @@
                     "public_transport",
                     "bus_stop"
                 ],
+                "edge": 115,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1341,12 +1342,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Grixdale Avenue and on Conant Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    2069.426902650543,
-                    2195.236509337126
-                ],
-                "edge": 115,
-                "location_description": "on Conant Street, near the the intersection with East Grixdale Avenue"
+                    2088.5023292360374,
+                    2358.2545355133943
+                ]
             },
             {
                 "name": "Conant / Grixdale (SB)",
@@ -1357,6 +1357,7 @@
                     "public_transport",
                     "bus_stop"
                 ],
+                "edge": 114,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1365,12 +1366,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with Gallagher Street and Stockton Street and on Conant Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2165.812340348974,
-                    2685.9591600905374
-                ],
-                "edge": 114,
-                "location_description": "on Conant Street, near the the intersection with East Grixdale Avenue"
+                    2128.9915357170325,
+                    2553.4653879705356
+                ]
             },
             {
                 "name": "Conant / Kalsh (NB)",
@@ -1381,6 +1381,7 @@
                     "public_transport",
                     "bus_stop"
                 ],
+                "edge": 118,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1389,12 +1390,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with Kalsh Street and on Conant Streetnear the intersection with East Brentwood Street and Joseph Campau Avenue",
                 "coords": [
-                    1544.2274187702467,
-                    1143.312654483198
-                ],
-                "edge": 118,
-                "location_description": "on Conant Street, near the the intersection with Kalsh Street"
+                    1548.3946453132194,
+                    1301.1576386943984
+                ]
             },
             {
                 "name": "Conant / Robinwood (SB)",
@@ -1405,6 +1405,7 @@
                     "public_transport",
                     "bus_stop"
                 ],
+                "edge": 116,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1413,12 +1414,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Hildale Street and on Conant Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    1737.0580052975383,
-                    1879.538067765806
-                ],
-                "edge": 116,
-                "location_description": "on Conant Street, near the the intersection with East Robinwood Street"
+                    1706.7392518051804,
+                    1755.9313589548128
+                ]
             },
             {
                 "name": "Conant Ave United Methodist Church",
@@ -1433,6 +1433,7 @@
                 "place_of_worship": {
                     "religion": "christian"
                 },
+                "edge": 116,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1441,12 +1442,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Hildale Street and on Conant Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    1938.0595422931758,
-                    1788.3641131738282
-                ],
-                "edge": 116,
-                "location_description": "on Conant Street, near the the intersection with East Hildale Street"
+                    1917.739500108291,
+                    1883.7991348217952
+                ]
             },
             {
                 "name": "Conant Gardens Church of Christ",
@@ -1461,6 +1461,7 @@
                 "place_of_worship": {
                     "religion": "christian"
                 },
+                "edge": 114,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1469,12 +1470,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with Gallagher Street and Stockton Street and on Conant Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2317.076667323161,
-                    2564.079151753305
-                ],
-                "edge": 114,
-                "location_description": "on Conant Street, near the the intersection with East Grixdale Avenue"
+                    2185.920513525858,
+                    2493.2221136723506
+                ]
             },
             {
                 "name": "Cooper Electric",
@@ -1499,6 +1499,7 @@
                 },
                 "distance": 384,
                 "city": "Detroit",
+                "edge": 14,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1507,12 +1508,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Robinwood Street and on Joseph Campau Avenuenear the intersection with Conant Street and East Brentwood Street",
                 "coords": [
-                    1470.0868178626633,
-                    1430.3952596595761
-                ],
-                "edge": 14,
-                "location_description": "on Joseph Campau Avenue, near the the intersection with East Robinwood Street"
+                    1542.6721546527772,
+                    1601.1229812818162
+                ]
             },
             {
                 "name": "Detroit Diner",
@@ -1534,6 +1534,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
+                "edge": 5,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1542,12 +1543,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Angling Street, between on Angling Streetnear the intersection with East Robinwood Street and on Angling Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    840.8694899902083,
-                    2700.570761178074
-                ],
-                "edge": 3,
-                "location_description": "on Angling Street, near the the intersection with East Grixdale Avenue"
+                    804.7537629475725,
+                    1053.5943657496389
+                ]
             },
             {
                 "name": "Dig",
@@ -1572,6 +1572,7 @@
                     "cuisine": "regional"
                 },
                 "city": "Detroit",
+                "edge": 46,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1580,12 +1581,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Charest Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    2045.0528389512701,
-                    1362.7818840052885
-                ],
-                "edge": 47,
-                "location_description": "on Charest Street, near the the intersection with East Brentwood Street"
+                    2036.831978215777,
+                    1891.7340914084757
+                ]
             },
             {
                 "name": "Eden Crest",
@@ -1609,6 +1609,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
+                "edge": 64,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1617,12 +1618,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Klinger Street and on East Grixdale Avenuenear the intersection with Revere Avenue",
                 "coords": [
-                    2931.788850766137,
-                    2537.7551518808377
-                ],
-                "edge": 65,
-                "location_description": "on East Grixdale Avenue, near the the intersection with Norwood Street"
+                    2807.085154506392,
+                    2486.9020126430273
+                ]
             },
             {
                 "name": "Food Gallery 32",
@@ -1638,6 +1638,7 @@
                     "website": "https://www.foodgallery32detroit.com/"
                 },
                 "city": "Detroit",
+                "edge": 12,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1646,12 +1647,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    1416.4511928726345,
-                    2803.3943644925657
-                ],
-                "edge": 11,
-                "location_description": "on Joseph Campau Avenue, between the intersection with East Grixdale Avenue and the limit of the map"
+                    1514.7485319815482,
+                    2375.321198348982
+                ]
             },
             {
                 "name": "Fry & Shake",
@@ -1675,6 +1675,7 @@
                     "capacity": 135
                 },
                 "city": "Detroit",
+                "edge": 46,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1683,20 +1684,19 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Hildale Street and on Charest Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    2096.511356790953,
-                    1773.9891435409468
-                ],
-                "edge": 46,
-                "location_description": "on Charest Street, near the the intersection with East Robinwood Street"
+                    2016.0865777874542,
+                    1730.6734605851993
+                ]
             },
             {
                 "name": "Grand Vista Hotel",
                 "street": "Maine Street",
                 "housenumber": "305",
                 "categories": [
-                    "accommodation.hotel",
-                    "building.accommodation"
+                    "building.accommodation",
+                    "accommodation.hotel"
                 ],
                 "opening_hours": "24/7",
                 "brand": "RIU",
@@ -1725,6 +1725,7 @@
                     "type": "hotel"
                 },
                 "city": "Detroit",
+                "edge": 0,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1733,12 +1734,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Maine Street, between on Maine Streetnear the border of the map and on Maine Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    632.5378180249893,
-                    1359.1183447381509
-                ],
-                "edge": 2,
-                "location_description": "on Maine Street, between the intersection with East Robinwood Street and the intersection with East Seven Mile Road"
+                    707.7453106222031,
+                    2657.2301448480284
+                ]
             },
             {
                 "name": "Harrison & Co.",
@@ -1769,6 +1769,7 @@
                     "type": "supermarket"
                 },
                 "city": "Detroit",
+                "edge": 23,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1777,20 +1778,19 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with Stockton Street and on Klinger Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2609.0706353118585,
-                    2193.0735360400035
-                ],
-                "edge": 24,
-                "location_description": "on Klinger Street, near the the intersection with East Hildale Street"
+                    2596.9491520284846,
+                    2538.657593654741
+                ]
             },
             {
                 "name": "Hotel Plaza",
                 "street": "Mitchell Street",
                 "housenumber": "145",
                 "categories": [
-                    "accommodation.hotel",
-                    "building.accommodation"
+                    "building.accommodation",
+                    "accommodation.hotel"
                 ],
                 "opening_hours": "24/7",
                 "brand": "RIU",
@@ -1818,6 +1818,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
+                "edge": 42,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1826,12 +1827,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Mitchell Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    1720.9916546810732,
-                    2789.036848797523
-                ],
-                "edge": 41,
-                "location_description": "on Mitchell Street, between the intersection with East Grixdale Avenue and the limit of the map"
+                    1707.3613474000845,
+                    2382.6421576074335
+                ]
             },
             {
                 "name": "House of Sushi",
@@ -1866,12 +1866,12 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
-                "coords": [
-                    1614.6874183744073,
-                    1862.677541800954
-                ],
                 "edge": 13,
-                "location_description": "on Joseph Campau Avenue, near the the intersection with East Robinwood Street"
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Hildale Street and on Joseph Campau Avenuenear the intersection with East Robinwood Street",
+                "coords": [
+                    1396.4630253442128,
+                    1941.7145685735284
+                ]
             },
             {
                 "name": "Jewelry Shopping Mall",
@@ -1887,6 +1887,7 @@
                     "website": "http://www.igtdetroit.com/mall/visiting-the-mall"
                 },
                 "city": "Detroit",
+                "edge": 5,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1895,12 +1896,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Angling Street, between on Angling Streetnear the intersection with East Robinwood Street and on Angling Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    727.5061844364826,
-                    998.0638991464137
-                ],
-                "edge": 5,
-                "location_description": "on Angling Street, near the the intersection with East Seven Mile Road"
+                    804.8952293610485,
+                    1263.507366410465
+                ]
             },
             {
                 "name": "Keynote Lounge",
@@ -1911,6 +1911,7 @@
                 "categories": [
                     "catering.bar"
                 ],
+                "edge": 114,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1919,12 +1920,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with Gallagher Street and Stockton Street and on Conant Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2155.8501346921275,
-                    2621.73713201546
-                ],
-                "edge": 114,
-                "location_description": "on Conant Street, near the the intersection with Stockton Street and Gallagher Street"
+                    2191.8279806642186,
+                    2679.8685236765996
+                ]
             },
             {
                 "name": "Korean Bites",
@@ -1949,6 +1949,7 @@
                     "cuisine": "korean"
                 },
                 "city": "Detroit",
+                "edge": 12,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1957,20 +1958,19 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    1202.6558667159634,
-                    1753.3176937135427
-                ],
-                "edge": 13,
-                "location_description": "on Joseph Campau Avenue, near the the intersection with East Robinwood Street"
+                    1454.5481955359107,
+                    2159.8814983905004
+                ]
             },
             {
                 "name": "Kosher",
                 "street": "Conant Street",
                 "housenumber": "43",
                 "categories": [
-                    "kosher.only",
-                    "catering.food_court"
+                    "catering.food_court",
+                    "kosher.only"
                 ],
                 "opening_hours": "Mo-Th 11:00-20:00; Fr 11:00-15:00; Su 11:00-20:00",
                 "contact": {
@@ -1984,6 +1984,7 @@
                     }
                 },
                 "city": "Detroit",
+                "edge": 117,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1992,12 +1993,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Robinwood Street and on Conant Streetnear the intersection with Kalsh Street",
                 "coords": [
-                    1672.771030397889,
-                    1385.3334046496848
-                ],
-                "edge": 117,
-                "location_description": "on Conant Street, near the the intersection with East Robinwood Street"
+                    1750.6204385804558,
+                    1564.8965284390702
+                ]
             },
             {
                 "name": "Mad Dog",
@@ -2021,6 +2021,7 @@
                     "cuisine": "mexican"
                 },
                 "city": "Detroit",
+                "edge": 68,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2029,20 +2030,19 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Maine Street and on East Robinwood Streetnear the intersection with Angling Street",
                 "coords": [
-                    2998.908096472409,
-                    1631.5577274934963
-                ],
-                "edge": 76,
-                "location_description": "on East Robinwood Street, near the the intersection with Revere Avenue"
+                    823.3120265393164,
+                    1564.1696659072404
+                ]
             },
             {
                 "name": "McDonald's",
                 "street": "Klinger Street",
                 "housenumber": "809",
                 "categories": [
-                    "building.catering",
                     "catering.fast_food.burger",
+                    "building.catering",
                     "building.commercial"
                 ],
                 "opening_hours": "Mo-Su 07:00-20:00",
@@ -2073,6 +2073,7 @@
                     "height": 7.5
                 },
                 "city": "Detroit",
+                "edge": 27,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2081,12 +2082,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Brentwood Street and on Klinger Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    2662.1705977028587,
-                    945.9950552152195
-                ],
-                "edge": 27,
-                "location_description": "on Klinger Street, near the the intersection with East Seven Mile Road"
+                    2591.791817747716,
+                    879.8422851122688
+                ]
             },
             {
                 "name": "Mondo",
@@ -2101,6 +2101,7 @@
                     "website": "https://www.mondo.com/"
                 },
                 "city": "Detroit",
+                "edge": 30,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": true,
@@ -2109,12 +2110,11 @@
                     "stairs": true,
                     "elevator": true
                 },
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with Stockton Street and on Revere Avenuenear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2664.840348680119,
-                    2174.2476647750277
-                ],
-                "edge": 31,
-                "location_description": "on Revere Avenue, near the the intersection with East Hildale Street"
+                    2843.792051801258,
+                    2668.6016876017834
+                ]
             },
             {
                 "name": "New Merchant Food Center",
@@ -2129,6 +2129,7 @@
                 "commercial": {
                     "type": "convenience"
                 },
+                "edge": 84,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2137,12 +2138,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Seven Mile Road, between on East Seven Mile Roadnear the intersection with Angling Street and on East Seven Mile Roadnear the intersection with Angling Street",
                 "coords": [
-                    774.7043250154647,
-                    555.5322372234535
-                ],
-                "edge": 84,
-                "location_description": "on East Seven Mile Road, near the the intersection with Angling Street"
+                    816.6775872039115,
+                    689.1141684845728
+                ]
             },
             {
                 "name": "Nomad",
@@ -2160,6 +2160,7 @@
                     "cuisine": "fine_dining"
                 },
                 "city": "Detroit",
+                "edge": 48,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2168,12 +2169,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Charest Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    1974.3486569022734,
-                    1298.4030077975171
-                ],
-                "edge": 47,
-                "location_description": "on Charest Street, near the the intersection with East Robinwood Street"
+                    2009.3390370031273,
+                    1045.5325171505087
+                ]
             },
             {
                 "name": "Pershing High School",
@@ -2193,12 +2193,12 @@
                     "elevator": false
                 },
                 "operator": "Detroit Public Schools",
-                "coords": [
-                    3012.202914543872,
-                    1054.7103561996023
-                ],
                 "edge": 34,
-                "location_description": "on Revere Avenue, near the the intersection with East Brentwood Street"
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Brentwood Street and on Revere Avenuenear the intersection with East Seven Mile Road",
+                "coords": [
+                    2863.5605513749165,
+                    1073.6790705683138
+                ]
             },
             {
                 "name": "Pok\u00e9 Bar",
@@ -2213,6 +2213,7 @@
                     "website": "https://www.ilovepokebar.com"
                 },
                 "city": "Detroit",
+                "edge": 47,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2221,12 +2222,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Robinwood Street and on Charest Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    2067.443334824751,
-                    1312.1475570569185
-                ],
-                "edge": 47,
-                "location_description": "on Charest Street, near the the intersection with East Robinwood Street"
+                    1948.3053042373615,
+                    1415.9556012931876
+                ]
             },
             {
                 "name": "Prosek",
@@ -2241,6 +2241,7 @@
                     "website": "https://www.prosek.com"
                 },
                 "city": "Detroit",
+                "edge": 34,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": true,
@@ -2249,20 +2250,19 @@
                     "stairs": false,
                     "elevator": true
                 },
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Brentwood Street and on Revere Avenuenear the intersection with East Seven Mile Road",
                 "coords": [
-                    2848.0592490788226,
-                    2199.6730067316194
-                ],
-                "edge": 31,
-                "location_description": "on Revere Avenue, near the the intersection with East Hildale Street"
+                    2803.511376088729,
+                    949.092820349291
+                ]
             },
             {
                 "name": "PureLeaf",
                 "street": "Charest Street",
                 "housenumber": "1164",
                 "categories": [
-                    "catering.fast_food.salad",
-                    "vegetarian"
+                    "vegetarian",
+                    "catering.fast_food.salad"
                 ],
                 "opening_hours": "Mo-Su 10:30-22:30",
                 "brand": "PureLeaf",
@@ -2282,6 +2282,7 @@
                     }
                 },
                 "city": "Detroit",
+                "edge": 47,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2290,12 +2291,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Robinwood Street and on Charest Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    1849.8291944730286,
-                    1760.7434853690957
-                ],
-                "edge": 46,
-                "location_description": "on Charest Street, near the the intersection with East Robinwood Street"
+                    2038.4003366205513,
+                    1251.1969355817678
+                ]
             },
             {
                 "name": "QuickBite Grill",
@@ -2319,6 +2319,7 @@
                     "cuisine": "chicken"
                 },
                 "city": "Detroit",
+                "edge": 23,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2327,50 +2328,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with Stockton Street and on Klinger Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2621.955773491285,
-                    1723.4557616834293
-                ],
-                "edge": 25,
-                "location_description": "on Klinger Street, near the the intersection with East Hildale Street"
-            },
-            {
-                "name": "Serafina Italian Restaurant",
-                "street": "Revere Avenue",
-                "housenumber": "241",
-                "categories": [
-                    "catering.restaurant.italian",
-                    "vegetarian"
-                ],
-                "opening_hours": "Mo-Su 07:00-22:00",
-                "branch": "Revere Avenue",
-                "contact": {
-                    "phone": "+1-646-779-7667",
-                    "website": "https://www.serafinarestaurant.com/location/serafina-madison-38th/"
-                },
-                "payment_options": {
-                    "contactless": true,
-                    "debit_cards": true,
-                    "credit_cards": true
-                },
-                "catering": {
-                    "cuisine": "italian"
-                },
-                "city": "Detroit",
-                "accessibility": {
-                    "wheelchair_accessible": false,
-                    "tactile_paving": false,
-                    "tactile_map": false,
-                    "reception": false,
-                    "stairs": false,
-                    "elevator": false
-                },
-                "coords": [
-                    2604.8913252957263,
-                    1784.7268301017143
-                ],
-                "edge": 32,
-                "location_description": "on Revere Avenue, near the the intersection with East Hildale Street"
+                    2589.81086441762,
+                    2731.1557106333303
+                ]
             },
             {
                 "name": "Silver Creek",
@@ -2387,6 +2349,7 @@
                     "cuisine": "irish"
                 },
                 "city": "Detroit",
+                "edge": 19,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2395,12 +2358,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Gallagher Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    2375.0795795053773,
-                    955.2418735431684
-                ],
-                "edge": 21,
-                "location_description": "on Gallagher Street, near the the intersection with East Seven Mile Road"
+                    2223.4443606972595,
+                    1633.0410500630135
+                ]
             },
             {
                 "name": "Stavros Niarchos Foundation Library",
@@ -2408,8 +2370,8 @@
                 "street": "East Seven Mile Road",
                 "housenumber": "455",
                 "categories": [
-                    "building.public_and_civil",
-                    "education.library"
+                    "education.library",
+                    "building.public_and_civil"
                 ],
                 "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00; PH off",
                 "operator": "Detroit Public Library",
@@ -2425,6 +2387,7 @@
                     "height": 31
                 },
                 "city": "Detroit",
+                "edge": 88,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2433,12 +2396,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on East Seven Mile Road, between on East Seven Mile Roadnear the intersection with Harned Street and on East Seven Mile Roadnear the intersection with Mitchell Street",
                 "coords": [
-                    2434.5260482316917,
-                    634.3822801127171
-                ],
-                "edge": 94,
-                "location_description": "on East Seven Mile Road, near the the intersection with Gallagher Street"
+                    1330.0900561367316,
+                    688.9195974429383
+                ]
             },
             {
                 "name": "Stout Detroit",
@@ -2461,6 +2423,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
+                "edge": 19,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2469,12 +2432,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Gallagher Street, between on Gallagher Streetnear the intersection with East Hildale Street and on Gallagher Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    2109.7641034999037,
-                    1340.278503894629
-                ],
-                "edge": 20,
-                "location_description": "on Gallagher Street, near the the intersection with East Brentwood Street"
+                    2327.8477531963294,
+                    1790.4706862208611
+                ]
             },
             {
                 "name": "The Australian Detroit",
@@ -2498,6 +2460,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
+                "edge": 76,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2506,12 +2469,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Revere Avenue and on East Robinwood Streetnear the intersection with Norwood Street",
                 "coords": [
-                    2303.1450722260643,
-                    1670.3802048304506
-                ],
-                "edge": 74,
-                "location_description": "on East Robinwood Street, near the the intersection with Klinger Street"
+                    2956.624420927874,
+                    1515.7250114838698
+                ]
             },
             {
                 "name": "The Crooked Knife",
@@ -2538,6 +2500,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
+                "edge": 4,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2546,21 +2509,58 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Angling Street, between on Angling Streetnear the intersection with East Grixdale Avenue and on Angling Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    942.7036977254272,
-                    2915.786488840937
+                    984.232017939283,
+                    2282.2336393273235
+                ]
+            },
+            {
+                "name": "The Italian Table",
+                "street": "Revere Avenue",
+                "housenumber": "241",
+                "categories": [
+                    "vegetarian",
+                    "catering.restaurant.italian"
                 ],
-                "edge": 3,
-                "location_description": "on Angling Street, near the border of the map"
+                "opening_hours": "Mo-Su 07:00-22:00",
+                "branch": "Revere Avenue",
+                "contact": {
+                    "phone": "+1-646-779-7667",
+                    "website": "https://www.italiantable.com"
+                },
+                "payment_options": {
+                    "contactless": true,
+                    "debit_cards": true,
+                    "credit_cards": true
+                },
+                "catering": {
+                    "cuisine": "italian"
+                },
+                "city": "Detroit",
+                "edge": 31,
+                "accessibility": {
+                    "wheelchair_accessible": false,
+                    "tactile_paving": false,
+                    "tactile_map": false,
+                    "reception": false,
+                    "stairs": false,
+                    "elevator": false
+                },
+                "location_description": "on Revere Avenuenear the intersection with East Grixdale Avenue",
+                "coords": [
+                    2779.27011073304,
+                    2298.339404039892
+                ]
             },
             {
                 "name": "The Lincoln Detroit",
                 "street": "Klinger Street",
                 "housenumber": "29",
                 "categories": [
-                    "service.social_facility.shelter",
                     "building.accommodation",
-                    "building.facility"
+                    "building.facility",
+                    "service.social_facility.shelter"
                 ],
                 "contact": {
                     "phone": "+1-212-689-1900",
@@ -2578,6 +2578,7 @@
                     "height": 49
                 },
                 "city": "Detroit",
+                "edge": 24,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2586,12 +2587,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Grixdale Avenue and on Klinger Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    2485.0739864578463,
-                    2644.6021846860967
-                ],
-                "edge": 23,
-                "location_description": "on Klinger Street, near the the intersection with East Grixdale Avenue"
+                    2444.110687378358,
+                    2349.2663448138533
+                ]
             },
             {
                 "name": "The Plaza",
@@ -2599,8 +2599,8 @@
                 "street": "East Seven Mile Road",
                 "housenumber": "768",
                 "categories": [
-                    "accommodation.hotel",
-                    "building.accommodation"
+                    "building.accommodation",
+                    "accommodation.hotel"
                 ],
                 "operator": "Fairmont Hotels and Resorts",
                 "contact": {
@@ -2613,6 +2613,7 @@
                     "height": 85
                 },
                 "city": "Detroit",
+                "edge": 88,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2621,12 +2622,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Seven Mile Road, between on East Seven Mile Roadnear the intersection with Harned Street and on East Seven Mile Roadnear the intersection with Mitchell Street",
                 "coords": [
-                    2120.432764011971,
-                    599.0924320173222
-                ],
-                "edge": 92,
-                "location_description": "on East Seven Mile Road, near the the intersection with Charest Street"
+                    1561.7393468299683,
+                    679.4317983191182
+                ]
             },
             {
                 "name": "Tina's Cuban Cuisine",
@@ -2644,6 +2644,7 @@
                     "cuisine": "cuban"
                 },
                 "city": "Detroit",
+                "edge": 31,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2652,12 +2653,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Grixdale Avenue and on Revere Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    2794.569942573846,
-                    2637.348199869795
-                ],
-                "edge": 30,
-                "location_description": "on Revere Avenue, near the the intersection with East Grixdale Avenue"
+                    2900.0670193768738,
+                    2210.478149428777
+                ]
             },
             {
                 "name": "Tofu House",
@@ -2681,6 +2681,7 @@
                     "cuisine": "korean"
                 },
                 "city": "Detroit",
+                "edge": 14,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2689,12 +2690,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Robinwood Street and on Joseph Campau Avenuenear the intersection with Conant Street and East Brentwood Street",
                 "coords": [
-                    1270.9444584265666,
-                    2301.427090923077
-                ],
-                "edge": 12,
-                "location_description": "on Joseph Campau Avenue, near the the intersection with East Grixdale Avenue"
+                    1432.717303768045,
+                    1310.5706956229224
+                ]
             },
             {
                 "name": "United Grill Coney Island",
@@ -2702,9 +2702,10 @@
                 "district": "Conant Gardens",
                 "street": "Conant Street",
                 "categories": [
-                    "building.catering",
-                    "catering.restaurant.american"
+                    "catering.restaurant.american",
+                    "building.catering"
                 ],
+                "edge": 117,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2713,12 +2714,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Robinwood Street and on Conant Streetnear the intersection with Kalsh Street",
                 "coords": [
-                    1446.2887327453102,
-                    1533.0344991781917
-                ],
-                "edge": 117,
-                "location_description": "on Conant Street, near the the intersection with East Robinwood Street"
+                    1527.1357935352303,
+                    1568.6218083852464
+                ]
             },
             {
                 "name": "Urban Fusion",
@@ -2744,6 +2744,7 @@
                     "cuisine": "korean"
                 },
                 "city": "Detroit",
+                "edge": 71,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2752,12 +2753,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Joseph Campau Avenue and on East Robinwood Streetnear the intersection with Conant Street",
                 "coords": [
-                    1195.6946794544301,
-                    1724.6279848201796
-                ],
-                "edge": 70,
-                "location_description": "on East Robinwood Street, near the the intersection with Joseph Campau Avenue"
+                    1545.3105444837304,
+                    1591.2564601444915
+                ]
             },
             {
                 "name": "Valley Bank",
@@ -2772,6 +2772,7 @@
                     "website": "https://valley.com"
                 },
                 "city": "Detroit",
+                "edge": 83,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2780,20 +2781,19 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Seven Mile Roadnear the intersection with Angling Street",
                 "coords": [
-                    3022.4618287321177,
-                    861.4135724771406
-                ],
-                "edge": 99,
-                "location_description": "on East Seven Mile Road, near the border of the map"
+                    638.8969655035813,
+                    745.965781701472
+                ]
             },
             {
                 "name": "Waldorf Astoria",
                 "street": "East Grixdale Avenue",
                 "housenumber": "301",
                 "categories": [
-                    "accommodation.hotel",
-                    "building.accommodation"
+                    "building.accommodation",
+                    "accommodation.hotel"
                 ],
                 "brand": "Waldorf Astoria",
                 "contact": {
@@ -2814,6 +2814,7 @@
                     "architecture": "art_deco"
                 },
                 "city": "Detroit",
+                "edge": 56,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2822,50 +2823,21 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Maine Street and on East Grixdale Avenuenear the intersection with Angling Street",
                 "coords": [
-                    1770.277477382457,
-                    2352.0196779835433
-                ],
-                "edge": 60,
-                "location_description": "on East Grixdale Avenue, near the the intersection with McDougall Street"
-            },
-            {
-                "name": "Wells Fargo",
-                "street": "East Grixdale Avenue",
-                "categories": [
-                    "service.financial.bank"
-                ],
-                "opening_hours": "Mo-Fr 09:00-17:00",
-                "brand": "Wells Fargo",
-                "contact": {
-                    "phone": "+1-212-213-0936",
-                    "website": "https://www.wellsfargo.com"
-                },
-                "city": "Detroit",
-                "accessibility": {
-                    "wheelchair_accessible": false,
-                    "tactile_paving": false,
-                    "tactile_map": false,
-                    "reception": false,
-                    "stairs": false,
-                    "elevator": false
-                },
-                "coords": [
-                    2557.8725472643555,
-                    2364.515410114212
-                ],
-                "edge": 64,
-                "location_description": "on East Grixdale Avenue, near the the intersection with Revere Avenue"
+                    709.3575252246937,
+                    2512.381949935132
+                ]
             },
             {
                 "name": "Whole Foods Market",
                 "street": "East Grixdale Avenue",
                 "housenumber": "10",
                 "categories": [
-                    "organic",
                     "vegan",
-                    "commercial.supermarket",
-                    "vegetarian"
+                    "organic",
+                    "vegetarian",
+                    "commercial.supermarket"
                 ],
                 "opening_hours": "Mo-Su 07:00-23:00",
                 "brand": "Whole Foods Market",
@@ -2881,6 +2853,7 @@
                     "type": "supermarket"
                 },
                 "city": "Detroit",
+                "edge": 65,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2889,12 +2862,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Revere Avenue and on East Grixdale Avenuenear the intersection with Norwood Street",
                 "coords": [
-                    2894.3426062920075,
-                    2466.7127710478703
-                ],
-                "edge": 65,
-                "location_description": "on East Grixdale Avenue, near the the intersection with Norwood Street"
+                    3053.927360433331,
+                    2286.7052457846266
+                ]
             },
             {
                 "name": "Wolfgang\u2019s Steakhouse",
@@ -2909,6 +2881,7 @@
                     "website": "https://wolfgangssteakhouse.net/"
                 },
                 "city": "Detroit",
+                "edge": 8,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2917,12 +2890,11 @@
                     "stairs": false,
                     "elevator": false
                 },
+                "location_description": "on Brinker Avenue, between on Brinker Avenuenear the intersection with East Grixdale Avenue and on Brinker Avenuenear the intersection with East Robinwood Street",
                 "coords": [
-                    1107.5053111479342,
-                    2229.1980812982715
-                ],
-                "edge": 8,
-                "location_description": "on Brinker Avenue, near the the intersection with East Grixdale Avenue"
+                    1294.8120172092308,
+                    2430.9783770057143
+                ]
             },
             {
                 "name": "Yakisch Playground",
@@ -2941,20 +2913,20 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "coords": [
-                    1058.7638834861507,
-                    2695.7281757742703
-                ],
                 "edge": 3,
-                "location_description": "on Angling Street, between the intersection with East Grixdale Avenue and the limit of the map"
+                "location_description": "on Angling Street, between on Angling Streetnear the border of the map and on Angling Streetnear the intersection with East Grixdale Avenue",
+                "coords": [
+                    1015.0630547224376,
+                    2697.7960230527124
+                ]
             },
             {
                 "name": "on",
                 "street": "Revere Avenue",
                 "housenumber": "110",
                 "categories": [
-                    "building.catering",
-                    "catering.restaurant.korean"
+                    "catering.restaurant.korean",
+                    "building.catering"
                 ],
                 "opening_hours": "12:00-14:15,18:00-23:00",
                 "contact": {
@@ -2974,6 +2946,7 @@
                     }
                 },
                 "city": "Detroit",
+                "edge": 33,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2982,12 +2955,11 @@
                     "stairs": true,
                     "elevator": false
                 },
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Robinwood Street and on Revere Avenuenear the intersection with East Brentwood Street",
                 "coords": [
-                    2668.5760666191472,
-                    2177.9170050554267
-                ],
-                "edge": 31,
-                "location_description": "on Revere Avenue, near the the intersection with East Grixdale Avenue"
+                    2866.126413614331,
+                    1238.9949930891437
+                ]
             }
         ],
         "nodes_features": [
@@ -3006,8 +2978,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3024,8 +2995,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3078,8 +3048,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3087,8 +3056,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3114,8 +3082,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3123,8 +3090,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3132,8 +3098,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3150,8 +3115,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3159,8 +3123,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3213,8 +3176,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": 10,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3222,8 +3184,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": 15,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3231,8 +3192,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3294,8 +3254,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": 20,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3312,8 +3271,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 20,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3321,8 +3279,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 20,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3330,8 +3287,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3339,8 +3295,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 20,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3348,8 +3303,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": 20,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3357,8 +3311,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3384,8 +3337,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3393,8 +3345,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3402,8 +3353,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3429,8 +3379,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3438,8 +3387,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": 20,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3447,8 +3395,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 20,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3456,8 +3403,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": 15,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3465,8 +3411,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3474,8 +3419,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3537,8 +3481,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3546,8 +3489,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3555,8 +3497,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3564,8 +3505,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3582,8 +3522,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3627,8 +3566,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": false,
@@ -3645,8 +3583,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 10,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": false,
@@ -3672,8 +3609,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 20,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3681,8 +3617,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": true,
@@ -3699,8 +3634,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": true,
@@ -3708,8 +3642,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3735,8 +3668,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 15,
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": true,
@@ -3744,8 +3676,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": "unknown",
-                "tactile_paving": true,
-                "walk_light_duration": "unknown"
+                "tactile_paving": true
             },
             {
                 "on_border": true,
@@ -3753,8 +3684,7 @@
                 "walk_light": false,
                 "round-about": false,
                 "street_width": 12.5,
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             },
             {
                 "on_border": true,
@@ -3771,8 +3701,7 @@
                 "walk_light": false,
                 "round-about": true,
                 "street_width": "unknown",
-                "tactile_paving": false,
-                "walk_light_duration": "unknown"
+                "tactile_paving": false
             }
         ],
         "edges_features": [
@@ -3782,8 +3711,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3791,8 +3719,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3800,8 +3727,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3809,8 +3735,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3818,8 +3743,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3827,8 +3751,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3836,8 +3759,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -3845,8 +3767,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3854,8 +3775,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3863,8 +3783,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3872,8 +3791,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3881,8 +3799,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3890,8 +3807,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3899,8 +3815,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3908,8 +3823,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -3917,8 +3831,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3926,8 +3839,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3935,8 +3847,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -3944,8 +3855,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -3953,8 +3863,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": true,
@@ -3962,8 +3871,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3971,8 +3879,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -3980,8 +3887,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3989,8 +3895,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -3998,8 +3903,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4007,8 +3911,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4016,8 +3919,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4025,8 +3927,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4034,8 +3935,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4043,8 +3943,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4052,8 +3951,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4061,8 +3959,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4070,8 +3967,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4079,8 +3975,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4088,8 +3983,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4097,8 +3991,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4106,8 +3999,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "one_way_forward",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4115,8 +4007,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4124,8 +4015,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4133,8 +4023,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4142,8 +4031,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4151,8 +4039,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4160,8 +4047,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4169,8 +4055,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4178,8 +4063,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4187,8 +4071,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4196,8 +4079,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4205,8 +4087,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4214,8 +4095,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4223,8 +4103,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4232,8 +4111,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4241,8 +4119,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4251,8 +4128,7 @@
                 "surface": "cobbleston",
                 "traffic_direction": "two_way",
                 "stairs": false,
-                "on_border": true,
-                "tactile_paving": false
+                "on_border": true
             },
             {
                 "roadwork": false,
@@ -4261,8 +4137,7 @@
                 "surface": "cobblestone",
                 "traffic_direction": "one_way_forwar",
                 "stairs": false,
-                "on_border": true,
-                "tactile_paving": false
+                "on_border": true
             },
             {
                 "roadwork": false,
@@ -4270,8 +4145,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "one_way_forwar",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4279,8 +4153,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4288,8 +4161,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4297,8 +4169,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4306,8 +4177,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4315,8 +4185,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4324,8 +4193,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4333,8 +4201,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4342,8 +4209,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4351,8 +4217,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4360,8 +4225,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4369,8 +4233,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4378,8 +4241,7 @@
                 "slope": "downhill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4387,8 +4249,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4396,8 +4257,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4405,8 +4265,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4414,8 +4273,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4423,8 +4281,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4432,8 +4289,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4441,8 +4297,7 @@
                 "slope": "downhill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4450,8 +4305,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4459,8 +4313,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4468,8 +4321,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4477,8 +4329,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4486,8 +4337,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4495,8 +4345,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4504,8 +4353,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4513,8 +4361,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4522,8 +4369,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4531,8 +4377,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4540,8 +4385,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4549,8 +4393,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4558,8 +4401,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4567,8 +4409,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4576,8 +4417,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4585,8 +4425,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4594,8 +4433,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4603,8 +4441,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4612,8 +4449,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4621,8 +4457,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": true,
@@ -4630,8 +4465,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4639,8 +4473,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4648,8 +4481,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": true,
@@ -4657,8 +4489,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4666,8 +4497,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4675,8 +4505,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4684,8 +4513,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "one_way_forward",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4693,8 +4521,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4702,8 +4529,7 @@
                 "slope": "downhil",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4711,8 +4537,7 @@
                 "slope": "downhil",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4720,8 +4545,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4729,8 +4553,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4738,8 +4561,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4747,8 +4569,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4756,8 +4577,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4765,8 +4585,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4774,8 +4593,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4783,8 +4601,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4792,8 +4609,7 @@
                 "slope": "uphill",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4801,8 +4617,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4810,8 +4625,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4819,8 +4633,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4828,8 +4641,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4837,8 +4649,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": true,
-                "tactile_paving": false
+                "stairs": true
             },
             {
                 "roadwork": false,
@@ -4846,8 +4657,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4855,8 +4665,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             },
             {
                 "roadwork": false,
@@ -4864,8 +4673,7 @@
                 "slope": "flat",
                 "surface": "concrete",
                 "traffic_direction": "two_way",
-                "stairs": false,
-                "tactile_paving": false
+                "stairs": false
             }
         ],
         "reference_system": {

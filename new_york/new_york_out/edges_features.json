@@ -5,8 +5,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -14,8 +13,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -23,8 +21,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -32,8 +29,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -41,8 +37,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -50,8 +45,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -59,8 +53,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -68,8 +61,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -77,8 +69,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -86,8 +77,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -95,8 +85,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -104,8 +93,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -113,8 +101,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -122,8 +109,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -131,8 +117,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -140,8 +125,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -149,8 +133,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -158,8 +141,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -167,8 +149,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -176,8 +157,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -185,8 +165,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -194,8 +173,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -203,8 +181,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -212,8 +189,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -221,8 +197,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -230,8 +205,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -239,8 +213,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -248,8 +221,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -257,8 +229,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -266,8 +237,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -275,8 +245,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -284,8 +253,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -293,8 +261,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -302,8 +269,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -311,8 +277,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -320,8 +285,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -329,8 +293,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -338,8 +301,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -347,8 +309,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -356,8 +317,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -365,8 +325,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -374,8 +333,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -383,8 +341,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -392,8 +349,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -401,8 +357,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -410,8 +365,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -419,8 +373,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -428,8 +381,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -437,8 +389,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -446,8 +397,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -455,8 +405,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -464,8 +413,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -473,8 +421,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -482,8 +429,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -491,8 +437,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -500,8 +445,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -509,8 +453,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -518,8 +461,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -527,8 +469,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -536,8 +477,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -545,8 +485,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -554,8 +493,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -563,8 +501,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -572,8 +509,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -581,8 +517,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -590,8 +525,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -599,8 +533,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -608,8 +541,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -617,8 +549,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": true,
@@ -626,8 +557,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -635,8 +565,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -644,8 +573,7 @@
         "slope": "uphill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -653,8 +581,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -662,8 +589,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -671,8 +597,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -680,8 +605,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -689,8 +613,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -698,8 +621,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -707,8 +629,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -716,8 +637,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -725,8 +645,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -734,8 +653,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -743,8 +661,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -752,8 +669,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -761,8 +677,7 @@
         "slope": "flat",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -770,8 +685,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -779,8 +693,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -788,8 +701,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -797,8 +709,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -806,8 +717,7 @@
         "slope": "uphill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -815,8 +725,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -824,8 +733,7 @@
         "slope": "downhill",
         "surface": "cobblestone",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -833,8 +741,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": false,
@@ -842,8 +749,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -851,8 +757,7 @@
         "slope": "downhill",
         "surface": "concrete",
         "traffic_direction": "two_way",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -860,8 +765,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     },
     {
         "roadwork": true,
@@ -869,8 +773,7 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_forward",
-        "stairs": false,
-        "tactile_paving": false
+        "stairs": false
     },
     {
         "roadwork": false,
@@ -878,7 +781,6 @@
         "slope": "flat",
         "surface": "concrete",
         "traffic_direction": "one_way_backward",
-        "stairs": true,
-        "tactile_paving": false
+        "stairs": true
     }
 ]

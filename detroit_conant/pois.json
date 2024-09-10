@@ -922,8 +922,8 @@
                 "name": "Eden Crest",
                 "street": "East Grixdale Avenue",
                 "housenumber": "202",
-                "lon": -83.06778028642245,
-                "lat": 42.42808550952526,
+                "lon": -83.0696272306456,
+                "lat": 42.4280663816045,
                 "categories": [
                     "catering",
                     "catering.pub",
@@ -968,8 +968,8 @@
                 "name": "QuickBite Grill",
                 "street": "Klinger Street",
                 "housenumber": "1000",
-                "lon": -83.06859703050934,
-                "lat": 42.427559372349165,
+                "lon": -83.06859212860552,
+                "lat": 42.427589142961644,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -1015,8 +1015,8 @@
                 "name": "Cooper Electric",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "29",
-                "lon": -83.07047504576889,
-                "lat": 42.430653475398444,
+                "lon": -83.070969659356,
+                "lat": 42.430824042628245,
                 "categories": [
                     "commercial",
                     "commercial.trade"
@@ -1062,8 +1062,8 @@
                 "old_name": "Mid-Manhattan Library",
                 "street": "East Seven Mile Road",
                 "housenumber": "455",
-                "lon": -83.07327012938738,
-                "lat": 42.433151147543846,
+                "lon": -83.06716468883043,
+                "lat": 42.43294989202011,
                 "categories": [
                     "building",
                     "building.public_and_civil",
@@ -1124,8 +1124,8 @@
                 "name": "Detroit Diner",
                 "street": "Angling Street",
                 "housenumber": "463",
-                "lon": -83.0752189329835,
-                "lat": 42.43215264432947,
+                "lon": -83.07526103174384,
+                "lat": 42.42801870907511,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1169,8 +1169,8 @@
                 "name": "Cafe China",
                 "street": "Mitchell Street",
                 "housenumber": "59",
-                "lon": -83.07197116208786,
-                "lat": 42.431700468848945,
+                "lon": -83.0719800901259,
+                "lat": 42.432488856782946,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1211,8 +1211,8 @@
                 "name": "Fry & Shake",
                 "street": "Charest Street",
                 "housenumber": "1333",
-                "lon": -83.07072533568865,
-                "lat": 42.43029875776714,
+                "lon": -83.07111938697088,
+                "lat": 42.430312759603915,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -1261,8 +1261,8 @@
                 "name": "The Australian Detroit",
                 "street": "East Robinwood Street",
                 "housenumber": "20",
-                "lon": -83.06723628770885,
-                "lat": 42.430887300589426,
+                "lon": -83.06742992807767,
+                "lat": 42.43075345955955,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1309,8 +1309,8 @@
                 "name": "Blaggards Pub",
                 "street": "East Robinwood Street",
                 "housenumber": "8",
-                "lon": -83.07118487258884,
-                "lat": 42.43054445732069,
+                "lon": -83.06682603325707,
+                "lat": 42.43063773638975,
                 "categories": [
                     "catering",
                     "catering.pub"
@@ -1348,8 +1348,8 @@
                 "name": "Pok\u00e9 Bar",
                 "street": "Charest Street",
                 "housenumber": "1333",
-                "lon": -83.0709767791762,
-                "lat": 42.43116047571814,
+                "lon": -83.07056954282153,
+                "lat": 42.43213937531838,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -1386,8 +1386,8 @@
                 "name": "Mad Dog",
                 "street": "East Robinwood Street",
                 "housenumber": "5",
-                "lon": -83.07514874967218,
-                "lat": 42.43081099006876,
+                "lon": -83.06911351079212,
+                "lat": 42.43084868685049,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1430,8 +1430,8 @@
                 "name": "The Italian Table",
                 "street": "Revere Avenue",
                 "housenumber": "241",
-                "lon": -83.06787955093071,
-                "lat": 42.42850376522228,
+                "lon": -83.06764064716688,
+                "lat": 42.432531475726805,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1475,8 +1475,8 @@
                 "name": "Stout Detroit",
                 "street": "Gallagher Street",
                 "housenumber": "133",
-                "lon": -83.06956881688734,
-                "lat": 42.43013502907737,
+                "lon": -83.06991829639114,
+                "lat": 42.428334076647296,
                 "categories": [
                     "catering",
                     "catering.pub"
@@ -1518,8 +1518,8 @@
                 "name": "Kosher",
                 "street": "Conant Street",
                 "housenumber": "43",
-                "lon": -83.07168794582586,
-                "lat": 42.43076117530401,
+                "lon": -83.0697433980298,
+                "lat": 42.430541005485,
                 "categories": [
                     "catering",
                     "catering.food_court",
@@ -1560,8 +1560,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "11",
-                "lon": -83.07258511465209,
-                "lat": 42.42853367036806,
+                "lon": -83.0726810756787,
+                "lat": 42.43156286903551,
                 "categories": [
                     "catering",
                     "catering.food_court"
@@ -1593,8 +1593,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Wells Fargo",
-                "lon": -83.06786849615389,
-                "lat": 42.429909868186336,
+                "lon": -83.06796724888382,
+                "lat": 42.43191996323002,
                 "street": "East Grixdale Avenue",
                 "categories": [
                     "service",
@@ -1632,8 +1632,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "9",
-                "lon": -83.0728084356632,
-                "lat": 42.429123558267115,
+                "lon": -83.07315716992849,
+                "lat": 42.428035855737804,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1678,8 +1678,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "5",
-                "lon": -83.07288942020766,
-                "lat": 42.43144902643841,
+                "lon": -83.07283566853383,
+                "lat": 42.427323260504885,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1722,8 +1722,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "16",
-                "lon": -83.07309174453599,
-                "lat": 42.4285349004096,
+                "lon": -83.07285524375415,
+                "lat": 42.42859853694591,
                 "categories": [
                     "service",
                     "service.financial",
@@ -1758,8 +1758,8 @@
                 "commercial": "Korea Town",
                 "street": "East Robinwood Street",
                 "housenumber": "12",
-                "lon": -83.07247174087486,
-                "lat": 42.4306804905745,
+                "lon": -83.07247336604618,
+                "lat": 42.430352042242596,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1803,8 +1803,8 @@
                 "name": "Tina's Cuban Cuisine",
                 "street": "Revere Avenue",
                 "housenumber": "179",
-                "lon": -83.0674117351734,
-                "lat": 42.42898616115523,
+                "lon": -83.06813855154479,
+                "lat": 42.428792416748806,
                 "categories": [
                     "catering",
                     "catering.fast_food"
@@ -1838,8 +1838,8 @@
             "properties": {
                 "name": "Silver Creek",
                 "street": "Gallagher Street",
-                "lon": -83.06996125604847,
-                "lat": 42.43067865646968,
+                "lon": -83.07025563695852,
+                "lat": 42.43241668503851,
                 "categories": [
                     "catering",
                     "catering.pub"
@@ -1874,8 +1874,8 @@
                 "name": "House of Sushi",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "6",
-                "lon": -83.07302391018881,
-                "lat": 42.42972091349875,
+                "lon": -83.07259963673452,
+                "lat": 42.428930783304814,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1932,8 +1932,8 @@
                 "name": "Wolfgang\u2019s Steakhouse",
                 "street": "Brinker Avenue",
                 "housenumber": "4",
-                "lon": -83.06831453870537,
-                "lat": 42.42849504397725,
+                "lon": -83.07434392904635,
+                "lat": 42.428122881754355,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1969,8 +1969,8 @@
                 "name": "McDonald's",
                 "street": "Klinger Street",
                 "housenumber": "809",
-                "lon": -83.06856333801937,
-                "lat": 42.432628960709664,
+                "lon": -83.06857015574354,
+                "lat": 42.43212616729129,
                 "categories": [
                     "building",
                     "building.catering",
@@ -2037,8 +2037,8 @@
                 "name": "Bank of America",
                 "street": "Klinger Street",
                 "housenumber": "812",
-                "lon": -83.0685416891493,
-                "lat": 42.42886003608948,
+                "lon": -83.06857931392746,
+                "lat": 42.430255456795564,
                 "categories": [
                     "service",
                     "service.financial",
@@ -2074,8 +2074,8 @@
                 "name": "Blank Slate Coffee + Kitchen",
                 "street": "Revere Avenue",
                 "housenumber": "121",
-                "lon": -83.06785421072868,
-                "lat": 42.43193185167676,
+                "lon": -83.06751637949881,
+                "lat": 42.431478848486854,
                 "categories": [
                     "catering",
                     "catering.cafe",
@@ -2133,8 +2133,8 @@
                 "name": "Valley Bank",
                 "street": "East Seven Mile Road",
                 "housenumber": "279",
-                "lon": -83.07571504218618,
-                "lat": 42.43299181030288,
+                "lon": -83.07197010843376,
+                "lat": 42.43306106966796,
                 "categories": [
                     "service",
                     "service.financial",
@@ -2166,8 +2166,8 @@
                 "name": "American Academy of Dramatic Arts",
                 "street": "Revere Avenue",
                 "housenumber": "120",
-                "lon": -83.0674401047069,
-                "lat": 42.43053225011369,
+                "lon": -83.06751504568811,
+                "lat": 42.42793384730514,
                 "categories": [
                     "education",
                     "education.college"
@@ -2205,8 +2205,8 @@
                 "name": "Citizens Bank",
                 "street": "Klinger Street",
                 "housenumber": "800",
-                "lon": -83.06859000053282,
-                "lat": 42.43077657066639,
+                "lon": -83.0685377354523,
+                "lat": 42.431115669018354,
                 "categories": [
                     "service",
                     "service.financial",
@@ -2245,8 +2245,8 @@
                 "name": "Dig",
                 "street": "Charest Street",
                 "housenumber": "1178",
-                "lon": -83.07063748337802,
-                "lat": 42.42968085646931,
+                "lon": -83.07081741102955,
+                "lat": 42.43169437307009,
                 "categories": [
                     "catering",
                     "catering.fast_food"
@@ -2292,8 +2292,8 @@
                 "name": "The Crooked Knife",
                 "street": "Angling Street",
                 "housenumber": "29",
-                "lon": -83.07455313495417,
-                "lat": 42.42878855015405,
+                "lon": -83.07457498531487,
+                "lat": 42.42915505578321,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -2340,8 +2340,8 @@
                 "name": "on",
                 "street": "Revere Avenue",
                 "housenumber": "110",
-                "lon": -83.06757200188774,
-                "lat": 42.431645005363364,
+                "lon": -83.06825621609995,
+                "lat": 42.43273029449634,
                 "categories": [
                     "building",
                     "building.catering",
@@ -2389,8 +2389,8 @@
                 "name": "Prosek",
                 "street": "Revere Avenue",
                 "housenumber": "105",
-                "lon": -83.06780428054813,
-                "lat": 42.432438776351916,
+                "lon": -83.06822756047296,
+                "lat": 42.43003031287297,
                 "categories": [
                     "office",
                     "office.company"
@@ -2421,8 +2421,8 @@
                 "name": "Mondo",
                 "street": "Revere Avenue",
                 "housenumber": "102",
-                "lon": -83.06765485412016,
-                "lat": 42.42773064932936,
+                "lon": -83.06769508247157,
+                "lat": 42.42755089923462,
                 "categories": [
                     "office",
                     "office.employment_agency"
@@ -2453,8 +2453,8 @@
                 "name": "Nomad",
                 "street": "Charest Street",
                 "housenumber": "1170",
-                "lon": -83.07074569019449,
-                "lat": 42.432114314883776,
+                "lon": -83.07105135789996,
+                "lat": 42.429681960304606,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -2490,8 +2490,8 @@
                 "name": "PureLeaf",
                 "street": "Charest Street",
                 "housenumber": "1164",
-                "lon": -83.07064255988573,
-                "lat": 42.431611595651866,
+                "lon": -83.07079396932627,
+                "lat": 42.43125724201267,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -2541,8 +2541,8 @@
                 "name": "The Lincoln Detroit",
                 "street": "Klinger Street",
                 "housenumber": "29",
-                "lon": -83.07100081793367,
-                "lat": 42.42854521502069,
+                "lon": -83.06885114021247,
+                "lat": 42.42822786825526,
                 "categories": [
                     "building",
                     "building.accommodation",
@@ -2596,8 +2596,8 @@
                 "quarter": "Midtown",
                 "street": "East Seven Mile Road",
                 "housenumber": "768",
-                "lon": -83.0724107960867,
-                "lat": 42.43320194230018,
+                "lon": -83.0698912935033,
+                "lat": 42.43301236326214,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2644,8 +2644,8 @@
                 "name": "Grand Vista Hotel",
                 "street": "Maine Street",
                 "housenumber": "305",
-                "lon": -83.0755787985081,
-                "lat": 42.42776178535241,
+                "lon": -83.07592481725167,
+                "lat": 42.43278913403586,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2711,8 +2711,8 @@
                 "name": "Hotel Plaza",
                 "street": "Mitchell Street",
                 "housenumber": "145",
-                "lon": -83.07186817197955,
-                "lat": 42.42847655737449,
+                "lon": -83.07154889751872,
+                "lat": 42.4286415905578,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2777,8 +2777,8 @@
                 "name": "Waldorf Astoria",
                 "street": "East Grixdale Avenue",
                 "housenumber": "301",
-                "lon": -83.07557281778746,
-                "lat": 42.42815838912319,
+                "lon": -83.06819404975386,
+                "lat": 42.42816854987711,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2837,8 +2837,8 @@
                 "name": "Harrison & Co.",
                 "street": "Klinger Street",
                 "housenumber": "917",
-                "lon": -83.06857055009905,
-                "lat": 42.42808644470313,
+                "lon": -83.06857790947204,
+                "lat": 42.42869049533935,
                 "categories": [
                     "commercial",
                     "commercial.supermarket",
@@ -2891,8 +2891,8 @@
                 "ref": "columbuscircle",
                 "street": "East Grixdale Avenue",
                 "housenumber": "10",
-                "lon": -83.0668753297451,
-                "lat": 42.428883481586794,
+                "lon": -83.06649959642733,
+                "lat": 42.42788896206852,
                 "categories": [
                     "commercial",
                     "commercial.supermarket",
@@ -2938,8 +2938,8 @@
                 "name": "Jewelry Shopping Mall",
                 "street": "Angling Street",
                 "housenumber": "44",
-                "lon": -83.07521840819537,
-                "lat": 42.43157788889225,
+                "lon": -83.0752919140437,
+                "lat": 42.432824059687015,
                 "categories": [
                     "commercial.marketplace"
                 ],

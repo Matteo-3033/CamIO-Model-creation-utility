@@ -2,6 +2,6 @@
 .vscode
 __pycache__
 .mypy_cache
-out/*
+*_out/*
 .DS_Store
 *.png

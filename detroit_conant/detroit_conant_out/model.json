@@ -1023,7 +1023,7 @@
                     "website": "https://www.aada.edu"
                 },
                 "city": "Detroit",
-                "edge": 32,
+                "edge": 30,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": true,
@@ -1032,10 +1032,10 @@
                     "stairs": false,
                     "elevator": true
                 },
-                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Hildale Street and on Revere Avenuenear the intersection with East Robinwood Street",
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with Stockton Street and on Revere Avenuenear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2878.2551194647667,
-                    1646.177940536024
+                    2881.4800176456065,
+                    2594.3894330270527
                 ]
             },
             {
@@ -1080,7 +1080,7 @@
                     "website": "https://bankofamerica.com"
                 },
                 "city": "Detroit",
-                "edge": 24,
+                "edge": 25,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1089,10 +1089,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Grixdale Avenue and on Klinger Streetnear the intersection with East Hildale Street",
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Hildale Street and on Klinger Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    2604.7291583784813,
-                    2256.1254440155544
+                    2594.5866989176575,
+                    1746.4879031920166
                 ]
             },
             {
@@ -1122,8 +1122,8 @@
                 },
                 "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    1378.177014089896,
-                    2374.871960822788
+                    1441.9302031243574,
+                    2351.630534254658
                 ]
             },
             {
@@ -1144,7 +1144,7 @@
                     "delivery": true
                 },
                 "city": "Detroit",
-                "edge": 72,
+                "edge": 76,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1153,10 +1153,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Conant Street and on East Robinwood Streetnear the intersection with Charest Street",
+                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Revere Avenue and on East Robinwood Streetnear the intersection with Norwood Street",
                 "coords": [
-                    1892.2098504858195,
-                    1640.93871915026
+                    3066.9344411561656,
+                    1602.2934911162924
                 ]
             },
             {
@@ -1164,8 +1164,8 @@
                 "street": "Revere Avenue",
                 "housenumber": "121",
                 "categories": [
-                    "vegetarian",
-                    "catering.cafe"
+                    "catering.cafe",
+                    "vegetarian"
                 ],
                 "opening_hours": "Fr-Su 07:30-19:00; Mo-Th 07:30-21:00",
                 "branch": "Revere Avenue",
@@ -1203,10 +1203,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Revere Avenuenear the intersection with East Brentwood Street",
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Robinwood Street and on Revere Avenuenear the intersection with East Brentwood Street",
                 "coords": [
-                    2791.267269255669,
-                    1187.7147029192188
+                    2869.0198285071224,
+                    1299.9540589946703
                 ]
             },
             {
@@ -1229,7 +1229,7 @@
                     "cuisine": "chinese"
                 },
                 "city": "Detroit",
-                "edge": 43,
+                "edge": 44,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1238,10 +1238,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Mitchell Street, between on Mitchell Streetnear the intersection with Kalsh Street and on Mitchell Streetnear the intersection with East Brentwood Street",
+                "location_description": "on Mitchell Street, between on Mitchell Streetnear the intersection with East Brentwood Street and on Mitchell Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    1680.250876532001,
-                    1218.7385397671878
+                    1677.8441576520745,
+                    930.802373888996
                 ]
             },
             {
@@ -1261,7 +1261,7 @@
                     "website": "https://citizensbank.com"
                 },
                 "city": "Detroit",
-                "edge": 25,
+                "edge": 26,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1270,10 +1270,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Hildale Street and on Klinger Streetnear the intersection with East Robinwood Street",
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Robinwood Street and on Klinger Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    2591.7059254730702,
-                    1556.1659519289258
+                    2605.6760814085346,
+                    1432.3226393320504
                 ]
             },
             {
@@ -1511,7 +1511,7 @@
                 "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Robinwood Street and on Joseph Campau Avenuenear the intersection with Conant Street and East Brentwood Street",
                 "coords": [
                     1542.6721546527772,
-                    1601.1229812818162
+                    1538.8281743020407
                 ]
             },
             {
@@ -1534,7 +1534,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
-                "edge": 5,
+                "edge": 3,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1543,10 +1543,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Angling Street, between on Angling Streetnear the intersection with East Robinwood Street and on Angling Streetnear the intersection with East Seven Mile Road",
+                "location_description": "on Angling Street, between on Angling Streetnear the border of the map and on Angling Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    804.7537629475725,
-                    1053.5943657496389
+                    812.2532375084667,
+                    2563.008809100507
                 ]
             },
             {
@@ -1572,7 +1572,7 @@
                     "cuisine": "regional"
                 },
                 "city": "Detroit",
-                "edge": 46,
+                "edge": 47,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1581,10 +1581,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Charest Streetnear the intersection with East Hildale Street",
+                "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Robinwood Street and on Charest Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    2036.831978215777,
-                    1891.7340914084757
+                    1991.2659553512708,
+                    1220.9648488177495
                 ]
             },
             {
@@ -1609,7 +1609,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
-                "edge": 64,
+                "edge": 63,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1618,10 +1618,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Klinger Street and on East Grixdale Avenuenear the intersection with Revere Avenue",
+                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Gallagher Street and on East Grixdale Avenuenear the intersection with Klinger Street",
                 "coords": [
-                    2807.085154506392,
-                    2486.9020126430273
+                    2312.1012370900444,
+                    2501.2268010328103
                 ]
             },
             {
@@ -1638,7 +1638,7 @@
                     "website": "https://www.foodgallery32detroit.com/"
                 },
                 "city": "Detroit",
-                "edge": 12,
+                "edge": 14,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1647,10 +1647,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Robinwood Street and on Joseph Campau Avenuenear the intersection with Conant Street and East Brentwood Street",
                 "coords": [
-                    1514.7485319815482,
-                    2375.321198348982
+                    1488.8804506084252,
+                    1268.9929399143912
                 ]
             },
             {
@@ -1686,8 +1686,8 @@
                 },
                 "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Hildale Street and on Charest Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    2016.0865777874542,
-                    1730.6734605851993
+                    1909.8627180490826,
+                    1725.5596897848893
                 ]
             },
             {
@@ -1695,8 +1695,8 @@
                 "street": "Maine Street",
                 "housenumber": "305",
                 "categories": [
-                    "building.accommodation",
-                    "accommodation.hotel"
+                    "accommodation.hotel",
+                    "building.accommodation"
                 ],
                 "opening_hours": "24/7",
                 "brand": "RIU",
@@ -1725,7 +1725,7 @@
                     "type": "hotel"
                 },
                 "city": "Detroit",
-                "edge": 0,
+                "edge": 2,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1734,10 +1734,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Maine Street, between on Maine Streetnear the border of the map and on Maine Streetnear the intersection with East Grixdale Avenue",
+                "location_description": "on Maine Streetnear the border of the map",
                 "coords": [
-                    707.7453106222031,
-                    2657.2301448480284
+                    616.411631495022,
+                    871.3522469266551
                 ]
             },
             {
@@ -1769,7 +1769,7 @@
                     "type": "supermarket"
                 },
                 "city": "Detroit",
-                "edge": 23,
+                "edge": 24,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1778,10 +1778,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with Stockton Street and on Klinger Streetnear the intersection with East Grixdale Avenue",
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Grixdale Avenue and on Klinger Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    2596.9491520284846,
-                    2538.657593654741
+                    2594.9652960241738,
+                    2318.045358624611
                 ]
             },
             {
@@ -1789,8 +1789,8 @@
                 "street": "Mitchell Street",
                 "housenumber": "145",
                 "categories": [
-                    "building.accommodation",
-                    "accommodation.hotel"
+                    "accommodation.hotel",
+                    "building.accommodation"
                 ],
                 "opening_hours": "24/7",
                 "brand": "RIU",
@@ -1827,10 +1827,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Mitchell Streetnear the intersection with East Grixdale Avenue",
+                "location_description": "on Mitchell Street, between on Mitchell Streetnear the intersection with East Grixdale Avenue and on Mitchell Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    1707.3613474000845,
-                    2382.6421576074335
+                    1794.0801530595506,
+                    2335.9064327062993
                 ]
             },
             {
@@ -1866,11 +1866,11 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
-                "edge": 13,
-                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Hildale Street and on Joseph Campau Avenuenear the intersection with East Robinwood Street",
+                "edge": 12,
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    1396.4630253442128,
-                    1941.7145685735284
+                    1510.833834282697,
+                    2230.2870451132762
                 ]
             },
             {
@@ -1898,8 +1898,8 @@
                 },
                 "location_description": "on Angling Street, between on Angling Streetnear the intersection with East Robinwood Street and on Angling Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    804.8952293610485,
-                    1263.507366410465
+                    785.0803593698732,
+                    808.3790911014638
                 ]
             },
             {
@@ -1949,7 +1949,7 @@
                     "cuisine": "korean"
                 },
                 "city": "Detroit",
-                "edge": 12,
+                "edge": 11,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -1958,10 +1958,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Grixdale Avenue and on Joseph Campau Avenuenear the intersection with East Hildale Street",
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the border of the map and on Joseph Campau Avenuenear the intersection with East Grixdale Avenue",
                 "coords": [
-                    1454.5481955359107,
-                    2159.8814983905004
+                    1363.3112084574552,
+                    2557.095549434074
                 ]
             },
             {
@@ -1984,7 +1984,7 @@
                     }
                 },
                 "city": "Detroit",
-                "edge": 117,
+                "edge": 116,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -1993,10 +1993,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Robinwood Street and on Conant Streetnear the intersection with Kalsh Street",
+                "location_description": "on Conant Street, between on Conant Streetnear the intersection with East Hildale Street and on Conant Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    1750.6204385804558,
-                    1564.8965284390702
+                    1896.672500670075,
+                    1843.6248568233368
                 ]
             },
             {
@@ -2021,7 +2021,7 @@
                     "cuisine": "mexican"
                 },
                 "city": "Detroit",
-                "edge": 68,
+                "edge": 74,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2030,10 +2030,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Maine Street and on East Robinwood Streetnear the intersection with Angling Street",
+                "location_description": "on East Robinwood Streetnear the intersection with Klinger Street",
                 "coords": [
-                    823.3120265393164,
-                    1564.1696659072404
+                    2411.6765845219975,
+                    1531.9497983173706
                 ]
             },
             {
@@ -2041,9 +2041,9 @@
                 "street": "Klinger Street",
                 "housenumber": "809",
                 "categories": [
-                    "catering.fast_food.burger",
                     "building.catering",
-                    "building.commercial"
+                    "building.commercial",
+                    "catering.fast_food.burger"
                 ],
                 "opening_hours": "Mo-Su 07:00-20:00",
                 "brand": "McDonald's",
@@ -2084,8 +2084,8 @@
                 },
                 "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Brentwood Street and on Klinger Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    2591.791817747716,
-                    879.8422851122688
+                    2597.055457898942,
+                    1063.264347402603
                 ]
             },
             {
@@ -2112,8 +2112,8 @@
                 },
                 "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with Stockton Street and on Revere Avenuenear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2843.792051801258,
-                    2668.6016876017834
+                    2832.947750700382,
+                    2734.250273613896
                 ]
             },
             {
@@ -2160,7 +2160,7 @@
                     "cuisine": "fine_dining"
                 },
                 "city": "Detroit",
-                "edge": 48,
+                "edge": 46,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2169,10 +2169,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Charest Streetnear the intersection with East Brentwood Street",
+                "location_description": "on Charest Streetnear the intersection with East Hildale Street",
                 "coords": [
-                    2009.3390370031273,
-                    1045.5325171505087
+                    1927.868731247304,
+                    1948.6263415185504
                 ]
             },
             {
@@ -2213,7 +2213,7 @@
                     "website": "https://www.ilovepokebar.com"
                 },
                 "city": "Detroit",
-                "edge": 47,
+                "edge": 48,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2222,10 +2222,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Robinwood Street and on Charest Streetnear the intersection with East Brentwood Street",
+                "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Brentwood Street and on Charest Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    1948.3053042373615,
-                    1415.9556012931876
+                    2058.083445735544,
+                    1058.4404929090172
                 ]
             },
             {
@@ -2241,7 +2241,7 @@
                     "website": "https://www.prosek.com"
                 },
                 "city": "Detroit",
-                "edge": 34,
+                "edge": 32,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": true,
@@ -2250,10 +2250,10 @@
                     "stairs": false,
                     "elevator": true
                 },
-                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Brentwood Street and on Revere Avenuenear the intersection with East Seven Mile Road",
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Hildale Street and on Revere Avenuenear the intersection with East Robinwood Street",
                 "coords": [
-                    2803.511376088729,
-                    949.092820349291
+                    2689.4083916182108,
+                    1828.715287765638
                 ]
             },
             {
@@ -2293,8 +2293,8 @@
                 },
                 "location_description": "on Charest Street, between on Charest Streetnear the intersection with East Robinwood Street and on Charest Streetnear the intersection with East Brentwood Street",
                 "coords": [
-                    2038.4003366205513,
-                    1251.1969355817678
+                    1997.5851029161406,
+                    1380.614477169366
                 ]
             },
             {
@@ -2330,8 +2330,8 @@
                 },
                 "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with Stockton Street and on Klinger Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2589.81086441762,
-                    2731.1557106333303
+                    2591.132263858887,
+                    2720.2828450766538
                 ]
             },
             {
@@ -2349,7 +2349,7 @@
                     "cuisine": "irish"
                 },
                 "city": "Detroit",
-                "edge": 19,
+                "edge": 21,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2358,10 +2358,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Gallagher Streetnear the intersection with East Robinwood Street",
+                "location_description": "on Gallagher Street, between on Gallagher Streetnear the intersection with East Brentwood Street and on Gallagher Streetnear the intersection with East Seven Mile Road",
                 "coords": [
-                    2223.4443606972595,
-                    1633.0410500630135
+                    2142.702615537189,
+                    957.1610413416039
                 ]
             },
             {
@@ -2387,7 +2387,7 @@
                     "height": 31
                 },
                 "city": "Detroit",
-                "edge": 88,
+                "edge": 99,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2396,10 +2396,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on East Seven Mile Road, between on East Seven Mile Roadnear the intersection with Harned Street and on East Seven Mile Roadnear the intersection with Mitchell Street",
+                "location_description": "on East Seven Mile Roadnear the intersection with Norwood Street",
                 "coords": [
-                    1330.0900561367316,
-                    688.9195974429383
+                    3048.0961843285077,
+                    758.7527174530067
                 ]
             },
             {
@@ -2423,7 +2423,7 @@
                     "reservation": "required"
                 },
                 "city": "Detroit",
-                "edge": 19,
+                "edge": 17,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2432,10 +2432,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Gallagher Street, between on Gallagher Streetnear the intersection with East Hildale Street and on Gallagher Streetnear the intersection with East Robinwood Street",
+                "location_description": "on Gallagher Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2327.8477531963294,
-                    1790.4706862208611
+                    2233.6390462102854,
+                    2468.7530846091336
                 ]
             },
             {
@@ -2471,8 +2471,8 @@
                 },
                 "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Revere Avenue and on East Robinwood Streetnear the intersection with Norwood Street",
                 "coords": [
-                    2956.624420927874,
-                    1515.7250114838698
+                    2904.4250542776044,
+                    1564.6066233367605
                 ]
             },
             {
@@ -2511,8 +2511,8 @@
                 },
                 "location_description": "on Angling Street, between on Angling Streetnear the intersection with East Grixdale Avenue and on Angling Streetnear the intersection with East Robinwood Street",
                 "coords": [
-                    984.232017939283,
-                    2282.2336393273235
+                    978.341846393952,
+                    2148.3779306302067
                 ]
             },
             {
@@ -2538,7 +2538,7 @@
                     "cuisine": "italian"
                 },
                 "city": "Detroit",
-                "edge": 31,
+                "edge": 34,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2547,10 +2547,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Revere Avenuenear the intersection with East Grixdale Avenue",
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Brentwood Street and on Revere Avenuenear the intersection with East Seven Mile Road",
                 "coords": [
-                    2779.27011073304,
-                    2298.339404039892
+                    2847.6218005689625,
+                    915.2370224166697
                 ]
             },
             {
@@ -2559,8 +2559,8 @@
                 "housenumber": "29",
                 "categories": [
                     "building.accommodation",
-                    "building.facility",
-                    "service.social_facility.shelter"
+                    "service.social_facility.shelter",
+                    "building.facility"
                 ],
                 "contact": {
                     "phone": "+1-212-689-1900",
@@ -2578,7 +2578,7 @@
                     "height": 49
                 },
                 "city": "Detroit",
-                "edge": 24,
+                "edge": 23,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2587,10 +2587,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with East Grixdale Avenue and on Klinger Streetnear the intersection with East Hildale Street",
+                "location_description": "on Klinger Street, between on Klinger Streetnear the intersection with Stockton Street and on Klinger Streetnear the intersection with East Grixdale Avenue",
                 "coords": [
-                    2444.110687378358,
-                    2349.2663448138533
+                    2521.310862847863,
+                    2487.0066822071026
                 ]
             },
             {
@@ -2599,8 +2599,8 @@
                 "street": "East Seven Mile Road",
                 "housenumber": "768",
                 "categories": [
-                    "building.accommodation",
-                    "accommodation.hotel"
+                    "accommodation.hotel",
+                    "building.accommodation"
                 ],
                 "operator": "Fairmont Hotels and Resorts",
                 "contact": {
@@ -2613,7 +2613,7 @@
                     "height": 85
                 },
                 "city": "Detroit",
-                "edge": 88,
+                "edge": 94,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2622,10 +2622,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on East Seven Mile Road, between on East Seven Mile Roadnear the intersection with Harned Street and on East Seven Mile Roadnear the intersection with Mitchell Street",
+                "location_description": "on East Seven Mile Roadnear the intersection with Gallagher Street",
                 "coords": [
-                    1561.7393468299683,
-                    679.4317983191182
+                    2318.976382706329,
+                    741.6607540817446
                 ]
             },
             {
@@ -2655,8 +2655,8 @@
                 },
                 "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Grixdale Avenue and on Revere Avenuenear the intersection with East Hildale Street",
                 "coords": [
-                    2900.0670193768738,
-                    2210.478149428777
+                    2713.40240539769,
+                    2280.8214760756537
                 ]
             },
             {
@@ -2681,7 +2681,7 @@
                     "cuisine": "korean"
                 },
                 "city": "Detroit",
-                "edge": 14,
+                "edge": 11,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2690,10 +2690,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the intersection with East Robinwood Street and on Joseph Campau Avenuenear the intersection with Conant Street and East Brentwood Street",
+                "location_description": "on Joseph Campau Avenue, between on Joseph Campau Avenuenear the border of the map and on Joseph Campau Avenuenear the intersection with East Grixdale Avenue",
                 "coords": [
-                    1432.717303768045,
-                    1310.5706956229224
+                    1447.2070682234946,
+                    2817.388815211347
                 ]
             },
             {
@@ -2702,8 +2702,8 @@
                 "district": "Conant Gardens",
                 "street": "Conant Street",
                 "categories": [
-                    "catering.restaurant.american",
-                    "building.catering"
+                    "building.catering",
+                    "catering.restaurant.american"
                 ],
                 "edge": 117,
                 "accessibility": {
@@ -2755,8 +2755,8 @@
                 },
                 "location_description": "on East Robinwood Street, between on East Robinwood Streetnear the intersection with Joseph Campau Avenue and on East Robinwood Streetnear the intersection with Conant Street",
                 "coords": [
-                    1545.3105444837304,
-                    1591.2564601444915
+                    1544.8724492925917,
+                    1711.212828448993
                 ]
             },
             {
@@ -2772,7 +2772,7 @@
                     "website": "https://valley.com"
                 },
                 "city": "Detroit",
-                "edge": 83,
+                "edge": 90,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2781,10 +2781,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on East Seven Mile Roadnear the intersection with Angling Street",
+                "location_description": "on East Seven Mile Roadnear the intersection with Mitchell Street",
                 "coords": [
-                    638.8969655035813,
-                    745.965781701472
+                    1716.1698645485621,
+                    721.8179677716466
                 ]
             },
             {
@@ -2792,8 +2792,8 @@
                 "street": "East Grixdale Avenue",
                 "housenumber": "301",
                 "categories": [
-                    "building.accommodation",
-                    "accommodation.hotel"
+                    "accommodation.hotel",
+                    "building.accommodation"
                 ],
                 "brand": "Waldorf Astoria",
                 "contact": {
@@ -2814,7 +2814,7 @@
                     "architecture": "art_deco"
                 },
                 "city": "Detroit",
-                "edge": 56,
+                "edge": 64,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2823,10 +2823,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Maine Street and on East Grixdale Avenuenear the intersection with Angling Street",
+                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Klinger Street and on East Grixdale Avenuenear the intersection with Revere Avenue",
                 "coords": [
-                    709.3575252246937,
-                    2512.381949935132
+                    2697.5704486477557,
+                    2492.986162968507
                 ]
             },
             {
@@ -2834,10 +2834,10 @@
                 "street": "East Grixdale Avenue",
                 "housenumber": "10",
                 "categories": [
+                    "commercial.supermarket",
                     "vegan",
                     "organic",
-                    "vegetarian",
-                    "commercial.supermarket"
+                    "vegetarian"
                 ],
                 "opening_hours": "Mo-Su 07:00-23:00",
                 "brand": "Whole Foods Market",
@@ -2853,7 +2853,7 @@
                     "type": "supermarket"
                 },
                 "city": "Detroit",
-                "edge": 65,
+                "edge": 66,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2862,10 +2862,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Revere Avenue and on East Grixdale Avenuenear the intersection with Norwood Street",
+                "location_description": "on East Grixdale Avenue, between on East Grixdale Avenuenear the intersection with Norwood Street and on East Grixdale Avenuenear the border of the map",
                 "coords": [
-                    3053.927360433331,
-                    2286.7052457846266
+                    3150.416958036481,
+                    2486.078327996788
                 ]
             },
             {
@@ -2881,7 +2881,7 @@
                     "website": "https://wolfgangssteakhouse.net/"
                 },
                 "city": "Detroit",
-                "edge": 8,
+                "edge": 7,
                 "accessibility": {
                     "wheelchair_accessible": true,
                     "tactile_paving": false,
@@ -2890,10 +2890,10 @@
                     "stairs": false,
                     "elevator": false
                 },
-                "location_description": "on Brinker Avenue, between on Brinker Avenuenear the intersection with East Grixdale Avenue and on Brinker Avenuenear the intersection with East Robinwood Street",
+                "location_description": "on Brinker Avenue, between on Brinker Avenuenear the border of the map and on Brinker Avenuenear the intersection with East Grixdale Avenue",
                 "coords": [
-                    1294.8120172092308,
-                    2430.9783770057143
+                    1096.1878509483308,
+                    2524.9694505599196
                 ]
             },
             {
@@ -2925,8 +2925,8 @@
                 "street": "Revere Avenue",
                 "housenumber": "110",
                 "categories": [
-                    "catering.restaurant.korean",
-                    "building.catering"
+                    "building.catering",
+                    "catering.restaurant.korean"
                 ],
                 "opening_hours": "12:00-14:15,18:00-23:00",
                 "contact": {
@@ -2946,7 +2946,7 @@
                     }
                 },
                 "city": "Detroit",
-                "edge": 33,
+                "edge": 34,
                 "accessibility": {
                     "wheelchair_accessible": false,
                     "tactile_paving": false,
@@ -2955,10 +2955,10 @@
                     "stairs": true,
                     "elevator": false
                 },
-                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Robinwood Street and on Revere Avenuenear the intersection with East Brentwood Street",
+                "location_description": "on Revere Avenue, between on Revere Avenuenear the intersection with East Brentwood Street and on Revere Avenuenear the intersection with East Seven Mile Road",
                 "coords": [
-                    2866.126413614331,
-                    1238.9949930891437
+                    2681.6837338438445,
+                    842.6241477965918
                 ]
             }
         ],

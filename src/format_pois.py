@@ -263,7 +263,6 @@ def format_pois(
         if (distance := closest_node.distance_to(coords)) < node_min_distance:
             direction = edge.versor
             direction *= 1 if edge.node1 == closest_node else -1
-
             coords = coords + direction * (node_min_distance - distance) * 3 / 2
 
         if (distance := coords.distance_to_line(edge)) > edge_max_distance:

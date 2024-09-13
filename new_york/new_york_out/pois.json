@@ -5,8 +5,8 @@
         "district": "Manhattan Community Board 5",
         "street": "Broadway",
         "categories": [
-            "subway_station",
-            "public_transport"
+            "public_transport",
+            "subway_station"
         ],
         "opening_hours": "24/7",
         "operator": "New York City Transit Authority",
@@ -28,8 +28,8 @@
         },
         "location_description": "on Broadwaynear the border of the map",
         "coords": [
-            1250.458314774548,
-            3227.27913975329
+            1251.3049592329915,
+            3220.976342118211
         ]
     },
     {
@@ -38,8 +38,8 @@
         "district": "Manhattan Community Board 5",
         "street": "6th Avenue",
         "categories": [
-            "subway_station",
-            "public_transport"
+            "public_transport",
+            "subway_station"
         ],
         "operator": "Port Authority of New York and New Jersey",
         "network": "PATH",
@@ -58,8 +58,8 @@
         },
         "location_description": "on 6th Avenuenear the intersection with West 32nd Street",
         "coords": [
-            1225.259666845766,
-            2163.619659027723
+            1214.7659512360317,
+            2181.42717642606
         ]
     },
     {
@@ -68,8 +68,8 @@
         "district": "Manhattan Community Board 5",
         "street": "East 32nd Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "network": "NYC Transit",
         "edge": 35,
@@ -93,8 +93,8 @@
         "district": "Manhattan Community Board 5",
         "street": "East 33rd Street",
         "categories": [
-            "subway_station",
-            "public_transport"
+            "public_transport",
+            "subway_station"
         ],
         "opening_hours": "24/7",
         "operator": "New York City Transit Authority",
@@ -116,8 +116,8 @@
         },
         "location_description": "on East 33rd Streetnear the intersection with Park Avenue",
         "coords": [
-            3131.8215684473307,
-            2902.294228619804
+            3124.0495576362578,
+            2897.9764448358746
         ]
     },
     {
@@ -126,8 +126,8 @@
         "district": "Manhattan Community Board 5",
         "street": "6th Avenue",
         "categories": [
-            "subway_station",
-            "public_transport"
+            "public_transport",
+            "subway_station"
         ],
         "opening_hours": "24/7",
         "operator": "Metropolitan Transportation Authority",
@@ -160,8 +160,8 @@
         "district": "Chelsea District",
         "street": "7th Avenue",
         "categories": [
-            "subway_station",
-            "public_transport"
+            "public_transport",
+            "subway_station"
         ],
         "opening_hours": "24/7",
         "operator": "Metropolitan Transportation Authority",
@@ -187,8 +187,8 @@
         },
         "location_description": "on 7th Avenuenear the intersection with West 34th Street",
         "coords": [
-            705.5016898316509,
-            1243.3815739683082
+            701.1439067025138,
+            1251.5524173354402
         ]
     },
     {
@@ -197,8 +197,8 @@
         "district": "Manhattan Community Board 5",
         "street": "5th Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "distance": 335,
         "edge": 54,
@@ -222,8 +222,8 @@
         "district": "Manhattan Community Board 5",
         "street": "West 32nd Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "distance": 127,
         "edge": 14,
@@ -237,8 +237,8 @@
         },
         "location_description": "on West 32nd Streetnear the intersection with 5th Avenue and East 32nd Street",
         "coords": [
-            2103.135183258546,
-            2568.2788834407143
+            2093.6119722601725,
+            2562.964826474771
         ]
     },
     {
@@ -247,8 +247,8 @@
         "district": "Manhattan Community Board 5",
         "street": "5th Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "operator": "MTA",
         "network": "NYC Transit",
@@ -274,8 +274,8 @@
         "district": "Chelsea District",
         "street": "6th Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "edge": 68,
         "accessibility": {
@@ -298,8 +298,8 @@
         "district": "Manhattan Community Board 5",
         "street": "6th Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "edge": 72,
         "accessibility": {
@@ -312,8 +312,8 @@
         },
         "location_description": "on 6th Avenuenear the intersection with West 34th Street",
         "coords": [
-            1594.0105012346137,
-            1557.5973205949701
+            1600.67136083232,
+            1545.5245125741276
         ]
     },
     {
@@ -322,8 +322,8 @@
         "district": "Midtown South",
         "street": "6th Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "edge": 75,
         "accessibility": {
@@ -470,8 +470,8 @@
         },
         "location_description": "on 6th Avenuenear the intersection with West 28th Street",
         "coords": [
-            769.7923840683881,
-            3110.4171982505695
+            769.5783774266698,
+            3110.8024102056625
         ]
     },
     {
@@ -581,8 +581,8 @@
         "street": "Madison Avenue",
         "housenumber": "121",
         "categories": [
-            "vegetarian",
-            "catering.cafe"
+            "catering.cafe",
+            "vegetarian"
         ],
         "opening_hours": "Fr-Su 07:30-19:00; Mo-Th 07:30-21:00",
         "branch": "Nomad",
@@ -763,8 +763,8 @@
         },
         "location_description": "on 6th Avenuenear the intersection with West 37th Street",
         "coords": [
-            1947.7991606660344,
-            988.1621249726718
+            1941.8180270776468,
+            999.9107802355762
         ]
     },
     {
@@ -796,8 +796,8 @@
         },
         "location_description": "on 6th Avenuenear the border of the map",
         "coords": [
-            691.8454202110813,
-            3251.7244073850875
+            693.7610276607124,
+            3248.2763139757517
         ]
     },
     {
@@ -827,8 +827,8 @@
         },
         "location_description": "on Madison Avenuenear the intersection with East 37th Street",
         "coords": [
-            3270.0050139263667,
-            1756.5173279275239
+            3253.919198446969,
+            1784.5377806980875
         ]
     },
     {
@@ -940,8 +940,8 @@
         },
         "location_description": "on Broadwaynear the border of the map",
         "coords": [
-            1289.4303386363356,
-            3247.239513430025
+            1292.483369672002,
+            3224.5113934978403
         ]
     },
     {
@@ -950,8 +950,8 @@
         "district": "Manhattan Community Board 5",
         "street": "East 34th Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "network": "NYC Transit",
         "distance": 116,
@@ -966,8 +966,8 @@
         },
         "location_description": "on East 34th Streetnear the intersection with 5th Avenue and West 34th Street",
         "coords": [
-            2503.5775912255276,
-            2189.5856781405014
+            2521.562339361324,
+            2199.4855394996553
         ]
     },
     {
@@ -976,8 +976,8 @@
         "district": "Manhattan Community Board 6",
         "street": "East 34th Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "operator": "MTA",
         "network": "NYC Transit",
@@ -1003,11 +1003,11 @@
         "street": "5th Avenue",
         "housenumber": "350",
         "categories": [
-            "building.tourism",
-            "building.office",
-            "office",
             "tourism.attraction",
+            "office",
+            "building.office",
             "building.historic",
+            "building.tourism",
             "heritage"
         ],
         "opening_hours": "Mo-Su 08:00-02:00",
@@ -1290,8 +1290,8 @@
         "district": "Manhattan Community Board 5",
         "street": "Madison Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "network": "NYC Transit",
         "distance": 347,
@@ -1306,8 +1306,8 @@
         },
         "location_description": "on Madison Avenuenear the border of the map",
         "coords": [
-            2404.9289397011585,
-            3255.5542359843134
+            2406.626788272471,
+            3252.596693311705
         ]
     },
     {
@@ -1316,8 +1316,8 @@
         "district": "Manhattan Community Board 5",
         "street": "Madison Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "network": "NYC Transit",
         "edge": 81,
@@ -1331,8 +1331,8 @@
         },
         "location_description": "on Madison Avenuenear the intersection with East 32nd Street",
         "coords": [
-            2654.8031753355435,
-            2787.703217130336
+            2664.6035252141864,
+            2770.0625873487793
         ]
     },
     {
@@ -1341,8 +1341,8 @@
         "district": "Manhattan Community Board 5",
         "street": "Madison Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "network": "NYC Transit",
         "distance": 248,
@@ -1357,8 +1357,8 @@
         },
         "location_description": "on Madison Avenuenear the intersection with East 33rd Street",
         "coords": [
-            2700.936245665695,
-            2700.864360098972
+            2699.18854095443,
+            2704.0102285792486
         ]
     },
     {
@@ -1367,8 +1367,8 @@
         "district": "Manhattan Community Board 6",
         "street": "Madison Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "edge": 83,
         "accessibility": {
@@ -1391,8 +1391,8 @@
         "district": "Manhattan Community Board 6",
         "street": "Madison Avenue",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "edge": 86,
         "accessibility": {
@@ -1417,8 +1417,8 @@
         "housenumber": "809",
         "categories": [
             "building.catering",
-            "building.commercial",
-            "catering.fast_food.burger"
+            "catering.fast_food.burger",
+            "building.commercial"
         ],
         "opening_hours": "Mo-Su 07:00-23:00",
         "brand": "McDonald's",
@@ -1495,8 +1495,8 @@
         },
         "location_description": "on West 27th Streetnear the border of the map",
         "coords": [
-            749.0396780951531,
-            3298.418026619288
+            734.7000963135732,
+            3290.596436556608
         ]
     },
     {
@@ -1601,8 +1601,8 @@
         },
         "location_description": "on West 32nd Streetnear the intersection with Broadway",
         "coords": [
-            1342.0973297225723,
-            2147.8741314693716
+            1340.4377276772293,
+            2146.897894972111
         ]
     },
     {
@@ -1783,8 +1783,8 @@
         "street": "West 33rd Street",
         "housenumber": "4",
         "categories": [
-            "commercial",
-            "service.beauty.massage"
+            "service.beauty.massage",
+            "commercial"
         ],
         "opening_hours": "Mo-Sa 10:00-02:00, Su 11:00-01:00",
         "contact": {
@@ -1860,8 +1860,8 @@
         "street": "5th Avenue",
         "housenumber": "455",
         "categories": [
-            "building.public_and_civil",
-            "education.library"
+            "education.library",
+            "building.public_and_civil"
         ],
         "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00; PH off",
         "operator": "New York Public Library",
@@ -2020,9 +2020,9 @@
         "street": "Broadway",
         "housenumber": "1271",
         "categories": [
+            "gluten_free",
             "catering.restaurant.american",
-            "vegetarian",
-            "gluten_free"
+            "vegetarian"
         ],
         "opening_hours": "Mo-Fr 07:00-23:00; Sa-Su 08:00-23:00",
         "contact": {
@@ -2186,8 +2186,8 @@
         "street": "West 35th Street",
         "housenumber": "102",
         "categories": [
-            "building.catering",
-            "catering.restaurant"
+            "catering.restaurant",
+            "building.catering"
         ],
         "opening_hours": "09:00-22:00",
         "branch": "Herald Square",
@@ -2246,8 +2246,8 @@
         "district": "Midtown South",
         "street": "West 31st Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "operator": "New York City Transit Authority",
         "network": "NYC Transit",
@@ -2272,8 +2272,8 @@
         "district": "Manhattan Community Board 5",
         "street": "West 32nd Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "operator": "New York City Transit Authority",
         "network": "NYC Transit",
@@ -2298,8 +2298,8 @@
         "commercial": "Korea Town",
         "street": "West 32nd Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "distance": 184,
         "edge": 14,
@@ -2323,8 +2323,8 @@
         "district": "Midtown South",
         "street": "West 34th Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "network": "NYC Transit",
         "distance": 54,
@@ -2349,8 +2349,8 @@
         "district": "Garment District",
         "street": "West 34th Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "operator": "New York City Transit Authority",
         "network": "NYC Transit",
@@ -2375,8 +2375,8 @@
         "district": "Midtown South",
         "street": "West 34th Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "operator": "New York City Transit Authority",
         "network": "NYC Transit",
@@ -2401,8 +2401,8 @@
         "district": "Manhattan Community Board 5",
         "street": "West 37th Street",
         "categories": [
-            "public_transport",
-            "bus_stop"
+            "bus_stop",
+            "public_transport"
         ],
         "distance": 294,
         "edge": 29,
@@ -2456,8 +2456,8 @@
         },
         "location_description": "on West 39th Streetnear the border of the map",
         "coords": [
-            2651.7813731157617,
-            749.7241267755916
+            2658.8948665959338,
+            753.8837119462008
         ]
     },
     {

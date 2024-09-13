@@ -1,7 +1,12 @@
-.venv
-.vscode
+# Python cache
 __pycache__
 .mypy_cache
-*_out/*
+
+# misc
+.venv
+.vscode
 .DS_Store
+
+# Output files
+*_out/*
 *.png

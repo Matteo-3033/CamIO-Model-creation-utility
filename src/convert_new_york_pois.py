@@ -30,7 +30,7 @@ keys_to_remove = [
 ]
 
 
-def main(src_dir: str, feets_per_inch: float) -> None:
+def main(src_dir: str, name: str, feets_per_inch: float) -> None:
     min_distance = POI_TO_POI_MIN_DISTANCE * feets_per_inch
 
     with open(f"pois_new_york.json", "r") as f:
@@ -50,7 +50,7 @@ def main(src_dir: str, feets_per_inch: float) -> None:
             if key in properties:
                 del properties[key]
 
-        properties["city"] = "Detroit"
+        properties["city"] = name
 
         if properties["street"] not in new_york_streets.keys():
             print(f"Street not found: {properties['street']}")
@@ -105,6 +105,12 @@ if __name__ == "__main__":
         required=True,
     )
     parser.add_argument(
+        "--name",
+        help="Name of the map",
+        type=str,
+        required=True,
+    )
+    parser.add_argument(
         "--feets_per_inch",
         help="Feets per inch of the map",
         type=float,
@@ -112,4 +118,4 @@ if __name__ == "__main__":
     )
 
     args = parser.parse_args()
-    main(args.src_dir, args.feets_per_inch)
+    main(args.src_dir, args.name, args.feets_per_inch)

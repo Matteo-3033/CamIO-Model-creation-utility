@@ -1,4 +1,4 @@
-# CamIO Graph Builder
+# CamIO Model Builder
 
 This repository provides utility code to build a graph for the [LLM CamIO](https://github.com/Coughlan-Lab/simple_camio/tree/llm) project.
 

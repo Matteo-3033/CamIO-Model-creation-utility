@@ -96,8 +96,8 @@ class Edge(StraightLine, Position):
     def get_position_description(self, street: str) -> str:
         location_description = (
             f"on {street}, "
-            f"between {self.node1.get_position_description(street)} "
-            f"and {self.node2.get_position_description(street)}"
+            f"between {self.node1.description(street)} "
+            f"and {self.node2.description(street)}"
         )
 
         return location_description

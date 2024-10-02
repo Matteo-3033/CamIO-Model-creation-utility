@@ -7,7 +7,6 @@ import time
 from graph import latlng_distance
 from utils import POI_TO_POI_MIN_DISTANCE, str_dict
 
-seed = 1726006792.478604
 seed = time.time()
 random.seed(seed)
 print(f"Seed: {seed}")

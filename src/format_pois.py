@@ -1,5 +1,6 @@
 import json
 import random
+import time
 from typing import Any, Dict, List, Optional, Set
 
 from graph import (
@@ -12,7 +13,9 @@ from graph import (
 )
 from utils import *
 
-random.seed(394)
+seed = time.time()
+random.seed(seed)
+print(f"Seed: {seed}")
 
 
 def get_edge(edges: List[Edge], coords: Coords) -> Edge:

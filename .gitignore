@@ -8,5 +8,5 @@ __pycache__
 .DS_Store
 
 # Output files
-*_out/*
+**/*_out/*
 *.png

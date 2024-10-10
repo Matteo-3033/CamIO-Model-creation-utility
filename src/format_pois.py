@@ -2,6 +2,8 @@ import json
 import random
 import time
 from typing import Any, Dict, List, Optional, Set
+import re
+from datetime import datetime
 
 from graph import (
     Coords,
@@ -179,6 +181,40 @@ def get_random_accessibility_values(categories: List[str], key: str) -> Any:
     return poi_accessibility_defaults[key]
 
 
+def format_opening_hours(opening_hours: str) -> str:
+    def convert_to_am_pm(time_24h):
+        time_obj = datetime.strptime(time_24h, "%H:%M")
+        return time_obj.strftime("%I:%M %p").lstrip("0")
+
+    if "24/7" in opening_hours:
+        return "Open 24 hours, 7 days a week"
+
+    try:
+        pattern = r"(\w+(?:-\w+)?(?:,\w+(?:-\w+)?)*)?\s*(\d{2}:\d{2})-(\d{2}:\d{2})"
+        matches = re.findall(pattern, opening_hours)
+
+        if not matches:
+            raise Exception("No matches found")
+
+        result = []
+
+        for match in matches:
+            days = match[0].strip() if match[0] else ""
+            start_time = convert_to_am_pm(match[1])
+            end_time = convert_to_am_pm(match[2])
+
+            if days:
+                result.append(f"{days} {start_time} - {end_time}")
+            else:
+                result.append(f"{start_time} - {end_time}")
+
+    except Exception:
+        print(f"Could not parse opening hours: {opening_hours}")
+        return ""
+
+    return "; ".join(result)
+
+
 def format_pois(
     src_dir: str,
     feets_per_inch: float,
@@ -252,6 +288,9 @@ def format_pois(
             poi["facilities"] = format_facilities(poi["facilities"])
             if poi["facilities"] is None:
                 del poi["facilities"]
+
+        if "opening_hours" in poi:
+            poi["opening_hours"] = format_opening_hours(poi["opening_hours"])
 
         closest_node = min(
             [edge[0], edge[1]], key=lambda node: node.distance_to(coords)

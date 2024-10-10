@@ -59,104 +59,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Conant / 7 Mile (NB)",
-                "country": "United States",
-                "country_code": "us",
-                "state": "Michigan",
-                "county": "Wayne County",
-                "city": "Detroit",
-                "postcode": "48303",
-                "district": "Pershing",
-                "street": "Conant Street",
-                "lon": -83.0737585,
-                "lat": 42.433209,
-                "state_code": "MI",
-                "formatted": "Conant / 7 Mile (NB), Conant Street, Detroit, MI 48303, United States of America",
-                "address_line1": "Conant / 7 Mile (NB)",
-                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
-                "categories": [
-                    "public_transport",
-                    "public_transport.bus"
-                ],
-                "details": [],
-                "datasource": {
-                    "sourcename": "openstreetmap",
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database License",
-                    "url": "https://www.openstreetmap.org/copyright",
-                    "raw": {
-                        "bus": "yes",
-                        "name": "Conant / 7 Mile (NB)",
-                        "bench": "yes",
-                        "osm_id": 9359439777,
-                        "highway": "bus_stop",
-                        "shelter": "yes",
-                        "osm_type": "n",
-                        "survey:date": "2021-02-06",
-                        "public_transport": "platform"
-                    }
-                },
-                "place_id": "5154539275b8c454c0593dc57c6473374540f00103f901a1b7dd2d02000000920314436f6e616e74202f2037204d696c6520284e4229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.0737585,
-                    42.433209000514104
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Conant / 7 Mile (SB)",
-                "country": "United States",
-                "country_code": "us",
-                "state": "Michigan",
-                "county": "Wayne County",
-                "city": "Detroit",
-                "postcode": "48303",
-                "district": "Northeast Central District",
-                "street": "Conant Street",
-                "lon": -83.0736271,
-                "lat": 42.4327319,
-                "state_code": "MI",
-                "formatted": "Conant / 7 Mile (SB), Conant Street, Detroit, MI 48303, United States of America",
-                "address_line1": "Conant / 7 Mile (SB)",
-                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
-                "categories": [
-                    "public_transport",
-                    "public_transport.bus"
-                ],
-                "details": [],
-                "datasource": {
-                    "sourcename": "openstreetmap",
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database License",
-                    "url": "https://www.openstreetmap.org/copyright",
-                    "raw": {
-                        "bus": "yes",
-                        "name": "Conant / 7 Mile (SB)",
-                        "osm_id": 9359452926,
-                        "highway": "bus_stop",
-                        "osm_type": "n",
-                        "survey:date": "2021-02-06",
-                        "public_transport": "platform"
-                    }
-                },
-                "place_id": "515aa6704eb6c454c059695248c263374540f00103f901feeadd2d02000000920314436f6e616e74202f2037204d696c652028534229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.07362709999998,
-                    42.432731900514064
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "lon": -83.07270202535868,
                 "lat": 42.43229685051405,
                 "categories": [
@@ -187,7 +89,7 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pershing High School",
+                "name": "Pershing Park",
                 "country": "United States",
                 "country_code": "us",
                 "state": "Michigan",
@@ -200,19 +102,20 @@
                 "lon": -83.06744288680991,
                 "lat": 42.432101856234134,
                 "state_code": "MI",
-                "formatted": "Pershing High School, 18875 Ryan Road, Detroit, MI 48234, United States of America",
-                "address_line1": "Pershing High School",
-                "address_line2": "18875 Ryan Road, Detroit, MI 48234, United States of America",
+                "formatted": "Pershing Park, 18875 Revere Avenue, Detroit, MI 48234, United States of America",
+                "address_line1": "Pershing Park",
+                "address_line2": "18875 Revere Avenue, Detroit, MI 48234, United States of America",
                 "categories": [
-                    "education",
-                    "education.school"
+                    "leisure",
+                    "leisure.park"
                 ],
                 "details": [
                     "details",
                     "details.wiki_and_media"
                 ],
                 "accessibility": {
-                    "tactile_map": true
+                    "tactile_map": true,
+                    "wheelchair_access": true
                 },
                 "datasource": {
                     "sourcename": "openstreetmap",
@@ -220,87 +123,29 @@
                     "license": "Open Database License",
                     "url": "https://www.openstreetmap.org/copyright",
                     "raw": {
-                        "name": "Pershing High School",
+                        "name": "Pershing Park",
                         "osm_id": 565634471,
-                        "amenity": "school",
-                        "operator": "Detroit Public Schools",
+                        "leisure": "park",
+                        "operator": "City of Detroit",
                         "osm_type": "w",
-                        "wikidata": "Q7170168",
                         "addr:city": "Detroit",
                         "addr:state": "MI",
-                        "addr:street": "Ryan Road",
+                        "addr:street": "Revere Avenue",
                         "addr:postcode": 48234,
-                        "operator:type": "public",
-                        "operator:short": "DPS",
-                        "addr:housenumber": 18875,
-                        "operator:wikidata": "Q2497108",
-                        "operator:wikipedia": "en:Detroit Public Schools Community District"
+                        "operator:type": "public"
                     }
                 },
-                "operator": "Detroit Public Schools",
+                "operator": "City of Detroit",
                 "operator_details": {
-                    "type": "public",
-                    "wikidata": "Q2497108",
-                    "wikipedia": "en:Detroit Public Schools Community District"
+                    "type": "public"
                 },
-                "wiki_and_media": {
-                    "wikidata": "Q7170168"
-                },
-                "place_id": "51633a1e7130c454c059f08930c445374540f00102f901a7e5b621000000009203145065727368696e672048696768205363686f6f6c"
+                "place_id": "51633a1e7130c454c059f08930c445374540f00102f901a7e5b621000000009203145065727368696e67205061726b"
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
                     -83.06545665695153,
                     42.431816600514026
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Conant / Kalsh (NB)",
-                "country": "United States",
-                "country_code": "us",
-                "state": "Michigan",
-                "county": "Wayne County",
-                "city": "Detroit",
-                "postcode": "48303",
-                "district": "Conant Gardens",
-                "street": "Conant Street",
-                "lon": -83.0724603,
-                "lat": 42.4314748,
-                "state_code": "MI",
-                "formatted": "Conant / Kalsh (NB), Conant Street, Detroit, MI 48303, United States of America",
-                "address_line1": "Conant / Kalsh (NB)",
-                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
-                "categories": [
-                    "public_transport",
-                    "public_transport.bus"
-                ],
-                "details": [],
-                "datasource": {
-                    "sourcename": "openstreetmap",
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database License",
-                    "url": "https://www.openstreetmap.org/copyright",
-                    "raw": {
-                        "bus": "yes",
-                        "name": "Conant / Kalsh (NB)",
-                        "osm_id": 9359439778,
-                        "highway": "bus_stop",
-                        "osm_type": "n",
-                        "survey:date": "2021-02-06",
-                        "public_transport": "platform"
-                    }
-                },
-                "place_id": "5188b08630a3c454c059bea0f6903a374540f00103f901a2b7dd2d02000000920313436f6e616e74202f204b616c736820284e4229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.07246029999999,
-                    42.43147480051401
                 ]
             }
         },
@@ -389,54 +234,6 @@
                 "coordinates": [
                     -83.07254050617772,
                     42.43074195051396
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Conant / Robinwood (SB)",
-                "country": "United States",
-                "country_code": "us",
-                "state": "Michigan",
-                "county": "Wayne County",
-                "city": "Detroit",
-                "postcode": "48303",
-                "district": "Conant Gardens",
-                "street": "Conant Street",
-                "lon": -83.0718729,
-                "lat": 42.4302296,
-                "state_code": "MI",
-                "formatted": "Conant / Robinwood (SB), Conant Street, Detroit, MI 48303, United States of America",
-                "address_line1": "Conant / Robinwood (SB)",
-                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
-                "categories": [
-                    "public_transport",
-                    "public_transport.bus"
-                ],
-                "details": [],
-                "datasource": {
-                    "sourcename": "openstreetmap",
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database License",
-                    "url": "https://www.openstreetmap.org/copyright",
-                    "raw": {
-                        "bus": "yes",
-                        "name": "Conant / Robinwood (SB)",
-                        "osm_id": 9359452925,
-                        "highway": "bus_stop",
-                        "osm_type": "n",
-                        "survey:date": "2021-02-06",
-                        "public_transport": "platform"
-                    }
-                },
-                "place_id": "51febdca9099c454c0593ffd77c311374540f00103f901fdeadd2d02000000920317436f6e616e74202f20526f62696e776f6f642028534229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.07187289999999,
-                    42.43022960051393
                 ]
             }
         },
@@ -533,54 +330,6 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Conant / Grixdale (NB)",
-                "country": "United States",
-                "country_code": "us",
-                "state": "Michigan",
-                "county": "Wayne County",
-                "city": "Detroit",
-                "postcode": "48303",
-                "district": "Conant Gardens",
-                "street": "Conant Street",
-                "lon": -83.0704567,
-                "lat": 42.4285804,
-                "state_code": "MI",
-                "formatted": "Conant / Grixdale (NB), Conant Street, Detroit, MI 48303, United States of America",
-                "address_line1": "Conant / Grixdale (NB)",
-                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
-                "categories": [
-                    "public_transport",
-                    "public_transport.bus"
-                ],
-                "details": [],
-                "datasource": {
-                    "sourcename": "openstreetmap",
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database License",
-                    "url": "https://www.openstreetmap.org/copyright",
-                    "raw": {
-                        "bus": "yes",
-                        "name": "Conant / Grixdale (NB)",
-                        "osm_id": 9359439779,
-                        "highway": "bus_stop",
-                        "osm_type": "n",
-                        "survey:date": "2021-02-06",
-                        "public_transport": "platform"
-                    }
-                },
-                "place_id": "512e92d15c82c454c059f0f4f9b8db364540f00103f901a3b7dd2d02000000920316436f6e616e74202f204772697864616c6520284e4229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.0704567,
-                    42.42858040051385
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "name": "Conant Gardens Church of Christ",
                 "country": "United States",
                 "country_code": "us",
@@ -669,54 +418,6 @@
                 "coordinates": [
                     -83.06995444110876,
                     42.42820700051382
-                ]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Conant / Grixdale (SB)",
-                "country": "United States",
-                "country_code": "us",
-                "state": "Michigan",
-                "county": "Wayne County",
-                "city": "Detroit",
-                "postcode": "48303",
-                "district": "Conant Gardens",
-                "street": "Conant Street",
-                "lon": -83.0703065,
-                "lat": 42.4280459,
-                "state_code": "MI",
-                "formatted": "Conant / Grixdale (SB), Conant Street, Detroit, MI 48303, United States of America",
-                "address_line1": "Conant / Grixdale (SB)",
-                "address_line2": "Conant Street, Detroit, MI 48303, United States of America",
-                "categories": [
-                    "public_transport",
-                    "public_transport.bus"
-                ],
-                "details": [],
-                "datasource": {
-                    "sourcename": "openstreetmap",
-                    "attribution": "\u00a9 OpenStreetMap contributors",
-                    "license": "Open Database License",
-                    "url": "https://www.openstreetmap.org/copyright",
-                    "raw": {
-                        "bus": "yes",
-                        "name": "Conant / Grixdale (SB)",
-                        "osm_id": 9359452924,
-                        "highway": "bus_stop",
-                        "osm_type": "n",
-                        "survey:date": "2021-02-06",
-                        "public_transport": "platform"
-                    }
-                },
-                "place_id": "518e8cd5e67fc454c05964f24335ca364540f00103f901fceadd2d02000000920316436f6e616e74202f204772697864616c652028534229"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -83.07030649999999,
-                    42.42804590051381
                 ]
             }
         },
@@ -922,8 +623,8 @@
                 "name": "Eden Crest",
                 "street": "East Grixdale Avenue",
                 "housenumber": "202",
-                "lon": -83.07015568888504,
-                "lat": 42.42808872769888,
+                "lon": -83.07507485610978,
+                "lat": 42.42833906289728,
                 "categories": [
                     "catering",
                     "catering.pub",
@@ -937,7 +638,7 @@
                     "details.facilities"
                 ],
                 "website": "https://pignwhistleon36th.com/",
-                "opening_hours": "Mo-Su 11:00-04:00",
+                "opening_hours": "Mo-Su 11:00-21:00",
                 "contact": {
                     "phone": "+1-212-239-4820",
                     "email": "info@pignwhistleon36th.com"
@@ -952,7 +653,7 @@
                     "reservation": "required"
                 },
                 "place_id": "51a5cddd535e7f52c059ba44da2c4d604440f00103f90180d758a60000000092031750696720274e272057686973746c65204f6e2033367468",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -968,8 +669,8 @@
                 "name": "QuickBite Grill",
                 "street": "Klinger Street",
                 "housenumber": "1000",
-                "lon": -83.06854037504733,
-                "lat": 42.430557626918336,
+                "lon": -83.068544776656,
+                "lat": 42.430084910432576,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -981,9 +682,9 @@
                     "details.contact",
                     "details.facilities"
                 ],
-                "website": "https://www.chick-fil-a.com",
-                "opening_hours": "Mo-Sa 06:30-22:00",
-                "brand": "Chick-fil-A",
+                "website": "https://www.quickbite.com",
+                "opening_hours": "Mo-Sa 06:30-21:00",
+                "brand": "QuickBite Grill",
                 "brand_details": {
                     "wikidata": "Q491516"
                 },
@@ -999,7 +700,7 @@
                     "cuisine": "chicken"
                 },
                 "place_id": "51afb8ee9c1c7f52c0593a58727b38604440f00103f9018dc6c0ec0000000092030b436869636b2d66696c2d41",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1015,8 +716,8 @@
                 "name": "Cooper Electric",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "29",
-                "lon": -83.07518026037538,
-                "lat": 42.43091378582279,
+                "lon": -83.07028682308939,
+                "lat": 42.43071196566088,
                 "categories": [
                     "commercial",
                     "commercial.trade"
@@ -1045,7 +746,7 @@
                 },
                 "distance": 384,
                 "place_id": "51f4e1b43bff7e52c0599774184339604440f00103f901e3c682a10000000092030f436f6f70657220456c656374726963",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1062,8 +763,8 @@
                 "old_name": "Mid-Manhattan Library",
                 "street": "East Seven Mile Road",
                 "housenumber": "455",
-                "lon": -83.07034232571542,
-                "lat": 42.43295967562137,
+                "lon": -83.07193205857699,
+                "lat": 42.43304984012435,
                 "categories": [
                     "building",
                     "building.public_and_civil",
@@ -1081,7 +782,7 @@
                     "details.facilities",
                     "details.wiki_and_media"
                 ],
-                "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00; PH off",
+                "opening_hours": "Mo-Th 08:00-21:00; Fr 08:00-20:00; Sa-Su 10:00-18:00",
                 "operator": "Detroit Public Library",
                 "operator_details": {
                     "type": "public",
@@ -1108,7 +809,7 @@
                     "height": 31
                 },
                 "place_id": "5150570c86d07e52c059273538c137604440f00102f901530ed20f0000000092032353746176726f73204e69617263686f7320466f756e646174696f6e204c696272617279",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1121,17 +822,15 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Detroit Diner",
+                "name": "Star Kitchen",
                 "street": "Angling Street",
                 "housenumber": "463",
-                "lon": -83.07344082714596,
-                "lat": 42.42836900641723,
+                "lon": -83.07405115619143,
+                "lat": 42.432448748334245,
                 "categories": [
                     "catering",
                     "catering.restaurant",
-                    "catering.restaurant.american",
-                    "wheelchair",
-                    "wheelchair.yes"
+                    "fine_dining"
                 ],
                 "details": [
                     "details",
@@ -1139,21 +838,22 @@
                     "details.contact",
                     "details.facilities"
                 ],
-                "website": "https://andrewsdetroit.com",
-                "opening_hours": "Mo-Th 06:00-22:00; Fr 06:00-23:00; Sa, Su 07:00-23:00",
+                "website": "https://starkitchen.com",
+                "opening_hours": "18:00-21:30",
                 "contact": {
                     "phone": "+1-212-695-1962"
                 },
                 "facilities": {
                     "wheelchair": true,
-                    "takeaway": true
+                    "takeaway": false,
+                    "outdoor_seating": false
                 },
                 "catering": {
-                    "cuisine": "american;diner",
+                    "cuisine": "seasonal;modern",
                     "reservation": "required"
                 },
-                "place_id": "5178a004ec597f52c059db275fdb36604440f00103f901338e0cd100000000920311416e6472657773204e59432044696e6572",
-                "city": "Detroit"
+                "place_id": "5178a004ec597f52c059db275fdb36604440f00103f901338e0cd10000000092031153746172204b69746368656e",
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1169,8 +869,8 @@
                 "name": "Cafe China",
                 "street": "Mitchell Street",
                 "housenumber": "59",
-                "lon": -83.07220787016608,
-                "lat": 42.431437451703026,
+                "lon": -83.07221465957055,
+                "lat": 42.43158111092541,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1183,7 +883,7 @@
                     "details.facilities"
                 ],
                 "website": "http://www.cafechinadetroit.com/",
-                "opening_hours": "Su-We 11:30-22:30; Th-Sa 11:30-23:00",
+                "opening_hours": "Su-We 11:30-21:30; Th-Sa 11:30-20:00",
                 "contact": {
                     "phone": "+12122132810"
                 },
@@ -1195,7 +895,7 @@
                     "cuisine": "chinese"
                 },
                 "place_id": "51ac3b7194177f52c0594374f8c033604440f00103f90107223afa0000000092030a43616665204368696e61",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1211,8 +911,8 @@
                 "name": "Fry & Shake",
                 "street": "Charest Street",
                 "housenumber": "1333",
-                "lon": -83.07116748607322,
-                "lat": 42.43123792170514,
+                "lon": -83.07101945553912,
+                "lat": 42.4314184319339,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -1227,7 +927,7 @@
                     "details.facilities"
                 ],
                 "website": "https://www.shakeshack.com",
-                "opening_hours": "10:30-24:00",
+                "opening_hours": "10:30-20:00",
                 "brand": "Shake Shack",
                 "brand_details": {
                     "wikidata": "Q1058722"
@@ -1245,7 +945,7 @@
                     "capacity": 135
                 },
                 "place_id": "51b386414f397f52c05941cfa0072d604440f00103f90172d04c000100000092030b5368616b6520536861636b",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1261,8 +961,8 @@
                 "name": "The Australian Detroit",
                 "street": "East Robinwood Street",
                 "housenumber": "20",
-                "lon": -83.07197447744828,
-                "lat": 42.43085990311429,
+                "lon": -83.07318118999396,
+                "lat": 42.43093325977807,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1276,7 +976,7 @@
                     "details.wiki_and_media"
                 ],
                 "website": "https://theaustraliandetroit.com/",
-                "opening_hours": "Mo, Su 11:30-00:00; Tu, We 11:30-23:00; Th 11:30-02:00; Fr, Sa 11:30-04:00",
+                "opening_hours": "Mo, Su 11:30-19:00; Tu-Sa 11:30-20:00",
                 "contact": {
                     "phone": "+1 212-869-9601",
                     "email": "info@theaustraliandetroit.com"
@@ -1293,7 +993,7 @@
                     "reservation": "required"
                 },
                 "place_id": "5128b27b97f77e52c05927518b822a604440f00103f901d13a37b500000000920312546865204175737472616c69616e204e5943",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1309,8 +1009,8 @@
                 "name": "Blaggards Pub",
                 "street": "East Robinwood Street",
                 "housenumber": "8",
-                "lon": -83.07107325382988,
-                "lat": 42.430843063883025,
+                "lon": -83.06897885237827,
+                "lat": 42.43057521544789,
                 "categories": [
                     "catering",
                     "catering.pub"
@@ -1322,7 +1022,7 @@
                     "details.facilities"
                 ],
                 "website": "https://blaggardsdetroit.com",
-                "opening_hours": "Mo-Sa 11:00-04:00; Su 12:00-04:00",
+                "opening_hours": "Mo-Sa 11:00-20:00; Su 12:00-20:30",
                 "contact": {
                     "phone": "+1 212-382-2611",
                     "email": "blaggards@verizon.net"
@@ -1332,7 +1032,7 @@
                     "delivery": true
                 },
                 "place_id": "510c079d6bf37e52c059c2f3ae3b27604440f00103f901eb3f37b50000000092030d426c6167676172647320507562",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1348,8 +1048,8 @@
                 "name": "Pok\u00e9 Bar",
                 "street": "Charest Street",
                 "housenumber": "1333",
-                "lon": -83.07049364097945,
-                "lat": 42.43174393696138,
+                "lon": -83.07069434426431,
+                "lat": 42.432881994923065,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -1370,7 +1070,7 @@
                     "wheelchair": true
                 },
                 "place_id": "51479fa05e3a7f52c05938ac82c822604440f00103f9018de6b6cd00000000920309506f6bc3a920426172",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1386,8 +1086,8 @@
                 "name": "Mad Dog",
                 "street": "East Robinwood Street",
                 "housenumber": "5",
-                "lon": -83.07571921574511,
-                "lat": 42.43060244218157,
+                "lon": -83.0747312285768,
+                "lat": 42.430904410382524,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1400,7 +1100,7 @@
                     "details.payment"
                 ],
                 "website": "https://www.maddog.com",
-                "opening_hours": "Su-Th 12:00-22:00; We 12:00-23:00; Th-Sa 12:00-00:00",
+                "opening_hours": "Su-We 12:00-21:30; Th-Sa 12:00-20:00",
                 "contact": {
                     "phone": "+1-646-998-5722",
                     "email": "info@maddog.com"
@@ -1414,7 +1114,7 @@
                     "cuisine": "mexican"
                 },
                 "place_id": "5161c092abd87e52c0595e3624af18604440f00103f901c95195a10000000092031f4d616420446f672026204265616e73204d65786963616e2043616e74696e61",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1430,8 +1130,8 @@
                 "name": "The Italian Table",
                 "street": "Revere Avenue",
                 "housenumber": "241",
-                "lon": -83.0678172814165,
-                "lat": 42.42999463208436,
+                "lon": -83.06800180225626,
+                "lat": 42.432767598917415,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1445,7 +1145,7 @@
                     "details.payment"
                 ],
                 "website": "https://www.italiantable.com",
-                "opening_hours": "Mo-Su 07:00-22:00",
+                "opening_hours": "Mo-Su 07:00-23:00",
                 "branch": "Revere Avenue",
                 "contact": {
                     "phone": "+1-646-779-7667"
@@ -1459,7 +1159,7 @@
                     "cuisine": "italian"
                 },
                 "place_id": "518bfa7f30cb7e52c0596886dd8200604440f00103f9017f67d1a10000000092031b5365726166696e61204974616c69616e2052657374617572616e74",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1475,8 +1175,8 @@
                 "name": "Stout Detroit",
                 "street": "Gallagher Street",
                 "housenumber": "133",
-                "lon": -83.07017082619824,
-                "lat": 42.42962836480776,
+                "lon": -83.06968602834614,
+                "lat": 42.427737870331505,
                 "categories": [
                     "catering",
                     "catering.pub"
@@ -1488,7 +1188,7 @@
                     "details.facilities"
                 ],
                 "website": "http://msg.stoutdetroit.com/",
-                "opening_hours": "Th-Su 11:30-01:45; Mo-We 11:30-23:45",
+                "opening_hours": "Th-Su 11:30-20:45; Mo-We 11:30-21:45",
                 "branch": "Gallagher Street",
                 "contact": {
                     "phone": "+1-212-629-6191"
@@ -1502,7 +1202,7 @@
                     "reservation": "required"
                 },
                 "place_id": "514ed99f7a5a7f52c059813040adfd5f4440f00103f9012f47a55a0100000092030953746f7574204e5943",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1518,8 +1218,8 @@
                 "name": "Kosher",
                 "street": "Conant Street",
                 "housenumber": "43",
-                "lon": -83.06914025329304,
-                "lat": 42.43090972703432,
+                "lon": -83.07432522807478,
+                "lat": 42.43056244822528,
                 "categories": [
                     "catering",
                     "catering.food_court",
@@ -1543,7 +1243,7 @@
                     }
                 },
                 "place_id": "516f58bf3edf7e52c0597ccfd04ab55f4440f00103f901b7647ea1000000009203114b6f7368657220696e204d6964746f776e",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1560,8 +1260,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "11",
-                "lon": -83.07302730055531,
-                "lat": 42.42777901284852,
+                "lon": -83.07244829004193,
+                "lat": 42.429511167796306,
                 "categories": [
                     "catering",
                     "catering.food_court"
@@ -1574,12 +1274,12 @@
                 "website_other": [
                     "https://foodgallery32detroit.com/"
                 ],
-                "opening_hours": "Mo-Su 11:00-23:00",
+                "opening_hours": "Mo-Su 11:15-21:15",
                 "contact": {
                     "phone": "+1 212-967-1678"
                 },
                 "place_id": "51c14bba771e7f52c05905cd80cfb45f4440f00103f901d56fe9260100000092030f466f6f642047616c6c657279203332",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1593,8 +1293,8 @@
             "type": "Feature",
             "properties": {
                 "name": "Wells Fargo",
-                "lon": -83.0674038072336,
-                "lat": 42.43156944226444,
+                "lon": -83.067890379284,
+                "lat": 42.430817684479734,
                 "street": "East Grixdale Avenue",
                 "categories": [
                     "service",
@@ -1615,7 +1315,7 @@
                     "phone": "+1-212-213-0936"
                 },
                 "place_id": "513a14f4cdec7e52c059104d284fb45f4440f00103f90127d661350100000092030b57656c6c7320466172676f",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1632,8 +1332,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "9",
-                "lon": -83.07316453368985,
-                "lat": 42.42890395259667,
+                "lon": -83.07312028345959,
+                "lat": 42.4285535485959,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1646,8 +1346,7 @@
                     "details.facilities"
                 ],
                 "website": "https://www.koreanbites.com",
-                "opening_hours": "24/7",
-                "opening_hours_covid19": "09:00-22:00",
+                "opening_hours": "09:00-21:00",
                 "branch": "Joseph Campau Avenue",
                 "contact": {
                     "phone": "+1 212-868-1180",
@@ -1661,7 +1360,7 @@
                     "cuisine": "korean"
                 },
                 "place_id": "5192b64ce11c7f52c0591ba5f51db25f4440f00103f901e2dd77410100000092030847616d6d65656f6b",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1678,8 +1377,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "5",
-                "lon": -83.07272179743859,
-                "lat": 42.42901094517424,
+                "lon": -83.0727205846078,
+                "lat": 42.430451488104865,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1692,7 +1391,7 @@
                     "details.facilities"
                 ],
                 "website": "https://www.tofuhouse.com",
-                "opening_hours": "Su-Th 10:30-24:00; Fr, Sa 10:30-03:00",
+                "opening_hours": "10:30-19:00",
                 "branch": "Joseph Campau Avenue",
                 "contact": {
                     "phone": "+1 212-967-1900"
@@ -1705,7 +1404,7 @@
                     "cuisine": "korean"
                 },
                 "place_id": "51f237eb9d1b7f52c059bbc2d160ae5f4440f00103f90159bd7ca10000000092030e42434420546f667520486f757365",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1722,8 +1421,8 @@
                 "commercial": "Korea Town",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "16",
-                "lon": -83.07329060601026,
-                "lat": 42.42738237408185,
+                "lon": -83.07327442202144,
+                "lat": 42.42916272996616,
                 "categories": [
                     "service",
                     "service.financial",
@@ -1741,7 +1440,7 @@
                     "phone": "+1 212-279-2790"
                 },
                 "place_id": "519ed2776d257f52c05974a04225ae5f4440f00103f901d8d793350100000092030c42616e6b206f6620486f7065",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1758,8 +1457,8 @@
                 "commercial": "Korea Town",
                 "street": "East Robinwood Street",
                 "housenumber": "12",
-                "lon": -83.07314546607167,
-                "lat": 42.42964022651038,
+                "lon": -83.07243945330707,
+                "lat": 42.427986559686225,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1772,7 +1471,7 @@
                     "details.facilities"
                 ],
                 "website": "http://urbanfusion.com/",
-                "opening_hours": "Mo-We 09:30-21:00; Fr-Su 09:30-22:00",
+                "opening_hours": "Mo-We 09:30-21:00; Fr-Su 09:30-21:30",
                 "contact": {
                     "phone": "+1 212-244-1115",
                     "email": "info@urbanfusion.com",
@@ -1787,7 +1486,7 @@
                     "cuisine": "korean"
                 },
                 "place_id": "510cc3ec0a227f52c05969e4531cac5f4440f00103f90150e2680c01000000920308576f6f72696a6970",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1800,30 +1499,34 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Tina's Cuban Cuisine",
+                "name": "HealthGuard Pharmacy",
                 "street": "Revere Avenue",
                 "housenumber": "179",
-                "lon": -83.06805283976652,
-                "lat": 42.432530261366566,
+                "lon": -83.06796287133355,
+                "lat": 42.43216601151189,
                 "categories": [
-                    "catering",
-                    "catering.fast_food"
+                    "healthcare",
+                    "healthcare.pharmacy"
                 ],
                 "details": [
                     "details",
-                    "details.catering",
+                    "details.pharmacy",
                     "details.contact"
                 ],
-                "website": "https://tinascubancuisine.com",
+                "website": "https://healthguardpharmacy.com",
                 "opening_hours": "Mo-Fr 08:00-20:00",
                 "contact": {
-                    "phone": "+1-212-679-3500"
+                    "phone": "+1-212-679-4000"
                 },
-                "catering": {
-                    "cuisine": "cuban"
+                "pharmacy": {
+                    "services": [
+                        "prescription",
+                        "over_the_counter",
+                        "consultation"
+                    ]
                 },
-                "place_id": "5165fed137e97e52c059af2088a3ab5f4440f00103f90126d661350100000092031454696e61277320437562616e2043756973696e65",
-                "city": "Detroit"
+                "place_id": "5165fed137e97e52c059af2088a3ab5f4440f00103f90126d6613501000000920314506861726d61637920506c7573",
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1838,8 +1541,8 @@
             "properties": {
                 "name": "Silver Creek",
                 "street": "Gallagher Street",
-                "lon": -83.0694657044584,
-                "lat": 42.427667119797704,
+                "lon": -83.06972936097046,
+                "lat": 42.42809818838508,
                 "categories": [
                     "catering",
                     "catering.pub"
@@ -1858,7 +1561,7 @@
                     "cuisine": "irish"
                 },
                 "place_id": "517f19e7cafb7e52c059bc8afdcba45f4440f00103f901326eef200100000092030f4e656c6c79205370696c6c616e6573",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1874,8 +1577,8 @@
                 "name": "House of Sushi",
                 "street": "Joseph Campau Avenue",
                 "housenumber": "6",
-                "lon": -83.0726702188315,
-                "lat": 42.43032080308578,
+                "lon": -83.07259275771924,
+                "lat": 42.428467366128835,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1896,7 +1599,7 @@
                     "details.payment"
                 ],
                 "website": "http://housesushi.com",
-                "opening_hours": "Mo-Su 11:45-15:30,16:00-22:00",
+                "opening_hours": "Mo-Su 11:45-15:30,16:00-21:00",
                 "name_international": {
                     "en": "House of Sushi Japanese Buffet"
                 },
@@ -1916,7 +1619,7 @@
                     "reservation": "required"
                 },
                 "place_id": "5126d75e55077f52c059d5ee56fc955f4440f00103f901e9d05f0c0100000092030749636869556d69",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1932,8 +1635,8 @@
                 "name": "Wolfgang\u2019s Steakhouse",
                 "street": "Brinker Avenue",
                 "housenumber": "4",
-                "lon": -83.07459613576883,
-                "lat": 42.42810002733612,
+                "lon": -83.07084373651122,
+                "lat": 42.428488166360374,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -1945,7 +1648,7 @@
                     "details.wiki_and_media"
                 ],
                 "website": "https://wolfgangssteakhouse.net/",
-                "opening_hours": "Mo-Su 12:00-22:30",
+                "opening_hours": "Mo-Su 12:00-21:30",
                 "contact": {
                     "phone": "+12128893369"
                 },
@@ -1953,7 +1656,7 @@
                     "wikidata": "Q20979453"
                 },
                 "place_id": "516c82b927d97e52c0590feb9d81915f4440f00103f901c534795701000000920317576f6c6667616e67e280997320537465616b686f757365",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -1969,8 +1672,8 @@
                 "name": "McDonald's",
                 "street": "Klinger Street",
                 "housenumber": "809",
-                "lon": -83.06854262287646,
-                "lat": 42.43131800085741,
+                "lon": -83.0685476866655,
+                "lat": 42.429022601696765,
                 "categories": [
                     "building",
                     "building.catering",
@@ -2021,7 +1724,7 @@
                     "height": 7.5
                 },
                 "place_id": "5130fa135b6b7f52c0591c6eca317e5f4440f00102f9011861ca0e0000000092030a4d63446f6e616c642773",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2037,8 +1740,8 @@
                 "name": "Bank of America",
                 "street": "Klinger Street",
                 "housenumber": "812",
-                "lon": -83.06858489265508,
-                "lat": 42.42933549514528,
+                "lon": -83.06856957050475,
+                "lat": 42.43273321160957,
                 "categories": [
                     "service",
                     "service.financial",
@@ -2058,7 +1761,7 @@
                     "phone": "+1-212-684-1541"
                 },
                 "place_id": "516d32aa0c637f52c05948215008785f4440f00103f90157563ba10000000092030f42616e6b206f6620416d6572696361",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2074,8 +1777,8 @@
                 "name": "Blank Slate Coffee + Kitchen",
                 "street": "Revere Avenue",
                 "housenumber": "121",
-                "lon": -83.06782480000385,
-                "lat": 42.428275073733296,
+                "lon": -83.06814704884171,
+                "lat": 42.42968201591479,
                 "categories": [
                     "catering",
                     "catering.cafe",
@@ -2117,7 +1820,7 @@
                     "industry": "caterer"
                 },
                 "place_id": "51a070d1240c7f52c05916c411c0725f4440f00103f901ea2e7da10000000092031c426c616e6b20536c61746520436f66666565202b204b69746368656e",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2133,8 +1836,8 @@
                 "name": "Valley Bank",
                 "street": "East Seven Mile Road",
                 "housenumber": "279",
-                "lon": -83.07144886691158,
-                "lat": 42.433145282219996,
+                "lon": -83.07549887827683,
+                "lat": 42.432886483381765,
                 "categories": [
                     "service",
                     "service.financial",
@@ -2150,7 +1853,7 @@
                     "phone": "+1-212-481-6109"
                 },
                 "place_id": "51dd167662207f52c0594c3930d5715f4440f00103f901c8ff92ef0000000092030b56616c6c65792042616e6b",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2166,8 +1869,8 @@
                 "name": "American Academy of Dramatic Arts",
                 "street": "Revere Avenue",
                 "housenumber": "120",
-                "lon": -83.0682617294921,
-                "lat": 42.430102526350026,
+                "lon": -83.06776237551314,
+                "lat": 42.42854014851207,
                 "categories": [
                     "education",
                     "education.college"
@@ -2189,7 +1892,7 @@
                     "wikipedia": "en:American Academy of Dramatic Arts"
                 },
                 "place_id": "515059a890067f52c0599f1b210e6d5f4440f00103f90115dd09c800000000920321416d65726963616e2041636164656d79206f66204472616d617469632041727473",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2205,8 +1908,8 @@
                 "name": "Citizens Bank",
                 "street": "Klinger Street",
                 "housenumber": "800",
-                "lon": -83.06860836944317,
-                "lat": 42.43258532918807,
+                "lon": -83.06855909107023,
+                "lat": 42.431122004013886,
                 "categories": [
                     "service",
                     "service.financial",
@@ -2229,7 +1932,7 @@
                     "phone": "+1-212-453-9800"
                 },
                 "place_id": "5195e4caea677f52c059c68c99aa6a5f4440f00103f90156563ba10000000092030d436974697a656e732042616e6b",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2245,8 +1948,8 @@
                 "name": "Dig",
                 "street": "Charest Street",
                 "housenumber": "1178",
-                "lon": -83.07079965641107,
-                "lat": 42.43205539498421,
+                "lon": -83.07105661070759,
+                "lat": 42.429699335676574,
                 "categories": [
                     "catering",
                     "catering.fast_food"
@@ -2276,7 +1979,7 @@
                     "cuisine": "regional"
                 },
                 "place_id": "51cb5bbfaa447f52c0595853f19b675f4440f00103f9019a9f58a100000000920303446967",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2289,42 +1992,46 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "The Crooked Knife",
+                "name": "Pixel Arcade",
                 "street": "Angling Street",
                 "housenumber": "29",
-                "lon": -83.07483779156247,
-                "lat": 42.42871038402301,
+                "lon": -83.07521932991533,
+                "lat": 42.43192110732621,
                 "categories": [
-                    "catering",
-                    "catering.restaurant",
-                    "catering.restaurant.american"
+                    "entertainment",
+                    "entertainment.arcade"
                 ],
                 "details": [
                     "details",
-                    "details.catering",
+                    "details.entertainment",
                     "details.contact",
                     "details.facilities",
                     "details.payment"
                 ],
-                "website": "http://www.thecrookedknife.com/",
-                "opening_hours": "Mo-Su 11:00-04:00",
+                "website": "http://www.pixelarcade.com/",
+                "opening_hours": "Mo-Su 10:00-02:00",
                 "contact": {
-                    "phone": "+1-212-696-2593"
+                    "phone": "+1-212-555-1234"
                 },
                 "facilities": {
                     "toilets": true,
-                    "takeaway": true
+                    "wheelchair_access": true,
+                    "food_and_drink": true,
+                    "parking": false
                 },
                 "payment_options": {
                     "cash": true,
-                    "credit_cards": true
+                    "credit_cards": true,
+                    "digital_wallets": true
                 },
-                "catering": {
-                    "cuisine": "irish;coffee",
-                    "reservation": "required"
+                "arcade": {
+                    "classic_games": true,
+                    "modern_games": true,
+                    "multiplayer_zone": true,
+                    "virtual_reality": true
                 },
-                "place_id": "5113a57334fd7e52c0596e85c5b35f5f4440f00103f90111dd09c8000000009203115468652043726f6f6b6564204b6e696665",
-                "city": "Detroit"
+                "place_id": "5113a57334fd7e52c0596e85c5b35f5f4440f00103f90111dd09c800000000920311507869656c20417263616465",
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2337,31 +2044,24 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "on",
+                "name": "Starlight Cinema",
                 "street": "Revere Avenue",
                 "housenumber": "110",
-                "lon": -83.0677223024376,
-                "lat": 42.42784188852657,
+                "lon": -83.06747912677515,
+                "lat": 42.43179860507022,
                 "categories": [
-                    "building",
-                    "building.catering",
-                    "catering",
-                    "catering.restaurant",
-                    "catering.restaurant.korean"
+                    "entertainment",
+                    "entertainment.cinema"
                 ],
                 "details": [
                     "details",
                     "details.building",
-                    "details.catering",
                     "details.contact"
                 ],
-                "website": "https://www.ondetroit.net/",
-                "opening_hours": "12:00-14:15,18:00-23:00",
+                "website": "https://www.starlightcinema.com/",
+                "opening_hours": "Mo-Su 10:00-23:00",
                 "contact": {
                     "phone": "(917) 261-4326"
-                },
-                "catering": {
-                    "cuisine": "korean"
                 },
                 "building": {
                     "levels": 17,
@@ -2373,7 +2073,7 @@
                     }
                 },
                 "place_id": "51ea6976930e7f52c0590af1029c5e5f4440f00102f9011f3acc0f000000009203026f6e",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2389,8 +2089,8 @@
                 "name": "Prosek",
                 "street": "Revere Avenue",
                 "housenumber": "105",
-                "lon": -83.06816853133141,
-                "lat": 42.4310441575582,
+                "lon": -83.06820256021662,
+                "lat": 42.42878047209071,
                 "categories": [
                     "office",
                     "office.company"
@@ -2405,7 +2105,7 @@
                     "phone": "+1-212-279-3115"
                 },
                 "place_id": "5120657a78057f52c05945b663505c5f4440f00103f90146d63d4d0100000092030650726f73656b",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2421,8 +2121,8 @@
                 "name": "Mondo",
                 "street": "Revere Avenue",
                 "housenumber": "102",
-                "lon": -83.06793625734247,
-                "lat": 42.42750536009962,
+                "lon": -83.06748752365633,
+                "lat": 42.42963432176301,
                 "categories": [
                     "office",
                     "office.employment_agency"
@@ -2437,7 +2137,7 @@
                     "phone": "+1-212-257-5111"
                 },
                 "place_id": "517beaa2320f7f52c059d8c961a7585f4440f00103f90148ec354d010000009203054d6f6e646f",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2453,8 +2153,8 @@
                 "name": "Nomad",
                 "street": "Charest Street",
                 "housenumber": "1170",
-                "lon": -83.07113702524265,
-                "lat": 42.430488164512845,
+                "lon": -83.07111905646582,
+                "lat": 42.43252489048422,
                 "categories": [
                     "catering",
                     "catering.restaurant",
@@ -2466,7 +2166,7 @@
                     "details.contact"
                 ],
                 "website": "https://www.thenomadhotel.com/detroit/dining",
-                "opening_hours": "Mo-Su 09:00-22:00",
+                "opening_hours": "Mo-Su 09:00-21:30",
                 "contact": {
                     "phone": "+1-347-472-5660"
                 },
@@ -2474,7 +2174,7 @@
                     "cuisine": "fine_dining"
                 },
                 "place_id": "5141751838457f52c05952146992585f4440f00103f9012e887e2e010000009203054e6f6d6164",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2490,8 +2190,8 @@
                 "name": "PureLeaf",
                 "street": "Charest Street",
                 "housenumber": "1164",
-                "lon": -83.07086959356705,
-                "lat": 42.43252540703824,
+                "lon": -83.07058185214296,
+                "lat": 42.43119400311946,
                 "categories": [
                     "catering",
                     "catering.fast_food",
@@ -2505,7 +2205,7 @@
                     "details.facilities"
                 ],
                 "website": "https://order.pureleaf.com",
-                "opening_hours": "Mo-Su 10:30-22:30",
+                "opening_hours": "Mo-Su 10:30-20:30",
                 "brand": "PureLeaf",
                 "brand_details": {
                     "wikidata": "Q18636413"
@@ -2525,7 +2225,7 @@
                     }
                 },
                 "place_id": "5142ff4ea4457f52c059e036e5cb555f4440f00103f9015de84e000100000092030a5377656574677265656e",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2541,8 +2241,8 @@
                 "name": "The Lincoln Detroit",
                 "street": "Klinger Street",
                 "housenumber": "29",
-                "lon": -83.0726848114879,
-                "lat": 42.428082920212425,
+                "lon": -83.06873955436694,
+                "lat": 42.428305207856106,
                 "categories": [
                     "building",
                     "building.accommodation",
@@ -2579,7 +2279,7 @@
                     "height": 49
                 },
                 "place_id": "51e40d6031017f52c059636cc49e515f4440f00102f901e830cc0f000000009203145468652052656462757279204e657720596f726b",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2592,43 +2292,46 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "The Plaza",
+                "name": "The Plaza Cinema",
                 "quarter": "Midtown",
                 "street": "East Seven Mile Road",
                 "housenumber": "768",
-                "lon": -83.06812071309086,
-                "lat": 42.43306985816199,
+                "lon": -83.07493727217161,
+                "lat": 42.433110000573535,
                 "categories": [
-                    "accommodation",
-                    "accommodation.hotel",
+                    "entertainment",
+                    "entertainment.cinema",
                     "building",
-                    "building.accommodation"
+                    "building.entertainment"
                 ],
                 "details": [
                     "details",
                     "details.building",
                     "details.contact",
-                    "details.wiki_and_media"
+                    "details.facilities"
                 ],
-                "website": "https://www.theplazadetroit.com",
-                "operator": "Fairmont Hotels and Resorts",
-                "ref_other": {
-                    "nrhp": 78001878
-                },
+                "website": "https://www.theplazacinema.com",
+                "operator": "Plaza Entertainment Group",
                 "contact": {
                     "phone": "+1 212-759-3000"
                 },
-                "wiki_and_media": {
-                    "wikidata": "Q1066676",
-                    "wikipedia": "en:Plaza Hotel"
+                "facilities": {
+                    "toilets": true,
+                    "snacks": true,
+                    "wheelchair_access": true
+                },
+                "cinema": {
+                    "number_of_screens": 12,
+                    "imax": true,
+                    "3d": true
                 },
                 "building": {
-                    "type": "hotel",
-                    "start_date": 1907,
+                    "type": "cinema",
+                    "start_date": 1930,
                     "height": 85
                 },
-                "place_id": "518f84841c5e7e52c0591a3604d2d9614440f00101f901351a95000000000092030954686520506c617a61",
-                "city": "Detroit"
+                "place_id": "518f84841c5e7e52c0591a3604d2d9614440f00101f901351a95000000000092030954686520506c617a612043696e656d61",
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2641,11 +2344,11 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Grand Vista Hotel",
+                "name": "Sunset Hotel",
                 "street": "Maine Street",
                 "housenumber": "305",
-                "lon": -83.07571801599877,
-                "lat": 42.429954753547186,
+                "lon": -83.07575494817293,
+                "lat": 42.43167241700968,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2664,21 +2367,17 @@
                     "details.payment",
                     "details.wiki_and_media"
                 ],
-                "website": "https://www.grandvista.com",
+                "website": "https://www.sunset.com",
                 "opening_hours": "24/7",
-                "brand": "RIU",
-                "brand_details": {
-                    "wikidata": "Q2005557"
-                },
-                "operator": "Grand Vista",
+                "operator": "Sunset Hotel",
                 "branch": "Maine Street",
-                "description": "Located a few steps from Conant Gardens, the Grand Vista Hotel offers its guests many services and facilities such as modern rooms, gym, meeting rooms, free Wi-Fi, restaurant and bar.",
+                "description": "Located a few steps from Conant Gardens, the Sunset Hotel offers its guests many services and facilities such as modern rooms, meeting rooms, free Wi-Fi, restaurant and bar.",
                 "contact": {
                     "phone": "+1-646-864-1100",
-                    "email": "hotel.plazadetroit@riu.com"
+                    "email": "hotel@sunset.com"
                 },
                 "facilities": {
-                    "internet_access": true,
+                    "internet_access": "free Wi-Fi",
                     "wheelchair": true,
                     "smoking": false,
                     "air_conditioning": true
@@ -2695,7 +2394,7 @@
                     "type": "hotel"
                 },
                 "place_id": "518c5da4803e7f52c059c9ace35e4f614440f00102f9015a1d31110000000092030f52697520506c617a6120486f74656c",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2708,11 +2407,11 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hotel Plaza",
+                "name": "Sheraton Commander Grand Lake Hotel",
                 "street": "Mitchell Street",
                 "housenumber": "145",
-                "lon": -83.07208543984893,
-                "lat": 42.42930814668804,
+                "lon": -83.07177038277032,
+                "lat": 42.42871495899738,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2731,20 +2430,20 @@
                     "details.payment",
                     "details.wiki_and_media"
                 ],
-                "website": "https://www.riu.com",
+                "website": "https://www.sheraton.com",
                 "opening_hours": "24/7",
-                "brand": "RIU",
+                "brand": "Sheraton",
                 "brand_details": {
                     "wikidata": "Q2005557"
                 },
-                "operator": "RIU Hotels & Resorts",
+                "operator": "Sheraton Hotels & Resorts",
                 "branch": "Mitchell Street",
                 "contact": {
                     "phone": "+1 212-706-3170",
-                    "email": "hotel.plazadetroit@riu.com"
+                    "email": "hotel@sheraton.com"
                 },
                 "facilities": {
-                    "internet_access": true,
+                    "internet_access": "free Wi-Fi",
                     "wheelchair": true,
                     "smoking": true,
                     "air_conditioning": true
@@ -2761,7 +2460,7 @@
                     "reservation": "required"
                 },
                 "place_id": "51a3b1abf4ef7e52c05909e5d19824614440f00102f9019171dd0f0000000092030f486f74656c2052697520506c617a61",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2777,8 +2476,8 @@
                 "name": "Waldorf Astoria",
                 "street": "East Grixdale Avenue",
                 "housenumber": "301",
-                "lon": -83.06891432220993,
-                "lat": 42.42834719698449,
+                "lon": -83.07136927514486,
+                "lat": 42.42830651170665,
                 "categories": [
                     "accommodation",
                     "accommodation.hotel",
@@ -2817,11 +2516,12 @@
                     "rooms": 375
                 },
                 "building": {
+                    "type": "hotel",
                     "start_date": 1931,
                     "architecture": "art_deco"
                 },
                 "place_id": "511a08a28e4b7e52c0590876bb0ed5604440f00102f9014d0217050000000092030f57616c646f7266204173746f726961",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2837,8 +2537,8 @@
                 "name": "Harrison & Co.",
                 "street": "Klinger Street",
                 "housenumber": "917",
-                "lon": -83.06856624535513,
-                "lat": 42.42751479855027,
+                "lon": -83.06856643925123,
+                "lat": 42.42941749978756,
                 "categories": [
                     "commercial",
                     "commercial.supermarket",
@@ -2874,7 +2574,7 @@
                     "type": "supermarket"
                 },
                 "place_id": "516a3d320c0e7f52c059e47b82cf6a624440f00103f90124267d520000000092030f4d6f72746f6e2057696c6c69616d73",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2891,8 +2591,8 @@
                 "ref": "columbuscircle",
                 "street": "East Grixdale Avenue",
                 "housenumber": "10",
-                "lon": -83.06659151908525,
-                "lat": 42.42813609713748,
+                "lon": -83.06645024267746,
+                "lat": 42.42632582320826,
                 "categories": [
                     "commercial",
                     "commercial.supermarket",
@@ -2906,7 +2606,7 @@
                     "details.facilities"
                 ],
                 "website": "https://www.wholefoodsmarket.com/stores/columbuscircle",
-                "opening_hours": "Mo-Su 07:00-23:00",
+                "opening_hours": "Mo-Su 07:00-21:00",
                 "brand": "Whole Foods Market",
                 "brand_details": {
                     "wikidata": "Q1809448"
@@ -2922,7 +2622,7 @@
                     "type": "supermarket"
                 },
                 "place_id": "513d079623e47e52c0595c7883ce5a624440f00103f901d68e933b0000000092031257686f6c6520466f6f6473204d61726b6574",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
@@ -2938,8 +2638,8 @@
                 "name": "Jewelry Shopping Mall",
                 "street": "Angling Street",
                 "housenumber": "44",
-                "lon": -83.07525467451555,
-                "lat": 42.428041169828674,
+                "lon": -83.07462584169383,
+                "lat": 42.4282759220269,
                 "categories": [
                     "commercial.marketplace"
                 ],
@@ -2948,13 +2648,13 @@
                     "details.contact"
                 ],
                 "website": "http://www.igtdetroit.com/mall/visiting-the-mall",
-                "opening_hours": "Mo-Sa 09:00-18:00; Nov Th[4] - Dec 25 Mo-Sa 08:30-19:30; Nov Th[4] - Dec 25 Su 10:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-18:00",
                 "contact": {
                     "phone": "+1-212-575-1115",
                     "fax": "+1-212-575-1116"
                 },
                 "place_id": "5108b61ba8c27e52c059a495e59bed604440f00102f90147894f4500000000920319494754204a6577656c72792053686f7070696e67204d616c6c",
-                "city": "Detroit"
+                "city": "Detroit, Conant Street"
             },
             "geometry": {
                 "type": "Point",
